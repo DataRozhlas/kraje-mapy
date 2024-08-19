@@ -27,7 +27,7 @@ function ComboBox({ kraj, setKraj }: { kraj: string, setKraj: Function }) {
                     variant="outline"
                     role="combobox"
                     aria-expanded={open}
-                    className="w-[300px] justify-between"
+                    className="w-[300px] justify-between text-xl font-semibold"
                 >
                     {kraj
                         ? krajs.find((item) => item.id === kraj)?.name

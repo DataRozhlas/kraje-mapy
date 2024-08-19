@@ -1,31 +1,35 @@
 [
   {
-    "id": "CZ010",
-    "name": "Hlavní město Praha"
-  },
-  {
     "id": "CZ020",
     "name": "Středočeský kraj"
   },
   {
-    "id": "CZ031",
-    "name": "Jihočeský kraj"
+    "id": "CZ064",
+    "name": "Jihomoravský kraj"
   },
   {
-    "id": "CZ032",
-    "name": "Plzeňský kraj"
-  },
-  {
-    "id": "CZ041",
-    "name": "Karlovarský kraj"
+    "id": "CZ080",
+    "name": "Moravskoslezský kraj"
   },
   {
     "id": "CZ042",
     "name": "Ústecký kraj"
   },
   {
-    "id": "CZ051",
-    "name": "Liberecký kraj"
+    "id": "CZ031",
+    "name": "Jihočeský kraj"
+  },
+  {
+    "id": "CZ071",
+    "name": "Olomoucký kraj"
+  },
+  {
+    "id": "CZ032",
+    "name": "Plzeňský kraj"
+  },
+  {
+    "id": "CZ072",
+    "name": "Zlínský kraj"
   },
   {
     "id": "CZ052",
@@ -40,19 +44,11 @@
     "name": "Kraj Vysočina"
   },
   {
-    "id": "CZ064",
-    "name": "Jihomoravský kraj"
+    "id": "CZ051",
+    "name": "Liberecký kraj"
   },
   {
-    "id": "CZ071",
-    "name": "Olomoucký kraj"
-  },
-  {
-    "id": "CZ072",
-    "name": "Zlínský kraj"
-  },
-  {
-    "id": "CZ080",
-    "name": "Moravskoslezský kraj"
+    "id": "CZ041",
+    "name": "Karlovarský kraj"
   }
 ]
