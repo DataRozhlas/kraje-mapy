@@ -1,0 +1,207 @@
+﻿Kód;Název ORP;Kód Kraje (VÚSC);Název Kraje (VÚSC);Kód Okresu;Název Okresu
+19;Hlavní město Praha;19;Hlavní město Praha;;
+302;České Budějovice;35;Jihočeský kraj;3301;České Budějovice
+281;Trhové Sviny;35;Jihočeský kraj;3301;České Budějovice
+299;Týn nad Vltavou;35;Jihočeský kraj;3301;České Budějovice
+329;Český Krumlov;35;Jihočeský kraj;3302;Český Krumlov
+311;Kaplice;35;Jihočeský kraj;3302;Český Krumlov
+337;Dačice;35;Jihočeský kraj;3303;Jindřichův Hradec
+345;Jindřichův Hradec;35;Jihočeský kraj;3303;Jindřichův Hradec
+353;Třeboň;35;Jihočeský kraj;3303;Jindřichův Hradec
+396;Milevsko;35;Jihočeský kraj;3305;Písek
+400;Písek;35;Jihočeský kraj;3305;Písek
+418;Prachatice;35;Jihočeský kraj;3306;Prachatice
+426;Vimperk;35;Jihočeský kraj;3306;Prachatice
+434;Blatná;35;Jihočeský kraj;3307;Strakonice
+442;Strakonice;35;Jihočeský kraj;3307;Strakonice
+451;Vodňany;35;Jihočeský kraj;3307;Strakonice
+469;Soběslav;35;Jihočeský kraj;3308;Tábor
+477;Tábor;35;Jihočeský kraj;3308;Tábor
+1295;Blansko;116;Jihomoravský kraj;3701;Blansko
+1309;Boskovice;116;Jihomoravský kraj;3701;Blansko
+1317;Brno;116;Jihomoravský kraj;3702;Brno-město
+1325;Ivančice;116;Jihomoravský kraj;3703;Brno-venkov
+1333;Kuřim;116;Jihomoravský kraj;3703;Brno-venkov
+1414;Pohořelice;116;Jihomoravský kraj;3703;Brno-venkov
+1341;Rosice;116;Jihomoravský kraj;3703;Brno-venkov
+1368;Šlapanice;116;Jihomoravský kraj;3703;Brno-venkov
+1350;Tišnov;116;Jihomoravský kraj;3703;Brno-venkov
+1376;Židlochovice;116;Jihomoravský kraj;3703;Brno-venkov
+1384;Břeclav;116;Jihomoravský kraj;3704;Břeclav
+1392;Hustopeče;116;Jihomoravský kraj;3704;Břeclav
+1406;Mikulov;116;Jihomoravský kraj;3704;Břeclav
+1473;Hodonín;116;Jihomoravský kraj;3706;Hodonín
+1481;Kyjov;116;Jihomoravský kraj;3706;Hodonín
+1490;Veselí nad Moravou;116;Jihomoravský kraj;3706;Hodonín
+1627;Bučovice;116;Jihomoravský kraj;3712;Vyškov
+1635;Slavkov u Brna;116;Jihomoravský kraj;3712;Vyškov
+1643;Vyškov;116;Jihomoravský kraj;3712;Vyškov
+1651;Moravský Krumlov;116;Jihomoravský kraj;3713;Znojmo
+1660;Znojmo;116;Jihomoravský kraj;3713;Znojmo
+507;Aš;51;Karlovarský kraj;3402;Cheb
+515;Cheb;51;Karlovarský kraj;3402;Cheb
+523;Mariánské Lázně;51;Karlovarský kraj;3402;Cheb
+531;Karlovy Vary;51;Karlovarský kraj;3403;Karlovy Vary
+540;Ostrov;51;Karlovarský kraj;3403;Karlovy Vary
+663;Kraslice;51;Karlovarský kraj;3409;Sokolov
+671;Sokolov;51;Karlovarský kraj;3409;Sokolov
+949;Havlíčkův Brod;108;Kraj Vysočina;3601;Havlíčkův Brod
+931;Chotěboř;108;Kraj Vysočina;3601;Havlíčkův Brod
+957;Světlá nad Sázavou;108;Kraj Vysočina;3601;Havlíčkův Brod
+1503;Jihlava;108;Kraj Vysočina;3707;Jihlava
+1511;Telč;108;Kraj Vysočina;3707;Jihlava
+361;Humpolec;108;Kraj Vysočina;3304;Pelhřimov
+370;Pacov;108;Kraj Vysočina;3304;Pelhřimov
+388;Pelhřimov;108;Kraj Vysočina;3304;Pelhřimov
+1571;Moravské Budějovice;108;Kraj Vysočina;3710;Třebíč
+1589;Náměšť nad Oslavou;108;Kraj Vysočina;3710;Třebíč
+1597;Třebíč;108;Kraj Vysočina;3710;Třebíč
+1678;Bystřice nad Pernštejnem;108;Kraj Vysočina;3714;Žďár nad Sázavou
+1686;Nové Město na Moravě;108;Kraj Vysočina;3714;Žďár nad Sázavou
+1694;Velké Meziříčí;108;Kraj Vysočina;3714;Žďár nad Sázavou
+1708;Žďár nad Sázavou;108;Kraj Vysočina;3714;Žďár nad Sázavou
+965;Hradec Králové;86;Královéhradecký kraj;3602;Hradec Králové
+973;Nový Bydžov;86;Královéhradecký kraj;3602;Hradec Králové
+1007;Hořice;86;Královéhradecký kraj;3604;Jičín
+1015;Jičín;86;Královéhradecký kraj;3604;Jičín
+1023;Nová Paka;86;Královéhradecký kraj;3604;Jičín
+1031;Broumov;86;Královéhradecký kraj;3605;Náchod
+1040;Jaroměř;86;Královéhradecký kraj;3605;Náchod
+1066;Náchod;86;Královéhradecký kraj;3605;Náchod
+1058;Nové Město nad Metují;86;Královéhradecký kraj;3605;Náchod
+1104;Dobruška;86;Královéhradecký kraj;3607;Rychnov nad Kněžnou
+1112;Kostelec nad Orlicí;86;Královéhradecký kraj;3607;Rychnov nad Kněžnou
+1121;Rychnov nad Kněžnou;86;Královéhradecký kraj;3607;Rychnov nad Kněžnou
+1201;Dvůr Králové nad Labem;86;Královéhradecký kraj;3610;Trutnov
+1210;Trutnov;86;Královéhradecký kraj;3610;Trutnov
+1228;Vrchlabí;86;Královéhradecký kraj;3610;Trutnov
+710;Česká Lípa;78;Liberecký kraj;3501;Česká Lípa
+701;Nový Bor;78;Liberecký kraj;3501;Česká Lípa
+779;Jablonec nad Nisou;78;Liberecký kraj;3504;Jablonec nad Nisou
+787;Tanvald;78;Liberecký kraj;3504;Jablonec nad Nisou
+795;Železný Brod;78;Liberecký kraj;3504;Jablonec nad Nisou
+809;Frýdlant;78;Liberecký kraj;3505;Liberec
+817;Liberec;78;Liberecký kraj;3505;Liberec
+1139;Jilemnice;78;Liberecký kraj;3608;Semily
+1147;Semily;78;Liberecký kraj;3608;Semily
+1155;Turnov;78;Liberecký kraj;3608;Semily
+1716;Bruntál;132;Moravskoslezský kraj;3801;Bruntál
+1724;Krnov;132;Moravskoslezský kraj;3801;Bruntál
+1732;Rýmařov;132;Moravskoslezský kraj;3801;Bruntál
+1741;Frýdek-Místek;132;Moravskoslezský kraj;3802;Frýdek-Místek
+1759;Frýdlant nad Ostravicí;132;Moravskoslezský kraj;3802;Frýdek-Místek
+1767;Jablunkov;132;Moravskoslezský kraj;3802;Frýdek-Místek
+1775;Třinec;132;Moravskoslezský kraj;3802;Frýdek-Místek
+1783;Bohumín;132;Moravskoslezský kraj;3803;Karviná
+1821;Český Těšín;132;Moravskoslezský kraj;3803;Karviná
+1791;Havířov;132;Moravskoslezský kraj;3803;Karviná
+1805;Karviná;132;Moravskoslezský kraj;3803;Karviná
+1813;Orlová;132;Moravskoslezský kraj;3803;Karviná
+1830;Bílovec;132;Moravskoslezský kraj;3804;Nový Jičín
+1848;Frenštát pod Radhoštěm;132;Moravskoslezský kraj;3804;Nový Jičín
+1856;Kopřivnice;132;Moravskoslezský kraj;3804;Nový Jičín
+1864;Nový Jičín;132;Moravskoslezský kraj;3804;Nový Jičín
+1872;Odry;132;Moravskoslezský kraj;3804;Nový Jičín
+1929;Hlučín;132;Moravskoslezský kraj;3806;Opava
+1937;Kravaře;132;Moravskoslezský kraj;3806;Opava
+1945;Opava;132;Moravskoslezský kraj;3806;Opava
+1953;Vítkov;132;Moravskoslezský kraj;3806;Opava
+1961;Ostrava;132;Moravskoslezský kraj;3807;Ostrava-město
+2062;Jeseník;124;Olomoucký kraj;3811;Jeseník
+1881;Litovel;124;Olomoucký kraj;3805;Olomouc
+1899;Olomouc;124;Olomoucký kraj;3805;Olomouc
+1911;Šternberk;124;Olomoucký kraj;3805;Olomouc
+1902;Uničov;124;Olomoucký kraj;3805;Olomouc
+1554;Konice;124;Olomoucký kraj;3709;Prostějov
+1562;Prostějov;124;Olomoucký kraj;3709;Prostějov
+1970;Hranice;124;Olomoucký kraj;3808;Přerov
+1988;Lipník nad Bečvou;124;Olomoucký kraj;3808;Přerov
+1996;Přerov;124;Olomoucký kraj;3808;Přerov
+2003;Mohelnice;124;Olomoucký kraj;3809;Šumperk
+2020;Šumperk;124;Olomoucký kraj;3809;Šumperk
+2011;Zábřeh;124;Olomoucký kraj;3809;Šumperk
+990;Hlinsko;94;Pardubický kraj;3603;Chrudim
+981;Chrudim;94;Pardubický kraj;3603;Chrudim
+1074;Holice;94;Pardubický kraj;3606;Pardubice
+1082;Pardubice;94;Pardubický kraj;3606;Pardubice
+1091;Přelouč;94;Pardubický kraj;3606;Pardubice
+1163;Litomyšl;94;Pardubický kraj;3609;Svitavy
+1171;Moravská Třebová;94;Pardubický kraj;3609;Svitavy
+1180;Polička;94;Pardubický kraj;3609;Svitavy
+1198;Svitavy;94;Pardubický kraj;3609;Svitavy
+1279;Česká Třebová;94;Pardubický kraj;3611;Ústí nad Orlicí
+1236;Králíky;94;Pardubický kraj;3611;Ústí nad Orlicí
+1244;Lanškroun;94;Pardubický kraj;3611;Ústí nad Orlicí
+1287;Ústí nad Orlicí;94;Pardubický kraj;3611;Ústí nad Orlicí
+1252;Vysoké Mýto;94;Pardubický kraj;3611;Ústí nad Orlicí
+1261;Žamberk;94;Pardubický kraj;3611;Ústí nad Orlicí
+485;Domažlice;43;Plzeňský kraj;3401;Domažlice
+493;Horšovský Týn;43;Plzeňský kraj;3401;Domažlice
+558;Horažďovice;43;Plzeňský kraj;3404;Klatovy
+566;Klatovy;43;Plzeňský kraj;3404;Klatovy
+574;Sušice;43;Plzeňský kraj;3404;Klatovy
+591;Blovice;43;Plzeňský kraj;3406;Plzeň-jih
+604;Nepomuk;43;Plzeňský kraj;3406;Plzeň-jih
+612;Přeštice;43;Plzeňský kraj;3406;Plzeň-jih
+621;Stod;43;Plzeňský kraj;3406;Plzeň-jih
+582;Plzeň;43;Plzeňský kraj;3405;Plzeň-město
+639;Kralovice;43;Plzeňský kraj;3407;Plzeň-sever
+647;Nýřany;43;Plzeňský kraj;3407;Plzeň-sever
+655;Rokycany;43;Plzeňský kraj;3408;Rokycany
+680;Stříbro;43;Plzeňský kraj;3410;Tachov
+698;Tachov;43;Plzeňský kraj;3410;Tachov
+27;Benešov;27;Středočeský kraj;3201;Benešov
+35;Vlašim;27;Středočeský kraj;3201;Benešov
+43;Votice;27;Středočeský kraj;3201;Benešov
+51;Beroun;27;Středočeský kraj;3202;Beroun
+60;Hořovice;27;Středočeský kraj;3202;Beroun
+78;Kladno;27;Středočeský kraj;3203;Kladno
+86;Slaný;27;Středočeský kraj;3203;Kladno
+108;Český Brod;27;Středočeský kraj;3204;Kolín
+94;Kolín;27;Středočeský kraj;3204;Kolín
+124;Čáslav;27;Středočeský kraj;3205;Kutná Hora
+116;Kutná Hora;27;Středočeský kraj;3205;Kutná Hora
+132;Kralupy nad Vltavou;27;Středočeský kraj;3206;Mělník
+141;Mělník;27;Středočeský kraj;3206;Mělník
+159;Neratovice;27;Středočeský kraj;3206;Mělník
+167;Mladá Boleslav;27;Středočeský kraj;3207;Mladá Boleslav
+175;Mnichovo Hradiště;27;Středočeský kraj;3207;Mladá Boleslav
+183;Lysá nad Labem;27;Středočeský kraj;3208;Nymburk
+191;Nymburk;27;Středočeský kraj;3208;Nymburk
+205;Poděbrady;27;Středočeský kraj;3208;Nymburk
+213;Brandýs nad Labem-Stará Boleslav;27;Středočeský kraj;3209;Praha-východ
+221;Říčany;27;Středočeský kraj;3209;Praha-východ
+230;Černošice;27;Středočeský kraj;3210;Praha-západ
+248;Dobříš;27;Středočeský kraj;3211;Příbram
+256;Příbram;27;Středočeský kraj;3211;Příbram
+264;Sedlčany;27;Středočeský kraj;3211;Příbram
+272;Rakovník;27;Středočeský kraj;3212;Rakovník
+728;Děčín;60;Ústecký kraj;3502;Děčín
+736;Rumburk;60;Ústecký kraj;3502;Děčín
+744;Varnsdorf;60;Ústecký kraj;3502;Děčín
+752;Chomutov;60;Ústecký kraj;3503;Chomutov
+761;Kadaň;60;Ústecký kraj;3503;Chomutov
+825;Litoměřice;60;Ústecký kraj;3506;Litoměřice
+833;Lovosice;60;Ústecký kraj;3506;Litoměřice
+841;Roudnice nad Labem;60;Ústecký kraj;3506;Litoměřice
+850;Louny;60;Ústecký kraj;3507;Louny
+868;Podbořany;60;Ústecký kraj;3507;Louny
+876;Žatec;60;Ústecký kraj;3507;Louny
+884;Litvínov;60;Ústecký kraj;3508;Most
+892;Most;60;Ústecký kraj;3508;Most
+906;Bílina;60;Ústecký kraj;3509;Teplice
+914;Teplice;60;Ústecký kraj;3509;Teplice
+922;Ústí nad Labem;60;Ústecký kraj;3510;Ústí nad Labem
+1520;Bystřice pod Hostýnem;141;Zlínský kraj;3708;Kroměříž
+1538;Holešov;141;Zlínský kraj;3708;Kroměříž
+1546;Kroměříž;141;Zlínský kraj;3708;Kroměříž
+1601;Uherské Hradiště;141;Zlínský kraj;3711;Uherské Hradiště
+1619;Uherský Brod;141;Zlínský kraj;3711;Uherské Hradiště
+2038;Rožnov pod Radhoštěm;141;Zlínský kraj;3810;Vsetín
+2046;Valašské Meziříčí;141;Zlínský kraj;3810;Vsetín
+2054;Vsetín;141;Zlínský kraj;3810;Vsetín
+1422;Luhačovice;141;Zlínský kraj;3705;Zlín
+1431;Otrokovice;141;Zlínský kraj;3705;Zlín
+1449;Valašské Klobouky;141;Zlínský kraj;3705;Zlín
+1457;Vizovice;141;Zlínský kraj;3705;Zlín
+1465;Zlín;141;Zlínský kraj;3705;Zlín

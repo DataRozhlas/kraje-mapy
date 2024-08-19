@@ -1,0 +1,1032 @@
+[
+  {
+    "id": 19,
+    "name": "Praha",
+    "nuts": "CZ010"
+  },
+  {
+    "id": 302,
+    "name": "České Budějovice",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 281,
+    "name": "Trhové Sviny",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 299,
+    "name": "Týn nad Vltavou",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 329,
+    "name": "Český Krumlov",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 311,
+    "name": "Kaplice",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 337,
+    "name": "Dačice",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 345,
+    "name": "Jindřichův Hradec",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 353,
+    "name": "Třeboň",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 396,
+    "name": "Milevsko",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 400,
+    "name": "Písek",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 418,
+    "name": "Prachatice",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 426,
+    "name": "Vimperk",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 434,
+    "name": "Blatná",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 442,
+    "name": "Strakonice",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 451,
+    "name": "Vodňany",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 469,
+    "name": "Soběslav",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 477,
+    "name": "Tábor",
+    "nuts": "CZ031"
+  },
+  {
+    "id": 1295,
+    "name": "Blansko",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1309,
+    "name": "Boskovice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1317,
+    "name": "Brno",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1325,
+    "name": "Ivančice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1333,
+    "name": "Kuřim",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1414,
+    "name": "Pohořelice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1341,
+    "name": "Rosice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1368,
+    "name": "Šlapanice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1350,
+    "name": "Tišnov",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1376,
+    "name": "Židlochovice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1384,
+    "name": "Břeclav",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1392,
+    "name": "Hustopeče",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1406,
+    "name": "Mikulov",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1473,
+    "name": "Hodonín",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1481,
+    "name": "Kyjov",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1490,
+    "name": "Veselí nad Moravou",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1627,
+    "name": "Bučovice",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1635,
+    "name": "Slavkov u Brna",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1643,
+    "name": "Vyškov",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1651,
+    "name": "Moravský Krumlov",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 1660,
+    "name": "Znojmo",
+    "nuts": "CZ064"
+  },
+  {
+    "id": 507,
+    "name": "Aš",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 515,
+    "name": "Cheb",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 523,
+    "name": "Mariánské Lázně",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 531,
+    "name": "Karlovy Vary",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 540,
+    "name": "Ostrov",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 663,
+    "name": "Kraslice",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 671,
+    "name": "Sokolov",
+    "nuts": "CZ041"
+  },
+  {
+    "id": 949,
+    "name": "Havlíčkův Brod",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 931,
+    "name": "Chotěboř",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 957,
+    "name": "Světlá nad Sázavou",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1503,
+    "name": "Jihlava",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1511,
+    "name": "Telč",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 361,
+    "name": "Humpolec",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 370,
+    "name": "Pacov",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 388,
+    "name": "Pelhřimov",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1571,
+    "name": "Moravské Budějovice",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1589,
+    "name": "Náměšť nad Oslavou",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1597,
+    "name": "Třebíč",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1678,
+    "name": "Bystřice nad Pernštejnem",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1686,
+    "name": "Nové Město na Moravě",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1694,
+    "name": "Velké Meziříčí",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 1708,
+    "name": "Žďár nad Sázavou",
+    "nuts": "CZ063"
+  },
+  {
+    "id": 965,
+    "name": "Hradec Králové",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 973,
+    "name": "Nový Bydžov",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1007,
+    "name": "Hořice",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1015,
+    "name": "Jičín",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1023,
+    "name": "Nová Paka",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1031,
+    "name": "Broumov",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1040,
+    "name": "Jaroměř",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1066,
+    "name": "Náchod",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1058,
+    "name": "Nové Město nad Metují",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1104,
+    "name": "Dobruška",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1112,
+    "name": "Kostelec nad Orlicí",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1121,
+    "name": "Rychnov nad Kněžnou",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1201,
+    "name": "Dvůr Králové nad Labem",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1210,
+    "name": "Trutnov",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 1228,
+    "name": "Vrchlabí",
+    "nuts": "CZ052"
+  },
+  {
+    "id": 710,
+    "name": "Česká Lípa",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 701,
+    "name": "Nový Bor",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 779,
+    "name": "Jablonec nad Nisou",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 787,
+    "name": "Tanvald",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 795,
+    "name": "Železný Brod",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 809,
+    "name": "Frýdlant",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 817,
+    "name": "Liberec",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 1139,
+    "name": "Jilemnice",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 1147,
+    "name": "Semily",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 1155,
+    "name": "Turnov",
+    "nuts": "CZ051"
+  },
+  {
+    "id": 1716,
+    "name": "Bruntál",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1724,
+    "name": "Krnov",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1732,
+    "name": "Rýmařov",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1741,
+    "name": "Frýdek-Místek",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1759,
+    "name": "Frýdlant nad Ostravicí",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1767,
+    "name": "Jablunkov",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1775,
+    "name": "Třinec",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1783,
+    "name": "Bohumín",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1821,
+    "name": "Český Těšín",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1791,
+    "name": "Havířov",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1805,
+    "name": "Karviná",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1813,
+    "name": "Orlová",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1830,
+    "name": "Bílovec",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1848,
+    "name": "Frenštát pod Radhoštěm",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1856,
+    "name": "Kopřivnice",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1864,
+    "name": "Nový Jičín",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1872,
+    "name": "Odry",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1929,
+    "name": "Hlučín",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1937,
+    "name": "Kravaře",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1945,
+    "name": "Opava",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1953,
+    "name": "Vítkov",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 1961,
+    "name": "Ostrava",
+    "nuts": "CZ080"
+  },
+  {
+    "id": 2062,
+    "name": "Jeseník",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1881,
+    "name": "Litovel",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1899,
+    "name": "Olomouc",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1911,
+    "name": "Šternberk",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1902,
+    "name": "Uničov",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1554,
+    "name": "Konice",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1562,
+    "name": "Prostějov",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1970,
+    "name": "Hranice",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1988,
+    "name": "Lipník nad Bečvou",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 1996,
+    "name": "Přerov",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 2003,
+    "name": "Mohelnice",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 2020,
+    "name": "Šumperk",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 2011,
+    "name": "Zábřeh",
+    "nuts": "CZ071"
+  },
+  {
+    "id": 990,
+    "name": "Hlinsko",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 981,
+    "name": "Chrudim",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1074,
+    "name": "Holice",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1082,
+    "name": "Pardubice",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1091,
+    "name": "Přelouč",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1163,
+    "name": "Litomyšl",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1171,
+    "name": "Moravská Třebová",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1180,
+    "name": "Polička",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1198,
+    "name": "Svitavy",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1279,
+    "name": "Česká Třebová",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1236,
+    "name": "Králíky",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1244,
+    "name": "Lanškroun",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1287,
+    "name": "Ústí nad Orlicí",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1252,
+    "name": "Vysoké Mýto",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 1261,
+    "name": "Žamberk",
+    "nuts": "CZ053"
+  },
+  {
+    "id": 485,
+    "name": "Domažlice",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 493,
+    "name": "Horšovský Týn",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 558,
+    "name": "Horažďovice",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 566,
+    "name": "Klatovy",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 574,
+    "name": "Sušice",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 591,
+    "name": "Blovice",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 604,
+    "name": "Nepomuk",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 612,
+    "name": "Přeštice",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 621,
+    "name": "Stod",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 582,
+    "name": "Plzeň",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 639,
+    "name": "Kralovice",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 647,
+    "name": "Nýřany",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 655,
+    "name": "Rokycany",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 680,
+    "name": "Stříbro",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 698,
+    "name": "Tachov",
+    "nuts": "CZ032"
+  },
+  {
+    "id": 27,
+    "name": "Benešov",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 35,
+    "name": "Vlašim",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 43,
+    "name": "Votice",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 51,
+    "name": "Beroun",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 60,
+    "name": "Hořovice",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 78,
+    "name": "Kladno",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 86,
+    "name": "Slaný",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 108,
+    "name": "Český Brod",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 94,
+    "name": "Kolín",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 124,
+    "name": "Čáslav",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 116,
+    "name": "Kutná Hora",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 132,
+    "name": "Kralupy nad Vltavou",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 141,
+    "name": "Mělník",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 159,
+    "name": "Neratovice",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 167,
+    "name": "Mladá Boleslav",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 175,
+    "name": "Mnichovo Hradiště",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 183,
+    "name": "Lysá nad Labem",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 191,
+    "name": "Nymburk",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 205,
+    "name": "Poděbrady",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 213,
+    "name": "Brandýs nad Labem-Stará Boleslav",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 221,
+    "name": "Říčany",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 230,
+    "name": "Černošice",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 248,
+    "name": "Dobříš",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 256,
+    "name": "Příbram",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 264,
+    "name": "Sedlčany",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 272,
+    "name": "Rakovník",
+    "nuts": "CZ020"
+  },
+  {
+    "id": 728,
+    "name": "Děčín",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 736,
+    "name": "Rumburk",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 744,
+    "name": "Varnsdorf",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 752,
+    "name": "Chomutov",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 761,
+    "name": "Kadaň",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 825,
+    "name": "Litoměřice",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 833,
+    "name": "Lovosice",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 841,
+    "name": "Roudnice nad Labem",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 850,
+    "name": "Louny",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 868,
+    "name": "Podbořany",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 876,
+    "name": "Žatec",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 884,
+    "name": "Litvínov",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 892,
+    "name": "Most",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 906,
+    "name": "Bílina",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 914,
+    "name": "Teplice",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 922,
+    "name": "Ústí nad Labem",
+    "nuts": "CZ042"
+  },
+  {
+    "id": 1520,
+    "name": "Bystřice pod Hostýnem",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1538,
+    "name": "Holešov",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1546,
+    "name": "Kroměříž",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1601,
+    "name": "Uherské Hradiště",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1619,
+    "name": "Uherský Brod",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 2038,
+    "name": "Rožnov pod Radhoštěm",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 2046,
+    "name": "Valašské Meziříčí",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 2054,
+    "name": "Vsetín",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1422,
+    "name": "Luhačovice",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1431,
+    "name": "Otrokovice",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1449,
+    "name": "Valašské Klobouky",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1457,
+    "name": "Vizovice",
+    "nuts": "CZ072"
+  },
+  {
+    "id": 1465,
+    "name": "Zlín",
+    "nuts": "CZ072"
+  }
+]
