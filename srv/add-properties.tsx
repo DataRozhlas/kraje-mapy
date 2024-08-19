@@ -16,10 +16,8 @@ const joined = properties.map((property: any) => {
     };
 });
 
-// console.log(joined);
 
 
-topo.objects.tracts.geometries
 
 const newTopo = {
     ...topo,
@@ -27,7 +25,7 @@ const newTopo = {
         ...topo.objects,
         tracts: {
             ...topo.objects.tracts,
-            geometries: topo.objects.tracts.geometries.map((geometry: any) => {
+            geometries: topo.objects.tracts.geometries.filter((geometry: any) => geometry.properties.kraj_id !== "CZ010").map((geometry: any) => {
                 const orp = joined.find((join: any) => join.orp.id === Number(geometry.id));
                 if (!orp) {
                     console.log("ORP not found for geometry", geometry.id);
