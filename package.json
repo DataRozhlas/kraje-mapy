@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "production": "aws s3 sync dist s3://datarozhlas/kraje-mapy --delete --acl public-read && aws cloudfront create-invalidation --distribution-id E3ABKG4QXPTL3P --paths '/kraje-mapy/*'"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.1",
