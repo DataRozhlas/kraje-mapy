@@ -4,6 +4,9 @@ import { feature } from 'topojson-client';
 import { Topology } from "topojson-specification"
 import { FeatureCollection } from 'geojson';
 
+import { Tooltip, TooltipTrigger, TooltipContent, TooltipPortal, TooltipProvider } from "@/components/ui/tooltip";
+
+import orps from '../assets/orps.json';
 import topoData_ from '../assets/orp-enhanced.topo.json';
 
 const topoData: Topology = topoData_ as any;
@@ -27,7 +30,7 @@ function getMinMax(data: any[], property: string) {
 }
 
 
-function Map({ kraj, property }: { kraj: string, property: string }) {
+function Map({ kraj, property, activeTooltip, setTooltip, boundary }: { kraj: string, property: string, activeTooltip: string, setTooltip: Function, boundary: React.RefObject<HTMLDivElement> }) {
 
     const containerRef = useRef<HTMLDivElement>(null);
     const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
@@ -60,7 +63,7 @@ function Map({ kraj, property }: { kraj: string, property: string }) {
 
             const [[x0, y0], [x1, y1]] = d3.geoPath(projection).bounds(filteredGeodata);
             const aspectRatio = (y1 - y0) / (x1 - x0);
-            const height = Math.ceil(width * aspectRatio);
+            const height = Math.ceil(width * aspectRatio) < width ? Math.ceil(width * aspectRatio) : width;
 
             setDimensions({ width, height });
         }
@@ -104,22 +107,42 @@ function Map({ kraj, property }: { kraj: string, property: string }) {
     const colorScale = d3.scaleSequential(colorInterpolator).domain(getMinMax(geodata.features, property));
 
     return (
-        <div ref={containerRef} >
-            <div className={"text-lg font-bold pb-2"}>
-                {title}
+        <TooltipProvider delayDuration={150}>
+
+            <div ref={containerRef} >
+                <div className={"text-lg font-bold pb-2"}>
+                    {title}
+                </div>
+
+                <svg width={dimensions.width} height={dimensions.height}>
+                    {filteredGeodata.features.map((shape) => (
+                        <Tooltip key={shape.id} open={activeTooltip === shape.id} onOpenChange={() => setTooltip(shape.id)}>
+                            <TooltipTrigger asChild onPointerOut={() => setTooltip("")} onClick={() => setTooltip(shape.id)}>
+                                <path
+                                    d={geoPathGenerator(shape) || undefined}
+                                    stroke={"black"}
+                                    strokeWidth={0.5}
+                                    fill={shape.properties ? colorScale(shape.properties[property]) : undefined}
+                                />
+                            </TooltipTrigger>
+                            <TooltipPortal>
+
+                                <TooltipContent
+                                    avoidCollisions
+                                    collisionBoundary={boundary.current}
+                                >
+                                    <div>
+                                        <p>{shape.properties ? `${orps.find(orp => orp.id === Number(shape.id))?.name} : ${shape.properties[property].toLocaleString("cs")}` : 'No data'}</p>
+                                    </div>
+                                </TooltipContent>
+                            </TooltipPortal>
+                        </Tooltip>
+                    ))}
+                </svg>
+
             </div>
-            <svg width={dimensions.width} height={dimensions.height}>
-                {filteredGeodata.features.map((shape) => (
-                    <path
-                        key={shape.id} // Add null check
-                        d={geoPathGenerator(shape) || undefined}
-                        stroke="silver"
-                        strokeWidth={0.5}
-                        fill={shape.properties ? colorScale(shape.properties[property]) : undefined}
-                    />
-                ))}
-            </svg>
-        </div>
+        </TooltipProvider>
+
     );
 };
 
