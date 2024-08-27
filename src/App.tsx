@@ -38,10 +38,10 @@ function App({ kraj }: { kraj: string | null }) {
       </div>
       <div className={"xs:flex xs:flex-wrap xs:gap-y-8 xs:gap-x-0"}>
         <div className={"xs:w-1/2"}>
-          <Map kraj={selectedKraj} property={"ZNEV"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
+          <Map kraj={selectedKraj} property={"CHUD"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
         <div className={"xs:w-1/2"}>
-          <Map kraj={selectedKraj} property={"CHUD"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
+          <Map kraj={selectedKraj} property={"ZNEV"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
         <div className={"xs:w-1/2"}>
           <Map kraj={selectedKraj} property={"KOALICE"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />

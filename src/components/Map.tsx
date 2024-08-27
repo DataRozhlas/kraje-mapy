@@ -90,19 +90,16 @@ function Map({ kraj, property, activeTooltip, setTooltip, boundary }: { kraj: st
     // Create a color scale
     let colorInterpolator;
     switch (property) {
-        case "ZNEV": colorInterpolator = d3.interpolateOranges;
+        case "ZNEV": colorInterpolator = d3.interpolateRgb("#f9f1ed", "#c94300")//d3.interpolateOranges;
             break;
-        case "CHUD": colorInterpolator = d3.interpolateReds;
+        case "CHUD": colorInterpolator = d3.interpolateRgb("#f9edf0", "#9b1532")//d3.interpolateReds;
             break;
-        case "KOALICE": colorInterpolator = d3.interpolatePurples;
+        case "KOALICE": colorInterpolator = d3.interpolateRgb("#f9edf6", "#5f0f40")//d3.interpolatePurples;
             break;
-        case "OPOZICE": colorInterpolator = d3.interpolateBlues;
+        case "OPOZICE": colorInterpolator = d3.interpolateRgb("#f3fdff", "#0f4c5c")//d3.interpolateBlues;
             break;
-        default: colorInterpolator = d3.interpolateOranges;
-    }
-
-
-    ;
+        default: colorInterpolator = d3.interpolateRgb("#f9f1ed", "#c94300")// d3.interpolateOranges;
+    };
 
     const colorScale = d3.scaleSequential(colorInterpolator).domain(getMinMax(geodata.features, property));
 
