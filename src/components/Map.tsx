@@ -4,6 +4,8 @@ import { feature } from "topojson-client";
 import { Topology } from "topojson-specification";
 import { FeatureCollection } from "geojson";
 
+import BeeSwarm from "./Beeswarm";
+
 import {
   Tooltip,
   TooltipTrigger,
@@ -66,20 +68,38 @@ function Map({
       break;
     default:
       title = "Nevím";
-  }
+  };
+
+  let subtitle;
+  switch (property) {
+    case "ZNEV":
+      subtitle = "Curabitur vitae vulputate purus. Donec in condimentum orci. Vivamus efficitur velit vel rhoncus hendrerit. Duis posuere sapien non felis ultrices finibus. Donec sit amet leo in.";
+      break;
+    case "CHUD":
+      subtitle = "Pellentesque dictum diam et arcu aliquam facilisis. Nulla erat purus, ornare id diam ac, venenatis congue urna. Vivamus nec viverra.";
+      break;
+    case "KOALICE":
+      subtitle = "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...";
+      break;
+    case "OPOZICE":
+      subtitle = "Pellentesque eleifend, diam non efficitur elementum, justo tellus tempus justo, vitae consectetur metus nibh sed lacus. Ut lacinia tortor ante. ";
+      break;
+    default:
+      subtitle = "Pellentesque dictum diam et arcu aliquam facilisis. Nulla erat purus, ornare id diam ac, venenatis congue urna. Vivamus nec viverra.";
+  };
 
   const updateDimensions = () => {
     if (containerRef.current) {
-      const width = containerRef.current.offsetWidth;
+      const width = containerRef.current.offsetWidth - 15;
       const filteredGeodata =
         kraj === ""
           ? geodata
           : ({
-              ...geodata,
-              features: geodata.features.filter(
-                (item) => item.properties?.kraj_id === kraj,
-              ),
-            } as FeatureCollection);
+            ...geodata,
+            features: geodata.features.filter(
+              (item) => item.properties?.kraj_id === kraj,
+            ),
+          } as FeatureCollection);
 
       projection.fitSize([width, width], filteredGeodata);
 
@@ -112,11 +132,11 @@ function Map({
     kraj === ""
       ? geodata
       : ({
-          ...geodata,
-          features: geodata.features.filter(
-            (item) => item.properties?.kraj_id === kraj,
-          ),
-        } as FeatureCollection);
+        ...geodata,
+        features: geodata.features.filter(
+          (item) => item.properties?.kraj_id === kraj,
+        ),
+      } as FeatureCollection);
 
   const projection = d3.geoMercator();
   const geoPathGenerator = d3.geoPath().projection(projection);
@@ -150,7 +170,10 @@ function Map({
     <TooltipProvider delayDuration={150}>
       <div ref={containerRef}>
         <div className={"text-lg font-bold pb-2"}>{title}</div>
-
+        <div className={"text-sm text-zinc-400 pb-2 xs:h-24"}>{subtitle}</div>
+        <div className={"pb-2"}>
+          <BeeSwarm labels={["min", "max"]} />
+        </div>
         <svg width={dimensions.width} height={dimensions.height}>
           {filteredGeodata.features.map((shape) => (
             <Tooltip
