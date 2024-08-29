@@ -33,10 +33,28 @@ function App({ kraj }: { kraj: string | null }) {
 
   return (
     <div ref={containerRef} className={"max-w-[620px] mx-auto flex flex-col gap-8"}>
-      <div className="text-center">
+      <div className="flex justify-between items-center">
         <ComboBox kraj={selectedKraj} setKraj={setSelectedKraj} />
+        <div className="flex gap-1">
+          <div className={"text-xs flex flex-col items-center gap-1"}>
+            <div>
+              ×
+            </div>
+            <div>
+              |
+            </div>
+          </div>
+          <div className={"text-xs flex flex-col items-start gap-1"}>
+            <div>
+              průměr ČR
+            </div>
+            <div>
+              průměr kraje
+            </div>
+          </div>
+        </div>
       </div>
-      <div className={"xs:flex xs:flex-wrap xs:gap-y-8 xs:gap-x-0"}>
+      <div className={"flex flex-col gap-10 xs:flex-row xs:flex-wrap xs:gap-y-8 xs:gap-x-0"}>
         <div className={"xs:w-1/2"}>
           <Map kraj={selectedKraj} property={"CHUD"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>

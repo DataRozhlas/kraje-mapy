@@ -22,6 +22,10 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
     }
 
     function drawPlot() {
+        const krajAverage = d3.mean(filteredData, d => d.properties[property]);
+
+        const countryAverage = d3.mean(data, d => d.properties[property]);
+
         const svg = d3.select(svgRef.current);
         const width = svg.node()?.getBoundingClientRect().width || 0;
 
@@ -56,6 +60,37 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
             .on('pointerover', d => setTooltip(d.target.__data__.id))
             .on('pointerout', () => setTooltip(''))
             .on('click', d => setTooltip(d.target.__data__.id));
+
+        // Draw vertical line for kraj average
+        svg.append('line')
+            .attr('x1', krajAverage !== undefined ? xScale(krajAverage) : 0)
+            .attr('x2', krajAverage !== undefined ? xScale(krajAverage) : 0)
+            .attr('y1', 0)
+            .attr('y2', 20)
+            .attr('stroke', 'black')
+            .attr('stroke-width', 1.2);
+
+        // Draw "X" for country average
+        if (countryAverage !== undefined) {
+            const xCountryAvg = xScale(countryAverage);
+            svg.append('line')
+                .attr('x1', xCountryAvg - 7)
+                .attr('x2', xCountryAvg + 7)
+                .attr('y1', 3)
+                .attr('y2', 17)
+                .attr('stroke', 'black')
+                .attr('stroke-width', 1.2);
+
+            svg.append('line')
+                .attr('x1', xCountryAvg + 7)
+                .attr('x2', xCountryAvg - 7)
+                .attr('y1', 3)
+                .attr('y2', 17)
+                .attr('stroke', 'black')
+                .attr('stroke-width', 1.2);
+        }
+
+
 
         svg.selectAll('text')
             .data(filteredData)
@@ -95,7 +130,6 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
 
     }, [filteredData, property]);
 
-    console.log(data);
 
     return (
         <div className={"xs:mr-4"}>
