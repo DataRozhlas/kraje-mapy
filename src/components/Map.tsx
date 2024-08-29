@@ -61,10 +61,10 @@ function Map({
       title = "Destabilizující chudoba";
       break;
     case "KOALICE":
-      title = "Volební výsledek koalice";
+      title = "Výsledek dnešní opozice";
       break;
     case "OPOZICE":
-      title = "Volební výsledek opozice";
+      title = "Výsledek pětikoalice";
       break;
     default:
       title = "Nevím";
@@ -73,19 +73,19 @@ function Map({
   let subtitle;
   switch (property) {
     case "ZNEV":
-      subtitle = "Curabitur vitae vulputate purus. Donec in condimentum orci. Vivamus efficitur velit vel rhoncus hendrerit. Duis posuere sapien non felis ultrices finibus. Donec sit amet leo in.";
+      subtitle = "Projevuje se nižším vzděláním (málo lidí s maturitou) a nezaměstnaností";
       break;
     case "CHUD":
-      subtitle = "Pellentesque dictum diam et arcu aliquam facilisis. Nulla erat purus, ornare id diam ac, venenatis congue urna. Vivamus nec viverra.";
+      subtitle = "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
       break;
     case "KOALICE":
-      subtitle = "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...";
+      subtitle = "Hlasy pro ANO, ČSSD, KSČM a SPD v minulých krajských volbách 2020";
       break;
     case "OPOZICE":
-      subtitle = "Pellentesque eleifend, diam non efficitur elementum, justo tellus tempus justo, vitae consectetur metus nibh sed lacus. Ut lacinia tortor ante. ";
+      subtitle = "Hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020";
       break;
     default:
-      subtitle = "Pellentesque dictum diam et arcu aliquam facilisis. Nulla erat purus, ornare id diam ac, venenatis congue urna. Vivamus nec viverra.";
+      subtitle = "";
   };
 
   const updateDimensions = () => {
@@ -169,7 +169,7 @@ function Map({
     <TooltipProvider delayDuration={150}>
       <div ref={containerRef}>
         <div className={"text-lg font-bold pb-2"}>{title}</div>
-        <div className={"text-sm text-zinc-400 pb-2 xs:h-24"}>{subtitle}</div>
+        <div className={"text-sm text-zinc-400 pb-2 xs:h-12"}>{subtitle}</div>
         <div className={"pb-2"}>
           <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
         </div>

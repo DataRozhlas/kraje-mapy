@@ -9,13 +9,13 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
     function getLabels(property: string) {
         switch (property) {
             case "ZNEV":
-                return ["blbíčko", "paráda"];
+                return ["lepší", "horší"];
             case "CHUD":
-                return ["velký dobrý", "velký špatný"];
+                return ["lepší", "horší"];
             case "KOALICE":
-                return ["", ""];
+                return ["méně", "více"];
             case "OPOZICE":
-                return ["", ""];
+                return ["méně", "více"];
             default:
                 return ["", ""];
         }
