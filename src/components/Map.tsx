@@ -4,7 +4,7 @@ import { feature } from "topojson-client";
 import { Topology } from "topojson-specification";
 import { FeatureCollection } from "geojson";
 
-import BeeSwarm from "./Beeswarm";
+import BeeSwarm from "./BeeSwarm";
 
 import {
   Tooltip,
@@ -171,7 +171,7 @@ function Map({
         <div className={"text-lg font-bold pb-2"}>{title}</div>
         <div className={"text-sm text-zinc-400 pb-2 xs:h-24"}>{subtitle}</div>
         <div className={"pb-2"}>
-          <BeeSwarm labels={["min", "max"]} filteredData={filteredGeodata.features} data={geodata.features} property={property} />
+          <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
         </div>
         <svg width={dimensions.width} height={dimensions.height}>
           {filteredGeodata.features.map((shape) => (
@@ -187,8 +187,8 @@ function Map({
               >
                 <path
                   d={geoPathGenerator(shape) || undefined}
-                  stroke={"black"}
-                  strokeWidth={0.5}
+                  stroke="none"
+                  strokeWidth={activeTooltip === shape.id ? 2.5 : 0.5}
                   fill={
                     shape.properties
                       ? colorScale(shape.properties[property])
@@ -211,6 +211,15 @@ function Map({
                 </TooltipContent>
               </TooltipPortal>
             </Tooltip>
+          ))}
+          {filteredGeodata.features.map((shape) => (
+            <path
+              key={`stroke-${shape.id}`}
+              d={geoPathGenerator(shape) || undefined}
+              stroke={"black"}
+              strokeWidth={activeTooltip === shape.id ? 3 : 0.5}
+              fill="none"
+            />
           ))}
         </svg>
       </div>
