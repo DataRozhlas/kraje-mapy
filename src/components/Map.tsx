@@ -117,7 +117,6 @@ function Map({
   };
 
   useEffect(() => {
-    console.log(kraj);
     updateDimensions();
     window.addEventListener("resize", updateDimensions);
     return () => window.removeEventListener("resize", updateDimensions);
@@ -172,7 +171,7 @@ function Map({
         <div className={"text-lg font-bold pb-2"}>{title}</div>
         <div className={"text-sm text-zinc-400 pb-2 xs:h-24"}>{subtitle}</div>
         <div className={"pb-2"}>
-          <BeeSwarm labels={["min", "max"]} />
+          <BeeSwarm labels={["min", "max"]} filteredData={filteredGeodata.features} data={geodata.features} property={property} />
         </div>
         <svg width={dimensions.width} height={dimensions.height}>
           {filteredGeodata.features.map((shape) => (
