@@ -1,21 +1,22 @@
 import { useState, useEffect } from 'react'
 
 
-import ComboBox from './components/ComboBox'
+//import ComboBox from './components/ComboBox'
 import Map from './components/Map'
 
 import { usePostMessageWithHeight } from './hooks/usePostHeightMessage'
 
 
 function App({ kraj }: { kraj: string | null }) {
-  const [selectedKraj, setSelectedKraj] = useState(kraj || "")
+  // const [selectedKraj, setSelectedKraj] = useState(kraj || "")
+  const selectedKraj = kraj || "";
   const [activeTooltip, setActiveTooltip] = useState("")
 
   const { containerRef, postHeightMessage } = usePostMessageWithHeight(`map-${kraj}`)
 
   useEffect(() => {
     postHeightMessage()
-  }, [kraj, containerRef, postHeightMessage])
+  }, [selectedKraj, containerRef, postHeightMessage])
 
 
   useEffect(() => {
@@ -32,16 +33,16 @@ function App({ kraj }: { kraj: string | null }) {
 
 
   return (
-    <div ref={containerRef} className={"max-w-[620px] mx-auto flex flex-col gap-8"}>
-      <div className="flex justify-between items-center">
-        <ComboBox kraj={selectedKraj} setKraj={setSelectedKraj} />
+    <div ref={containerRef} className={"max-w-[620px] mx-auto flex flex-col gap-2"}>
+      <div className="flex justify-end items-center">
+        {/* <ComboBox kraj={selectedKraj} setKraj={setSelectedKraj} /> */}
         <div className="flex gap-1">
           <div className={"text-xs flex flex-col items-center gap-1"}>
-            <div>
-              ×
+            <div className={"text-zinc-400"}>
+              &#x25BC;
             </div>
             <div>
-              |
+              &#x25BC;
             </div>
           </div>
           <div className={"text-xs flex flex-col items-start gap-1"}>

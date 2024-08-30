@@ -1,6 +1,16 @@
 import { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 
+// Define a custom locale with a space before the percentage symbol
+const customLocale = d3.formatLocale({
+    decimal: ",",
+    thousands: " ",
+    grouping: [3],
+    currency: ["Kč", ""],
+    percent: " %"
+});
+
+const f = customLocale.format(".0%");
 
 function BeeSwarm({ orps, colorScale, data, filteredData, property, activeTooltip, setTooltip }:
     { orps: any[], colorScale: any, data: any[], filteredData: any[], property: string, activeTooltip: string, setTooltip: Function }) {
@@ -13,9 +23,12 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
             case "CHUD":
                 return ["lepší", "horší"];
             case "KOALICE":
-                return ["méně", "více"];
+                const koavalues = data.map(d => d.properties[property]);
+                return [f(d3.min(koavalues) / 100), f(d3.max(koavalues) / 100)];
             case "OPOZICE":
-                return ["méně", "více"];
+                const opovalues = data.map(d => d.properties[property]);
+                return [f(d3.min(opovalues) / 100), f(d3.max(opovalues) / 100)];
+
             default:
                 return ["", ""];
         }
@@ -23,7 +36,6 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
 
     function drawPlot() {
         const krajAverage = d3.mean(filteredData, d => d.properties[property]);
-
         const countryAverage = d3.mean(data, d => d.properties[property]);
 
         const svg = d3.select(svgRef.current);
@@ -46,51 +58,62 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
             .domain(d3.extent(data, d => d.properties[property]) as [number, number])
             .range([9, width - 9]);
 
+        const circles = svg.selectAll('circle')
+            .data(filteredData.sort((a, b) => a.properties[property] - b.properties[property]), (d: any) => d.id);
+
+
         // Draw circles for each data item
-        svg.selectAll('circle')
-            .data(filteredData)
-            .enter()
+        circles.enter()
             .append('circle')
             .attr('cx', d => xScale(d.properties[property]))
             .attr('cy', 10)
-            .attr('r', d => d.id === activeTooltip ? 8 : 5)
+            .attr('r', 5)
             .attr('fill', d => colorScale(d.properties[property]))
             .attr('stroke', 'black')
             .attr('stroke-width', 0.75)
             .on('pointerover', d => setTooltip(d.target.__data__.id))
             .on('pointerout', () => setTooltip(''))
-            .on('click', d => setTooltip(d.target.__data__.id));
+            .on('click', d => setTooltip(d.target.__data__.id))
+            .transition(
+                d3.transition()
+                    .duration(500)
+                    .ease(d3.easeCubic)
+            )
+            .attr('r', (d: any) => d.id === activeTooltip ? 10 : activeTooltip.length > 0 ? 3 : 5)
+            .attr('stroke-width', (d: any) => d.id === activeTooltip ? 1.5 : 0.75);
 
-        // Draw vertical line for kraj average
-        svg.append('line')
-            .attr('x1', krajAverage !== undefined ? xScale(krajAverage) : 0)
-            .attr('x2', krajAverage !== undefined ? xScale(krajAverage) : 0)
-            .attr('y1', 0)
-            .attr('y2', 20)
-            .attr('stroke', 'black')
-            .attr('stroke-width', 1.2);
 
-        // Draw "X" for country average
-        if (countryAverage !== undefined) {
-            const xCountryAvg = xScale(countryAverage);
-            svg.append('line')
-                .attr('x1', xCountryAvg - 7)
-                .attr('x2', xCountryAvg + 7)
-                .attr('y1', 3)
-                .attr('y2', 17)
-                .attr('stroke', 'black')
-                .attr('stroke-width', 1.2);
+        // Remove old circles
+        //circles.exit().remove();
 
-            svg.append('line')
-                .attr('x1', xCountryAvg + 7)
-                .attr('x2', xCountryAvg - 7)
-                .attr('y1', 3)
-                .attr('y2', 17)
-                .attr('stroke', 'black')
-                .attr('stroke-width', 1.2);
+
+
+        // sign for kraj
+        if (krajAverage !== undefined) {
+            const xKrajAvg = xScale(krajAverage);
+            svg.append('text')
+                .attr('x', xKrajAvg)
+                .attr('y', -4)
+                .text("▼")
+                .attr('text-anchor', 'middle')
+                .attr('font-size', '0.75rem')
+                .attr('fill', 'black');
+
         }
 
 
+        // sign for country
+        if (countryAverage !== undefined) {
+            const xCountryAvg = xScale(countryAverage);
+            svg.append('text')
+                .attr('x', xCountryAvg)
+                .attr('y', -4)
+                .text("▼")
+                .attr('text-anchor', 'middle')
+                .attr('font-size', '0.75rem')
+                .attr('fill', '#a1a1aa');
+
+        }
 
         svg.selectAll('text')
             .data(filteredData)
@@ -128,7 +151,7 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
         return () => window.removeEventListener("resize", drawPlot);
 
 
-    }, [filteredData, property]);
+    }, [filteredData, property, activeTooltip]);
 
 
     return (

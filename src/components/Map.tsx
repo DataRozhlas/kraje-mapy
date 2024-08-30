@@ -53,18 +53,23 @@ function Map({
   const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
 
   let title;
+  let suffix: string;
   switch (property) {
     case "ZNEV":
       title = "Socioekonomické znevýhodnění";
+      suffix = " (index)";
       break;
     case "CHUD":
       title = "Destabilizující chudoba";
+      suffix = " (index)";
       break;
     case "KOALICE":
       title = "Výsledek dnešní opozice";
+      suffix = " % hlasů";
       break;
     case "OPOZICE":
       title = "Výsledek pětikoalice";
+      suffix = " % hlasů";
       break;
     default:
       title = "Nevím";
@@ -168,8 +173,8 @@ function Map({
   return (
     <TooltipProvider delayDuration={150}>
       <div ref={containerRef}>
-        <div className={"text-lg font-bold pb-2"}>{title}</div>
-        <div className={"text-sm text-zinc-400 pb-2 xs:h-12"}>{subtitle}</div>
+        <div className={"text-lg font-bold"}>{title}</div>
+        <div className={"text-[0.8rem] leading-[1rem] text-zinc-400 pb-2 xs:h-12"}>{subtitle}</div>
         <div className={"pb-2"}>
           <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
         </div>
@@ -204,7 +209,7 @@ function Map({
                   <div>
                     <p>
                       {shape.properties
-                        ? `${orps.find((orp) => orp.id === Number(shape.id))?.name} : ${shape.properties[property].toLocaleString("cs")}`
+                        ? `${orps.find((orp) => orp.id === Number(shape.id))?.name}: ${shape.properties[property].toLocaleString("cs")} ${suffix}`
                         : "No data"}
                     </p>
                   </div>
@@ -217,6 +222,7 @@ function Map({
               key={`stroke-${shape.id}`}
               d={geoPathGenerator(shape) || undefined}
               stroke={"black"}
+              strokeLinecap={activeTooltip === shape.id ? "round" : "butt"}
               strokeWidth={activeTooltip === shape.id ? 3 : 0.5}
               fill="none"
             />
