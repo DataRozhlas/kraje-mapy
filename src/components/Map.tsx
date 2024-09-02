@@ -178,7 +178,7 @@ function Map({
         <div className={"pb-2"}>
           <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
         </div>
-        <svg width={dimensions.width} height={dimensions.height}>
+        <svg width={dimensions.width} height={dimensions.height} strokeLinecap="round">
           {filteredGeodata.features.map((shape) => (
             <Tooltip
               key={shape.id}
@@ -194,6 +194,7 @@ function Map({
                   d={geoPathGenerator(shape) || undefined}
                   stroke="none"
                   strokeWidth={activeTooltip === shape.id ? 2.5 : 0.5}
+                  strokeLinecap="round"
                   fill={
                     shape.properties
                       ? colorScale(shape.properties[property])
@@ -222,8 +223,8 @@ function Map({
               key={`stroke-${shape.id}`}
               d={geoPathGenerator(shape) || undefined}
               stroke={"black"}
-              strokeLinecap={activeTooltip === shape.id ? "round" : "butt"}
               strokeWidth={activeTooltip === shape.id ? 3 : 0.5}
+              strokeLinecap="round"
               fill="none"
             />
           ))}
