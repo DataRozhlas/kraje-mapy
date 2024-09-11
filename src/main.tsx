@@ -9,11 +9,11 @@ function getURLParameter(name: string): string | null {
 }
 
 let kraj = getURLParameter('kraj');
-
+let index = getURLParameter('index');
 
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App kraj={kraj} />
+    <App kraj={kraj} index={index} />
   </StrictMode>,
 )

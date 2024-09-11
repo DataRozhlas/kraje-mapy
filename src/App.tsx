@@ -7,12 +7,13 @@ import Map from './components/Map'
 import { usePostMessageWithHeight } from './hooks/usePostHeightMessage'
 
 
-function App({ kraj }: { kraj: string | null }) {
+function App({ kraj, index }: { kraj: string | null, index: string | null }) {
   // const [selectedKraj, setSelectedKraj] = useState(kraj || "")
   const selectedKraj = kraj || "";
-  const [activeTooltip, setActiveTooltip] = useState("")
+  const setIndex = index || "";
 
-  const { containerRef, postHeightMessage } = usePostMessageWithHeight(`map-${kraj}`)
+  const [activeTooltip, setActiveTooltip] = useState("")
+  const { containerRef, postHeightMessage } = usePostMessageWithHeight(`map-${kraj}-${setIndex}`)
 
   useEffect(() => {
     postHeightMessage()

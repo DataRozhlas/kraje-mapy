@@ -178,7 +178,7 @@ function Map({
         <div className={"pb-2"}>
           <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
         </div>
-        <svg width={dimensions.width} height={dimensions.height} strokeLinecap="round">
+        <svg width={dimensions.width} height={dimensions.height} strokeLinecap="round" shapeRendering={"geometricPrecision"}>
           {filteredGeodata.features.map((shape) => (
             <Tooltip
               key={shape.id}
