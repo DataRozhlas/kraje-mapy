@@ -14,8 +14,7 @@ import {
   TooltipProvider,
 } from "@/components/ui/tooltip";
 
-import orps from "../assets/orps.json";
-import topoData_ from "../assets/orp-enhanced.topo.json";
+import topoData_ from "../assets/obces-enhanced.topo.json";
 
 const topoData: Topology = topoData_ as any;
 
@@ -55,21 +54,9 @@ function Map({
   let title;
   let suffix: string;
   switch (property) {
-    case "ZNEV":
-      title = "Socioekonomické znevýhodnění";
-      suffix = " (index)";
-      break;
-    case "CHUD":
-      title = "Destabilizující chudoba";
-      suffix = " (index)";
-      break;
-    case "KOALICE":
-      title = "Výsledek dnešní opozice";
-      suffix = " % hlasů";
-      break;
-    case "OPOZICE":
-      title = "Výsledek pětikoalice";
-      suffix = " % hlasů";
+    case "ur":
+      title = "Volební účast - změna";
+      suffix = " p. b.";
       break;
     default:
       title = "Nevím";
@@ -77,17 +64,8 @@ function Map({
 
   let subtitle;
   switch (property) {
-    case "ZNEV":
-      subtitle = "Projevuje se nižším vzděláním (málo lidí s maturitou) a nezaměstnaností";
-      break;
-    case "CHUD":
-      subtitle = "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
-      break;
-    case "KOALICE":
-      subtitle = "Hlasy pro ANO, ČSSD, KSČM a SPD v minulých krajských volbách 2020";
-      break;
-    case "OPOZICE":
-      subtitle = "Hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020";
+    case "ur":
+      subtitle = "Jak se změnila volební účast od roku 2020";
       break;
     default:
       subtitle = "";
@@ -138,7 +116,7 @@ function Map({
       : ({
         ...geodata,
         features: geodata.features.filter(
-          (item) => item.properties?.kraj_id === kraj,
+          (item) => item.properties?.nuts.slice(0, -1) === kraj, // convert nuts3 to nuts2
         ),
       } as FeatureCollection);
 
@@ -150,17 +128,8 @@ function Map({
   // Create a color scale
   let colorInterpolator;
   switch (property) {
-    case "ZNEV":
-      colorInterpolator = d3.interpolateRgb("#fefff0", "#fa5f11"); //d3.interpolateOranges;
-      break;
-    case "CHUD":
-      colorInterpolator = d3.interpolateRgb("#fffdf0  ", "#e6001d"); //d3.interpolateReds;
-      break;
-    case "KOALICE":
-      colorInterpolator = d3.interpolateRgb("#fffdf0", "#009bbd"); //d3.interpolatePurples;
-      break;
-    case "OPOZICE":
-      colorInterpolator = d3.interpolateRgb("#fffbf0", "#973bc6"); //d3.interpolateBlues;
+    case "ur":
+      colorInterpolator = d3.interpolateRgb("#e6001d", "#009bbd"); //d3.interpolateOranges;
       break;
     default:
       colorInterpolator = d3.interpolateRgb("#f9f1ed", "#c94300"); // d3.interpolateOranges;
@@ -176,7 +145,7 @@ function Map({
         <div className={"text-lg font-bold"}>{title}</div>
         <div className={"text-[0.8rem] leading-[1rem] text-zinc-400 pb-2 xs:h-12"}>{subtitle}</div>
         <div className={"pb-2"}>
-          <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
+          <BeeSwarm colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
         </div>
         <svg width={dimensions.width} height={dimensions.height} strokeLinecap="round" shapeRendering={"geometricPrecision"}>
           {filteredGeodata.features.map((shape) => (
@@ -209,9 +178,7 @@ function Map({
                 >
                   <div>
                     <p>
-                      {shape.properties
-                        ? `${orps.find((orp) => orp.id === Number(shape.id))?.name}: ${shape.properties[property].toLocaleString("cs")} ${suffix}`
-                        : "No data"}
+                      {shape.properties?.nazobec}
                     </p>
                   </div>
                 </TooltipContent>

@@ -7,28 +7,20 @@ const customLocale = d3.formatLocale({
     thousands: " ",
     grouping: [3],
     currency: ["Kč", ""],
-    percent: " %"
+    percent: " p. b."
 });
 
-const f = customLocale.format(".0%");
+const f = customLocale.format("+.0%");
 
-function BeeSwarm({ orps, colorScale, data, filteredData, property, activeTooltip, setTooltip }:
-    { orps: any[], colorScale: any, data: any[], filteredData: any[], property: string, activeTooltip: string, setTooltip: Function }) {
+function BeeSwarm({ colorScale, data, filteredData, property, activeTooltip, setTooltip }:
+    { colorScale: any, data: any[], filteredData: any[], property: string, activeTooltip: string, setTooltip: Function }) {
     const svgRef = useRef<SVGSVGElement | null>(null);
 
     function getLabels(property: string) {
         switch (property) {
-            case "ZNEV":
-                return ["lepší", "horší"];
-            case "CHUD":
-                return ["lepší", "horší"];
-            case "KOALICE":
-                const koavalues = data.map(d => d.properties[property]);
-                return [f(d3.min(koavalues) / 100), f(d3.max(koavalues) / 100)];
-            case "OPOZICE":
-                const opovalues = data.map(d => d.properties[property]);
-                return [f(d3.min(opovalues) / 100), f(d3.max(opovalues) / 100)];
-
+            case "ur":
+                const values = data.map(d => d.properties[property]);
+                return [f(d3.min(values) / 100), f(d3.max(values) / 100)];
             default:
                 return ["", ""];
         }
@@ -124,10 +116,7 @@ function BeeSwarm({ orps, colorScale, data, filteredData, property, activeToolti
             .attr('text-anchor', 'middle')
             .attr('font-size', '0.75rem')
             .attr('fill', d => d.id === activeTooltip ? 'black' : 'none')
-            .text(d => {
-                const orp = orps.find(orp => orp.id === Number(d.id))
-                return orp ? orp.name : ""
-            })
+            .text(d => d.nazobec)
             .each(function (d) {
                 const text = d3.select(this);
                 const textWidth = text.node()?.getBBox().width || 0;

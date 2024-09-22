@@ -58,7 +58,7 @@ function App({ kraj, index }: { kraj: string | null, index: string | null }) {
       </div>
       <div className={"flex flex-col gap-10 xs:flex-row xs:flex-wrap xs:gap-y-8 xs:gap-x-0"}>
         <div className={""}>
-          <Map kraj={selectedKraj} property={"CHUD"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
+          <Map kraj={selectedKraj} property={"ur"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
       </div>
 
