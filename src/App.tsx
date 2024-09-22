@@ -1,19 +1,19 @@
 import { useState, useEffect } from 'react'
 
 
-//import ComboBox from './components/ComboBox'
+import ComboBox from './components/ComboBox'
 import Map from './components/Map'
 
 import { usePostMessageWithHeight } from './hooks/usePostHeightMessage'
 
 
 function App({ kraj, index }: { kraj: string | null, index: string | null }) {
-  // const [selectedKraj, setSelectedKraj] = useState(kraj || "")
-  const selectedKraj = kraj || "";
+  const [selectedKraj, setSelectedKraj] = useState(kraj || "")
+  //const selectedKraj = kraj || "";
   const setIndex = index || "";
 
   const [activeTooltip, setActiveTooltip] = useState("")
-  const { containerRef, postHeightMessage } = usePostMessageWithHeight(`map-${kraj}-${setIndex}`)
+  const { containerRef, postHeightMessage } = usePostMessageWithHeight(`map-${kraj}${setIndex}`)
 
   useEffect(() => {
     postHeightMessage()
@@ -34,9 +34,9 @@ function App({ kraj, index }: { kraj: string | null, index: string | null }) {
 
 
   return (
-    <div ref={containerRef} className={"max-w-[620px] mx-auto flex flex-col gap-2"}>
-      <div className="flex justify-end items-center">
-        {/* <ComboBox kraj={selectedKraj} setKraj={setSelectedKraj} /> */}
+    <div ref={containerRef} className={"max-w-[620px] mx-auto flex flex-col gap-2 pb-8"}>
+      <div className="flex justify-evenly items-center">
+        <ComboBox kraj={selectedKraj} setKraj={setSelectedKraj} />
         <div className="flex gap-1">
           <div className={"text-xs flex flex-col items-center gap-1"}>
             <div className={"text-zinc-400"}>
@@ -57,17 +57,8 @@ function App({ kraj, index }: { kraj: string | null, index: string | null }) {
         </div>
       </div>
       <div className={"flex flex-col gap-10 xs:flex-row xs:flex-wrap xs:gap-y-8 xs:gap-x-0"}>
-        <div className={"xs:w-1/2"}>
+        <div className={""}>
           <Map kraj={selectedKraj} property={"CHUD"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
-        </div>
-        <div className={"xs:w-1/2"}>
-          <Map kraj={selectedKraj} property={"ZNEV"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
-        </div>
-        <div className={"xs:w-1/2"}>
-          <Map kraj={selectedKraj} property={"KOALICE"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
-        </div>
-        <div className={"xs:w-1/2"}>
-          <Map kraj={selectedKraj} property={"OPOZICE"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
       </div>
 
