@@ -56,17 +56,17 @@ function App({ kraj, index }: { kraj: string | null, index: string | null }) {
           </div>
         </div>
       </div>
-      <div className={"flex flex-col gap-10 xs:flex-row xs:flex-wrap xs:gap-y-8 xs:gap-x-0"}>
+      <div className={"flex flex-col gap-10 xs:flex-row xs:flex-wrap xs:gap-y-8 xs:gap-x-4"}>
         {/* <div className={"xs:w-1/2"}>
           <Map kraj={selectedKraj} property={"CHUD"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
         <div className={"xs:w-1/2"}>
           <Map kraj={selectedKraj} property={"ZNEV"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div> */}
-        <div className={"xs:w-1/2"}>
+        <div className={"xs:w-half-minus-2"}>
           <Map kraj={selectedKraj} property={"KOALICE"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
-        <div className={"xs:w-1/2"}>
+        <div className={"xs:w-half-minus-2"}>
           <Map kraj={selectedKraj} property={"OPOZICE"} activeTooltip={activeTooltip} setTooltip={setActiveTooltip} boundary={containerRef} />
         </div>
       </div>

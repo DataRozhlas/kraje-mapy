@@ -23,6 +23,9 @@ module.exports = {
       },
     },
     extend: {
+      width: {
+        'half-minus-2': 'calc(50% - 0.5rem)', // Assuming 1 Tailwind width unit is 0.25rem
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
