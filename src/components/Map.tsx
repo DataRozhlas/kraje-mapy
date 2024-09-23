@@ -64,7 +64,7 @@ function Map({
       suffix = " (index)";
       break;
     case "KOALICE":
-      title = "Výsledek dnešní opozice";
+      title = "Výsledek opozice";
       suffix = " % hlasů";
       break;
     case "OPOZICE":
@@ -84,10 +84,10 @@ function Map({
       subtitle = "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
       break;
     case "KOALICE":
-      subtitle = "Hlasy pro ANO, ČSSD, KSČM a SPD v minulých krajských volbách 2020";
+      subtitle = "Hlasy pro ANO, ČSSD, KSČM a SPD v krajských volbách 2024";
       break;
     case "OPOZICE":
-      subtitle = "Hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020";
+      subtitle = "Hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2024";
       break;
     default:
       subtitle = "";
