@@ -25,10 +25,8 @@
           "id": "761",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 70.7,
-            "CHUD": 91,
-            "KOALICE": 58.11,
-            "OPOZICE": 36.12
+            "KOALICE": 14.509999999999998,
+            "OPOZICE": -12.980000000000004
           }
         },
         {
@@ -45,10 +43,8 @@
           "id": "779",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 42.9,
-            "CHUD": 63.7,
-            "KOALICE": 42.3,
-            "OPOZICE": 47.75
+            "KOALICE": 12.199999999999996,
+            "OPOZICE": -9.950000000000003
           }
         },
         {
@@ -66,10 +62,8 @@
           "id": "787",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 66,
-            "CHUD": 75.2,
-            "KOALICE": 49.14,
-            "OPOZICE": 43.21
+            "KOALICE": 15.64,
+            "OPOZICE": -14.589999999999996
           }
         },
         {
@@ -85,10 +79,8 @@
           "id": "795",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 54.7,
-            "CHUD": 38.9,
-            "KOALICE": 40.83,
-            "OPOZICE": 51.87
+            "KOALICE": 13.629999999999999,
+            "OPOZICE": -12.229999999999997
           }
         },
         {
@@ -104,10 +96,8 @@
           "id": "809",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 75.9,
-            "CHUD": 94.1,
-            "KOALICE": 50.43,
-            "OPOZICE": 41.44
+            "KOALICE": 19.23,
+            "OPOZICE": -20.46
           }
         },
         {
@@ -126,10 +116,8 @@
           "id": "817",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 47.4,
-            "CHUD": 59.1,
-            "KOALICE": 39.07,
-            "OPOZICE": 49.92
+            "KOALICE": 13.370000000000001,
+            "OPOZICE": -11.979999999999997
           }
         },
         {
@@ -147,10 +135,8 @@
           "id": "825",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 60.8,
-            "CHUD": 61.8,
-            "KOALICE": 55.15,
-            "OPOZICE": 35.43
+            "KOALICE": 11.850000000000001,
+            "OPOZICE": -6.869999999999997
           }
         },
         {
@@ -168,10 +154,8 @@
           "id": "833",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 67.5,
-            "CHUD": 58.4,
-            "KOALICE": 65.97,
-            "OPOZICE": 26.39
+            "KOALICE": 14.369999999999997,
+            "OPOZICE": -9.909999999999997
           }
         },
         {
@@ -197,10 +181,8 @@
           "id": "841",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 55.7,
-            "CHUD": 56.9,
-            "KOALICE": 53.92,
-            "OPOZICE": 38.86
+            "KOALICE": 20.020000000000003,
+            "OPOZICE": -4.039999999999999
           }
         },
         {
@@ -230,10 +212,8 @@
           "id": "850",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 69.1,
-            "CHUD": 75.5,
-            "KOALICE": 63.88,
-            "OPOZICE": 24.54
+            "KOALICE": 19.580000000000005,
+            "OPOZICE": -13.259999999999998
           }
         },
         {
@@ -250,10 +230,8 @@
           "id": "868",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 81.2,
-            "CHUD": 76.7,
-            "KOALICE": 74.61,
-            "OPOZICE": 19.38
+            "KOALICE": 16.409999999999997,
+            "OPOZICE": -11.220000000000002
           }
         },
         {
@@ -274,10 +252,8 @@
           "id": "876",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 77.9,
-            "CHUD": 85.3,
-            "KOALICE": 64.64,
-            "OPOZICE": 18.34
+            "KOALICE": 13.740000000000002,
+            "OPOZICE": -19.66
           }
         },
         {
@@ -294,10 +270,8 @@
           "id": "884",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 83.5,
-            "CHUD": 106.6,
-            "KOALICE": 63.91,
-            "OPOZICE": 22.24
+            "KOALICE": 19.509999999999998,
+            "OPOZICE": -9.66
           }
         },
         {
@@ -314,10 +288,8 @@
           "id": "892",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 77.2,
-            "CHUD": 113.8,
-            "KOALICE": 56.76,
-            "OPOZICE": 13.9
+            "KOALICE": 16.059999999999995,
+            "OPOZICE": -13.4
           }
         },
         {
@@ -334,10 +306,8 @@
           "id": "906",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 72.4,
-            "CHUD": 108.7,
-            "KOALICE": 72.67,
-            "OPOZICE": 18.26
+            "KOALICE": 19.67,
+            "OPOZICE": -12.54
           }
         },
         {
@@ -354,10 +324,8 @@
           "id": "914",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 56.8,
-            "CHUD": 90.4,
-            "KOALICE": 59.99,
-            "OPOZICE": 32.02
+            "KOALICE": 16.090000000000003,
+            "OPOZICE": -8.68
           }
         },
         {
@@ -374,10 +342,8 @@
           "id": "922",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 63.1,
-            "CHUD": 99.3,
-            "KOALICE": 51.48,
-            "OPOZICE": 34
+            "KOALICE": 9.879999999999995,
+            "OPOZICE": -9.600000000000001
           }
         },
         {
@@ -393,10 +359,8 @@
           "id": "931",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 56.6,
-            "CHUD": 29.9,
-            "KOALICE": 55.09,
-            "OPOZICE": 41.91
+            "KOALICE": 12.490000000000002,
+            "OPOZICE": -9.39
           }
         },
         {
@@ -415,10 +379,8 @@
           "id": "949",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 45.9,
-            "CHUD": 29.6,
-            "KOALICE": 51.73,
-            "OPOZICE": 43.71
+            "KOALICE": 12.229999999999997,
+            "OPOZICE": -10.990000000000002
           }
         },
         {
@@ -435,10 +397,8 @@
           "id": "957",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 64.1,
-            "CHUD": 34.1,
-            "KOALICE": 57.82,
-            "OPOZICE": 38.38
+            "KOALICE": 14.619999999999997,
+            "OPOZICE": -14.019999999999996
           }
         },
         {
@@ -461,10 +421,8 @@
           "id": "965",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 39.3,
-            "CHUD": 38.6,
-            "KOALICE": 49.49,
-            "OPOZICE": 46.22
+            "KOALICE": 11.39,
+            "OPOZICE": -10.579999999999998
           }
         },
         {
@@ -480,10 +438,8 @@
           "id": "973",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 69.6,
-            "CHUD": 46.5,
-            "KOALICE": 66.38,
-            "OPOZICE": 31.35
+            "KOALICE": 23.379999999999995,
+            "OPOZICE": -19.449999999999996
           }
         },
         {
@@ -505,10 +461,8 @@
           "id": "981",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 58.4,
-            "CHUD": 36.8,
-            "KOALICE": 64.93,
-            "OPOZICE": 33.5
+            "KOALICE": 22.430000000000007,
+            "OPOZICE": -14.899999999999999
           }
         },
         {
@@ -524,10 +478,8 @@
           "id": "990",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 62.2,
-            "CHUD": 28.6,
-            "KOALICE": 70,
-            "OPOZICE": 29.14
+            "KOALICE": 14.5,
+            "OPOZICE": -10.46
           }
         },
         {
@@ -544,10 +496,8 @@
           "id": "1007",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 51,
-            "CHUD": 36.2,
-            "KOALICE": 53.86,
-            "OPOZICE": 42.07
+            "KOALICE": 11.759999999999998,
+            "OPOZICE": -11.630000000000003
           }
         },
         {
@@ -568,10 +518,8 @@
           "id": "1015",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 47,
-            "CHUD": 41.1,
-            "KOALICE": 59,
-            "OPOZICE": 37.89
+            "KOALICE": 14.399999999999999,
+            "OPOZICE": -11.810000000000002
           }
         },
         {
@@ -588,10 +536,8 @@
           "id": "1023",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 45.2,
-            "CHUD": 32.4,
-            "KOALICE": 48.51,
-            "OPOZICE": 49.43
+            "KOALICE": 15.11,
+            "OPOZICE": -13.07
           }
         },
         {
@@ -606,10 +552,8 @@
           "id": "1031",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 77.1,
-            "CHUD": 72.9,
-            "KOALICE": 61.08,
-            "OPOZICE": 36.68
+            "KOALICE": 8.280000000000001,
+            "OPOZICE": -6.719999999999999
           }
         },
         {
@@ -626,10 +570,8 @@
           "id": "1040",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 63,
-            "CHUD": 58.2,
-            "KOALICE": 63.04,
-            "OPOZICE": 31.61
+            "KOALICE": 19.240000000000002,
+            "OPOZICE": -20.39
           }
         },
         {
@@ -644,10 +586,8 @@
           "id": "1058",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 34.2,
-            "CHUD": 35.7,
-            "KOALICE": 44.33,
-            "OPOZICE": 52.69
+            "KOALICE": 9.43,
+            "OPOZICE": -8.910000000000004
           }
         },
         {
@@ -666,10 +606,8 @@
           "id": "1066",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 43.5,
-            "CHUD": 39.2,
-            "KOALICE": 51.9,
-            "OPOZICE": 44.89
+            "KOALICE": 9.799999999999997,
+            "OPOZICE": -9.11
           }
         },
         {
@@ -686,10 +624,8 @@
           "id": "1074",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 43.2,
-            "CHUD": 31,
-            "KOALICE": 65.08,
-            "OPOZICE": 32.93
+            "KOALICE": 27.979999999999997,
+            "OPOZICE": -16.47
           }
         },
         {
@@ -705,10 +641,8 @@
           "id": "1082",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 34.6,
-            "CHUD": 40.6,
-            "KOALICE": 58.57,
-            "OPOZICE": 37.77
+            "KOALICE": 21.17,
+            "OPOZICE": -12.93
           }
         },
         {
@@ -726,10 +660,8 @@
           "id": "1091",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 55.4,
-            "CHUD": 40.1,
-            "KOALICE": 65.27,
-            "OPOZICE": 32.34
+            "KOALICE": 24.269999999999996,
+            "OPOZICE": -18.36
           }
         },
         {
@@ -748,10 +680,8 @@
           "id": "1104",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 41.7,
-            "CHUD": 32.9,
-            "KOALICE": 53.97,
-            "OPOZICE": 43.3
+            "KOALICE": 10.769999999999996,
+            "OPOZICE": -8.700000000000003
           }
         },
         {
@@ -768,10 +698,8 @@
           "id": "1112",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 40.1,
-            "CHUD": 41.2,
-            "KOALICE": 56.51,
-            "OPOZICE": 40.71
+            "KOALICE": 13.009999999999998,
+            "OPOZICE": -10.39
           }
         },
         {
@@ -789,10 +717,8 @@
           "id": "1121",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 41.6,
-            "CHUD": 37.6,
-            "KOALICE": 56.1,
-            "OPOZICE": 40.98
+            "KOALICE": 12.5,
+            "OPOZICE": -8.220000000000006
           }
         },
         {
@@ -811,10 +737,8 @@
           "id": "1139",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 60.4,
-            "CHUD": 33.3,
-            "KOALICE": 37.53,
-            "OPOZICE": 55.57
+            "KOALICE": 13.030000000000001,
+            "OPOZICE": -13.330000000000005
           }
         },
         {
@@ -832,10 +756,8 @@
           "id": "1147",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 64.1,
-            "CHUD": 44.9,
-            "KOALICE": 47.71,
-            "OPOZICE": 46.44
+            "KOALICE": 17.41,
+            "OPOZICE": -15.160000000000004
           }
         },
         {
@@ -853,10 +775,8 @@
           "id": "1155",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 46.5,
-            "CHUD": 32.1,
-            "KOALICE": 35.1,
-            "OPOZICE": 57.92
+            "KOALICE": 11,
+            "OPOZICE": -11.079999999999998
           }
         },
         {
@@ -874,10 +794,8 @@
           "id": "1163",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 47.3,
-            "CHUD": 23.4,
-            "KOALICE": 45.66,
-            "OPOZICE": 53.16
+            "KOALICE": 14.459999999999997,
+            "OPOZICE": -10.340000000000003
           }
         },
         {
@@ -896,10 +814,8 @@
           "id": "1171",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 84.2,
-            "CHUD": 53.3,
-            "KOALICE": 78.65,
-            "OPOZICE": 19.91
+            "KOALICE": 16.85000000000001,
+            "OPOZICE": -12.09
           }
         },
         {
@@ -919,10 +835,8 @@
           "id": "1180",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 55.7,
-            "CHUD": 25.9,
-            "KOALICE": 58,
-            "OPOZICE": 40.66
+            "KOALICE": 17.6,
+            "OPOZICE": -13.840000000000003
           }
         },
         {
@@ -940,10 +854,8 @@
           "id": "1198",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 66.4,
-            "CHUD": 54.1,
-            "KOALICE": 69.42,
-            "OPOZICE": 28.87
+            "KOALICE": 25.020000000000003,
+            "OPOZICE": -20.529999999999998
           }
         },
         {
@@ -962,10 +874,8 @@
           "id": "1201",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 61.4,
-            "CHUD": 47.3,
-            "KOALICE": 56.7,
-            "OPOZICE": 40.23
+            "KOALICE": 12.700000000000003,
+            "OPOZICE": -10.670000000000002
           }
         },
         {
@@ -983,10 +893,8 @@
           "id": "1210",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 59.3,
-            "CHUD": 56.2,
-            "KOALICE": 54.3,
-            "OPOZICE": 42.69
+            "KOALICE": 13.599999999999994,
+            "OPOZICE": -11.410000000000004
           }
         },
         {
@@ -1001,10 +909,8 @@
           "id": "1228",
           "properties": {
             "kraj_id": "CZ052",
-            "ZNEV": 49.1,
-            "CHUD": 46.9,
-            "KOALICE": 53.8,
-            "OPOZICE": 42.53
+            "KOALICE": 17.799999999999997,
+            "OPOZICE": -16.869999999999997
           }
         },
         {
@@ -1021,10 +927,8 @@
           "id": "1236",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 69.4,
-            "CHUD": 54,
-            "KOALICE": 80.76,
-            "OPOZICE": 18.19
+            "KOALICE": 22.160000000000004,
+            "OPOZICE": -15.510000000000002
           }
         },
         {
@@ -1043,10 +947,8 @@
           "id": "1244",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 51.5,
-            "CHUD": 34.3,
-            "KOALICE": 73.45,
-            "OPOZICE": 25.32
+            "KOALICE": 22.85,
+            "OPOZICE": -17.28
           }
         },
         {
@@ -1064,10 +966,8 @@
           "id": "1252",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 43.5,
-            "CHUD": 36.9,
-            "KOALICE": 59.19,
-            "OPOZICE": 39.44
+            "KOALICE": 20.989999999999995,
+            "OPOZICE": -12.060000000000002
           }
         },
         {
@@ -1086,10 +986,8 @@
           "id": "27",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 35.4,
-            "CHUD": 38,
-            "KOALICE": 45.41,
-            "OPOZICE": 48.9
+            "KOALICE": 13.11,
+            "OPOZICE": -13.800000000000004
           }
         },
         {
@@ -1109,10 +1007,8 @@
           "id": "35",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 43.3,
-            "CHUD": 33.2,
-            "KOALICE": 50.88,
-            "OPOZICE": 44.31
+            "KOALICE": 16.080000000000005,
+            "OPOZICE": -15.589999999999996
           }
         },
         {
@@ -1128,10 +1024,8 @@
           "id": "43",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 46.1,
-            "CHUD": 39.4,
-            "KOALICE": 57.09,
-            "OPOZICE": 37.44
+            "KOALICE": 17.590000000000003,
+            "OPOZICE": -18.660000000000004
           }
         },
         {
@@ -1149,10 +1043,8 @@
           "id": "51",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 44.8,
-            "CHUD": 47.8,
-            "KOALICE": 41.11,
-            "OPOZICE": 52.17
+            "KOALICE": 11.309999999999999,
+            "OPOZICE": -11.629999999999995
           }
         },
         {
@@ -1168,10 +1060,8 @@
           "id": "60",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 39.5,
-            "CHUD": 36.5,
-            "KOALICE": 51.39,
-            "OPOZICE": 41.36
+            "KOALICE": 10.689999999999998,
+            "OPOZICE": -11.740000000000002
           }
         },
         {
@@ -1188,10 +1078,8 @@
           "id": "78",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 52.6,
-            "CHUD": 58.7,
-            "KOALICE": 49.6,
-            "OPOZICE": 43.45
+            "KOALICE": 13.800000000000004,
+            "OPOZICE": -12.949999999999996
           }
         },
         {
@@ -1208,10 +1096,8 @@
           "id": "86",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 61.5,
-            "CHUD": 60.6,
-            "KOALICE": 52.31,
-            "OPOZICE": 40.69
+            "KOALICE": 12.910000000000004,
+            "OPOZICE": -13.010000000000005
           }
         },
         {
@@ -1230,10 +1116,8 @@
           "id": "94",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 58,
-            "CHUD": 54.6,
-            "KOALICE": 53.15,
-            "OPOZICE": 41.54
+            "KOALICE": 17.75,
+            "OPOZICE": -18.060000000000002
           }
         },
         {
@@ -1250,10 +1134,8 @@
           "id": "108",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 49.1,
-            "CHUD": 48.8,
-            "KOALICE": 40.36,
-            "OPOZICE": 53.01
+            "KOALICE": 10.86,
+            "OPOZICE": -10.690000000000005
           }
         },
         {
@@ -1272,10 +1154,8 @@
           "id": "116",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 58.2,
-            "CHUD": 47.5,
-            "KOALICE": 53.17,
-            "OPOZICE": 41.68
+            "KOALICE": 16.870000000000005,
+            "OPOZICE": -16.020000000000003
           }
         },
         {
@@ -1292,10 +1172,8 @@
           "id": "124",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 57.3,
-            "CHUD": 51.6,
-            "KOALICE": 61.46,
-            "OPOZICE": 33.58
+            "KOALICE": 16.96,
+            "OPOZICE": -17.42
           }
         },
         {
@@ -1314,10 +1192,8 @@
           "id": "132",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 38.8,
-            "CHUD": 44.1,
-            "KOALICE": 48.16,
-            "OPOZICE": 46.5
+            "KOALICE": 15.059999999999995,
+            "OPOZICE": -14.299999999999997
           }
         },
         {
@@ -1336,10 +1212,8 @@
           "id": "141",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 55.2,
-            "CHUD": 59.7,
-            "KOALICE": 51.13,
-            "OPOZICE": 42.52
+            "KOALICE": 15.030000000000001,
+            "OPOZICE": -14.18
           }
         },
         {
@@ -1354,10 +1228,8 @@
           "id": "159",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 59.5,
-            "CHUD": 58.3,
-            "KOALICE": 50.93,
-            "OPOZICE": 43.54
+            "KOALICE": 15.229999999999997,
+            "OPOZICE": -14.36
           }
         },
         {
@@ -1376,10 +1248,8 @@
           "id": "167",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 29.2,
-            "CHUD": 47.2,
-            "KOALICE": 51.05,
-            "OPOZICE": 41.84
+            "KOALICE": 11.449999999999996,
+            "OPOZICE": -13.159999999999997
           }
         },
         {
@@ -1396,10 +1266,8 @@
           "id": "175",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 40.1,
-            "CHUD": 36.3,
-            "KOALICE": 47.44,
-            "OPOZICE": 47.15
+            "KOALICE": 14.439999999999998,
+            "OPOZICE": -14.75
           }
         },
         {
@@ -1415,10 +1283,8 @@
           "id": "183",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 41.3,
-            "CHUD": 54.4,
-            "KOALICE": 39.88,
-            "OPOZICE": 54.61
+            "KOALICE": 13.180000000000003,
+            "OPOZICE": -12.689999999999998
           }
         },
         {
@@ -1436,10 +1302,8 @@
           "id": "191",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 58.5,
-            "CHUD": 43.6,
-            "KOALICE": 51.58,
-            "OPOZICE": 39.9
+            "KOALICE": 12.379999999999995,
+            "OPOZICE": -15.300000000000004
           }
         },
         {
@@ -1456,10 +1320,8 @@
           "id": "205",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 56.1,
-            "CHUD": 41.3,
-            "KOALICE": 48.53,
-            "OPOZICE": 44.55
+            "KOALICE": 13.730000000000004,
+            "OPOZICE": -15.450000000000003
           }
         },
         {
@@ -1480,10 +1342,8 @@
           "id": "213",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 18.6,
-            "CHUD": 32,
-            "KOALICE": 33.21,
-            "OPOZICE": 61.69
+            "KOALICE": 11.010000000000002,
+            "OPOZICE": -10.61
           }
         },
         {
@@ -1502,10 +1362,8 @@
           "id": "221",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 15.7,
-            "CHUD": 25.1,
-            "KOALICE": 30.58,
-            "OPOZICE": 64.65
+            "KOALICE": 9.68,
+            "OPOZICE": -9.349999999999994
           }
         },
         {
@@ -1527,10 +1385,8 @@
           "id": "230",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 19.6,
-            "CHUD": 28.5,
-            "KOALICE": 29.74,
-            "OPOZICE": 64.39
+            "KOALICE": 9.939999999999998,
+            "OPOZICE": -10.909999999999997
           }
         },
         {
@@ -1548,10 +1404,8 @@
           "id": "248",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 57.7,
-            "CHUD": 38.3,
-            "KOALICE": 44.89,
-            "OPOZICE": 49.84
+            "KOALICE": 15.490000000000002,
+            "OPOZICE": -15.459999999999994
           }
         },
         {
@@ -1572,10 +1426,8 @@
           "id": "256",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 66.8,
-            "CHUD": 50.2,
-            "KOALICE": 56.5,
-            "OPOZICE": 37.07
+            "KOALICE": 17.5,
+            "OPOZICE": -17.83
           }
         },
         {
@@ -1593,10 +1445,8 @@
           "id": "264",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 61.9,
-            "CHUD": 38.3,
-            "KOALICE": 45.01,
-            "OPOZICE": 49.8
+            "KOALICE": 14.009999999999998,
+            "OPOZICE": -14.600000000000009
           }
         },
         {
@@ -1616,10 +1466,8 @@
           "id": "272",
           "properties": {
             "kraj_id": "CZ020",
-            "ZNEV": 55.8,
-            "CHUD": 48.9,
-            "KOALICE": 56.84,
-            "OPOZICE": 36.12
+            "KOALICE": 15.340000000000003,
+            "OPOZICE": -16.78
           }
         },
         {
@@ -1635,10 +1483,8 @@
           "id": "281",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 52.9,
-            "CHUD": 40.9,
-            "KOALICE": 33.56,
-            "OPOZICE": 62.08
+            "KOALICE": -12.439999999999998,
+            "OPOZICE": 24.879999999999995
           }
         },
         {
@@ -1655,10 +1501,8 @@
           "id": "299",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 49.9,
-            "CHUD": 49.8,
-            "KOALICE": 34.28,
-            "OPOZICE": 60.8
+            "KOALICE": -3.4200000000000017,
+            "OPOZICE": 14.099999999999994
           }
         },
         {
@@ -1679,10 +1523,8 @@
           "id": "302",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 32.9,
-            "CHUD": 41.3,
-            "KOALICE": 28.64,
-            "OPOZICE": 65.69
+            "KOALICE": -3.6599999999999966,
+            "OPOZICE": 11.689999999999998
           }
         },
         {
@@ -1698,10 +1540,8 @@
           "id": "311",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 65.2,
-            "CHUD": 62.4,
-            "KOALICE": 39.83,
-            "OPOZICE": 55.12
+            "KOALICE": -5.270000000000003,
+            "OPOZICE": 11.919999999999995
           }
         },
         {
@@ -1717,10 +1557,8 @@
           "id": "329",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 67.8,
-            "CHUD": 67,
-            "KOALICE": 38.14,
-            "OPOZICE": 55.58
+            "KOALICE": 0.740000000000002,
+            "OPOZICE": 5.18
           }
         },
         {
@@ -1737,10 +1575,8 @@
           "id": "337",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 63.5,
-            "CHUD": 41.9,
-            "KOALICE": 45.85,
-            "OPOZICE": 48.72
+            "KOALICE": 6.25,
+            "OPOZICE": 0.3200000000000003
           }
         },
         {
@@ -1759,10 +1595,8 @@
           "id": "345",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 48.8,
-            "CHUD": 48.7,
-            "KOALICE": 40.61,
-            "OPOZICE": 51.18
+            "KOALICE": 4.009999999999998,
+            "OPOZICE": 12.979999999999997
           }
         },
         {
@@ -1779,10 +1613,8 @@
           "id": "353",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 52.3,
-            "CHUD": 48.9,
-            "KOALICE": 37.01,
-            "OPOZICE": 56.9
+            "KOALICE": -1.7899999999999991,
+            "OPOZICE": 13.299999999999997
           }
         },
         {
@@ -1799,10 +1631,8 @@
           "id": "361",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 47.5,
-            "CHUD": 27.9,
-            "KOALICE": 56.8,
-            "OPOZICE": 38.42
+            "KOALICE": 10.199999999999996,
+            "OPOZICE": -11.579999999999998
           }
         },
         {
@@ -1817,10 +1647,8 @@
           "id": "370",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 47.3,
-            "CHUD": 30.6,
-            "KOALICE": 50.02,
-            "OPOZICE": 47.26
+            "KOALICE": 17.82,
+            "OPOZICE": -17.440000000000005
           }
         },
         {
@@ -1839,10 +1667,8 @@
           "id": "388",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 42.6,
-            "CHUD": 33.9,
-            "KOALICE": 53.64,
-            "OPOZICE": 41.72
+            "KOALICE": 7.840000000000003,
+            "OPOZICE": -8.68
           }
         },
         {
@@ -1859,10 +1685,8 @@
           "id": "396",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 48.4,
-            "CHUD": 38.5,
-            "KOALICE": 35.41,
-            "OPOZICE": 52.83
+            "KOALICE": -3.990000000000002,
+            "OPOZICE": 9.729999999999997
           }
         },
         {
@@ -1881,10 +1705,8 @@
           "id": "400",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 45.4,
-            "CHUD": 44.5,
-            "KOALICE": 39.94,
-            "OPOZICE": 51.95
+            "KOALICE": 3.6400000000000006,
+            "OPOZICE": 4.550000000000004
           }
         },
         {
@@ -1902,10 +1724,8 @@
           "id": "418",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 49.1,
-            "CHUD": 55.1,
-            "KOALICE": 38.16,
-            "OPOZICE": 54.64
+            "KOALICE": -0.6400000000000006,
+            "OPOZICE": 7.039999999999999
           }
         },
         {
@@ -1921,10 +1741,8 @@
           "id": "426",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 45,
-            "CHUD": 52.1,
-            "KOALICE": 36.69,
-            "OPOZICE": 57.16
+            "KOALICE": 2.1899999999999977,
+            "OPOZICE": 0.1599999999999966
           }
         },
         {
@@ -1941,10 +1759,8 @@
           "id": "434",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 49.3,
-            "CHUD": 41.7,
-            "KOALICE": 45.41,
-            "OPOZICE": 49.26
+            "KOALICE": 2.7099999999999937,
+            "OPOZICE": 2.1599999999999966
           }
         },
         {
@@ -1963,10 +1779,8 @@
           "id": "442",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 54.6,
-            "CHUD": 43.6,
-            "KOALICE": 42.31,
-            "OPOZICE": 49.01
+            "KOALICE": 4.810000000000002,
+            "OPOZICE": -0.5900000000000034
           }
         },
         {
@@ -1982,10 +1796,8 @@
           "id": "451",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 60.2,
-            "CHUD": 43.6,
-            "KOALICE": 37.79,
-            "OPOZICE": 57.3
+            "KOALICE": -0.10999999999999943,
+            "OPOZICE": 5.399999999999999
           }
         },
         {
@@ -2002,10 +1814,8 @@
           "id": "469",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 60.1,
-            "CHUD": 44.6,
-            "KOALICE": 34.12,
-            "OPOZICE": 55.98
+            "KOALICE": -4.880000000000003,
+            "OPOZICE": 11.18
           }
         },
         {
@@ -2026,10 +1836,8 @@
           "id": "477",
           "properties": {
             "kraj_id": "CZ031",
-            "ZNEV": 49.6,
-            "CHUD": 42.3,
-            "KOALICE": 36.61,
-            "OPOZICE": 55.8
+            "KOALICE": 1.509999999999998,
+            "OPOZICE": 10.399999999999999
           }
         },
         {
@@ -2046,10 +1854,8 @@
           "id": "485",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 48.5,
-            "CHUD": 45.9,
-            "KOALICE": 53.14,
-            "OPOZICE": 42.48
+            "KOALICE": 11.340000000000003,
+            "OPOZICE": -9.920000000000002
           }
         },
         {
@@ -2066,10 +1872,8 @@
           "id": "493",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 58.5,
-            "CHUD": 54.5,
-            "KOALICE": 60.9,
-            "OPOZICE": 33.56
+            "KOALICE": 9.5,
+            "OPOZICE": -9.04
           }
         },
         {
@@ -2083,10 +1887,8 @@
           "id": "507",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 46.3,
-            "CHUD": 94.9,
-            "KOALICE": 52.99,
-            "OPOZICE": 8.76
+            "KOALICE": 18.490000000000002,
+            "OPOZICE": -11.540000000000001
           }
         },
         {
@@ -2104,10 +1906,8 @@
           "id": "515",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 50.7,
-            "CHUD": 81,
-            "KOALICE": 58.37,
-            "OPOZICE": 25.76
+            "KOALICE": 15.969999999999999,
+            "OPOZICE": -19.84
           }
         },
         {
@@ -2126,10 +1926,8 @@
           "id": "523",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 44.9,
-            "CHUD": 71.5,
-            "KOALICE": 55.64,
-            "OPOZICE": 28.5
+            "KOALICE": 13.04,
+            "OPOZICE": -11.700000000000003
           }
         },
         {
@@ -2150,10 +1948,8 @@
           "id": "531",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 49.9,
-            "CHUD": 69.1,
-            "KOALICE": 50.35,
-            "OPOZICE": 29.1
+            "KOALICE": 13.75,
+            "OPOZICE": -4.699999999999996
           }
         },
         {
@@ -2168,10 +1964,8 @@
           "id": "540",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 60.6,
-            "CHUD": 82.3,
-            "KOALICE": 48.5,
-            "OPOZICE": 23.89
+            "KOALICE": 14.200000000000003,
+            "OPOZICE": -6.109999999999999
           }
         },
         {
@@ -2188,10 +1982,8 @@
           "id": "558",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 49.8,
-            "CHUD": 35.3,
-            "KOALICE": 58.77,
-            "OPOZICE": 37.04
+            "KOALICE": 20.07,
+            "OPOZICE": -20.259999999999998
           }
         },
         {
@@ -2209,10 +2001,8 @@
           "id": "566",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 41.9,
-            "CHUD": 38.7,
-            "KOALICE": 58.19,
-            "OPOZICE": 36.72
+            "KOALICE": 15.989999999999995,
+            "OPOZICE": -15.68
           }
         },
         {
@@ -2229,10 +2019,8 @@
           "id": "574",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 66.5,
-            "CHUD": 41.4,
-            "KOALICE": 54.32,
-            "OPOZICE": 41.13
+            "KOALICE": 13.520000000000003,
+            "OPOZICE": -13.769999999999996
           }
         },
         {
@@ -2249,10 +2037,8 @@
           "id": "582",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 29,
-            "CHUD": 52.1,
-            "KOALICE": 47.42,
-            "OPOZICE": 48.15
+            "KOALICE": 13.520000000000003,
+            "OPOZICE": -12.149999999999999
           }
         },
         {
@@ -2269,10 +2055,8 @@
           "id": "591",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 49.8,
-            "CHUD": 38,
-            "KOALICE": 55.52,
-            "OPOZICE": 40.78
+            "KOALICE": 12.220000000000006,
+            "OPOZICE": -10.219999999999999
           }
         },
         {
@@ -2290,10 +2074,8 @@
           "id": "604",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 51,
-            "CHUD": 46.3,
-            "KOALICE": 60.08,
-            "OPOZICE": 35.47
+            "KOALICE": 13.879999999999995,
+            "OPOZICE": -12.630000000000003
           }
         },
         {
@@ -2312,10 +2094,8 @@
           "id": "612",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 40.7,
-            "CHUD": 35.8,
-            "KOALICE": 56.64,
-            "OPOZICE": 38.61
+            "KOALICE": 14.439999999999998,
+            "OPOZICE": -12.89
           }
         },
         {
@@ -2332,10 +2112,8 @@
           "id": "621",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 49.3,
-            "CHUD": 46.6,
-            "KOALICE": 58.11,
-            "OPOZICE": 37.37
+            "KOALICE": 14.409999999999997,
+            "OPOZICE": -12.730000000000004
           }
         },
         {
@@ -2352,10 +2130,8 @@
           "id": "639",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 57.2,
-            "CHUD": 47.1,
-            "KOALICE": 58.55,
-            "OPOZICE": 37
+            "KOALICE": 12.149999999999999,
+            "OPOZICE": -10.700000000000003
           }
         },
         {
@@ -2374,10 +2150,8 @@
           "id": "647",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 47.7,
-            "CHUD": 43.6,
-            "KOALICE": 51.96,
-            "OPOZICE": 43.51
+            "KOALICE": 13.86,
+            "OPOZICE": -12.090000000000003
           }
         },
         {
@@ -2397,10 +2171,8 @@
           "id": "655",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 46.2,
-            "CHUD": 40.3,
-            "KOALICE": 53.74,
-            "OPOZICE": 41.55
+            "KOALICE": 10.940000000000005,
+            "OPOZICE": -9.350000000000001
           }
         },
         {
@@ -2416,10 +2188,8 @@
           "id": "663",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 71.9,
-            "CHUD": 112.7,
-            "KOALICE": 48.9,
-            "OPOZICE": 13.89
+            "KOALICE": -10.100000000000001,
+            "OPOZICE": -7.210000000000001
           }
         },
         {
@@ -2435,10 +2205,8 @@
           "id": "671",
           "properties": {
             "kraj_id": "CZ041",
-            "ZNEV": 68.3,
-            "CHUD": 99.9,
-            "KOALICE": 58.72,
-            "OPOZICE": 22.22
+            "KOALICE": 15.719999999999999,
+            "OPOZICE": -7.48
           }
         },
         {
@@ -2455,10 +2223,8 @@
           "id": "680",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 60.1,
-            "CHUD": 68,
-            "KOALICE": 66.02,
-            "OPOZICE": 29.73
+            "KOALICE": 14.419999999999995,
+            "OPOZICE": -12.569999999999997
           }
         },
         {
@@ -2475,10 +2241,8 @@
           "id": "698",
           "properties": {
             "kraj_id": "CZ032",
-            "ZNEV": 61.6,
-            "CHUD": 65.6,
-            "KOALICE": 68.43,
-            "OPOZICE": 26.79
+            "KOALICE": 17.230000000000004,
+            "OPOZICE": -14.61
           }
         },
         {
@@ -2495,10 +2259,8 @@
           "id": "701",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 62.3,
-            "CHUD": 72.5,
-            "KOALICE": 47.85,
-            "OPOZICE": 45.49
+            "KOALICE": 17.950000000000003,
+            "OPOZICE": -18.509999999999998
           }
         },
         {
@@ -2517,10 +2279,8 @@
           "id": "710",
           "properties": {
             "kraj_id": "CZ051",
-            "ZNEV": 59.1,
-            "CHUD": 81.6,
-            "KOALICE": 57.75,
-            "OPOZICE": 35.09
+            "KOALICE": 16.549999999999997,
+            "OPOZICE": -15.61
           }
         },
         {
@@ -2539,10 +2299,8 @@
           "id": "728",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 69.4,
-            "CHUD": 80.2,
-            "KOALICE": 58.39,
-            "OPOZICE": 35.28
+            "KOALICE": 12.490000000000002,
+            "OPOZICE": -6.82
           }
         },
         {
@@ -2557,10 +2315,8 @@
           "id": "736",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 77.3,
-            "CHUD": 95.3,
-            "KOALICE": 54.65,
-            "OPOZICE": 40.04
+            "KOALICE": 15.350000000000001,
+            "OPOZICE": -9.060000000000002
           }
         },
         {
@@ -2576,10 +2332,8 @@
           "id": "744",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 71.6,
-            "CHUD": 85,
-            "KOALICE": 60.11,
-            "OPOZICE": 34.52
+            "KOALICE": 15.61,
+            "OPOZICE": -10.879999999999995
           }
         },
         {
@@ -2596,10 +2350,8 @@
           "id": "752",
           "properties": {
             "kraj_id": "CZ042",
-            "ZNEV": 67,
-            "CHUD": 106.3,
-            "KOALICE": 56.77,
-            "OPOZICE": 28.67
+            "KOALICE": 7.470000000000006,
+            "OPOZICE": -8.229999999999997
           }
         },
         {
@@ -2616,10 +2368,8 @@
           "id": "1261",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 44.2,
-            "CHUD": 28.7,
-            "KOALICE": 68.97,
-            "OPOZICE": 29.52
+            "KOALICE": 23.369999999999997,
+            "OPOZICE": -19.38
           }
         },
         {
@@ -2635,10 +2385,8 @@
           "id": "1279",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 55.7,
-            "CHUD": 48.2,
-            "KOALICE": 73.89,
-            "OPOZICE": 24.57
+            "KOALICE": 8.790000000000006,
+            "OPOZICE": -5.73
           }
         },
         {
@@ -2656,10 +2404,8 @@
           "id": "1287",
           "properties": {
             "kraj_id": "CZ053",
-            "ZNEV": 45.1,
-            "CHUD": 39.6,
-            "KOALICE": 67.9,
-            "OPOZICE": 30.97
+            "KOALICE": 20.300000000000004,
+            "OPOZICE": -13.43
           }
         },
         {
@@ -2678,10 +2424,8 @@
           "id": "1295",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 40.6,
-            "CHUD": 35,
-            "KOALICE": 45.14,
-            "OPOZICE": 45.35
+            "KOALICE": 4.740000000000002,
+            "OPOZICE": -9.049999999999997
           }
         },
         {
@@ -2701,10 +2445,8 @@
           "id": "1309",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 58,
-            "CHUD": 34.8,
-            "KOALICE": 49.69,
-            "OPOZICE": 42.65
+            "KOALICE": 9.39,
+            "OPOZICE": -12.25
           }
         },
         {
@@ -2724,10 +2466,8 @@
           "id": "1317",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 40.4,
-            "CHUD": 53.5,
-            "KOALICE": 34.82,
-            "OPOZICE": 55.75
+            "KOALICE": 3.620000000000001,
+            "OPOZICE": -8.25
           }
         },
         {
@@ -2745,10 +2485,8 @@
           "id": "1325",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 58.2,
-            "CHUD": 40.4,
-            "KOALICE": 49.12,
-            "OPOZICE": 42.12
+            "KOALICE": 5.32,
+            "OPOZICE": -8.480000000000004
           }
         },
         {
@@ -2765,10 +2503,8 @@
           "id": "1333",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 40.9,
-            "CHUD": 27.6,
-            "KOALICE": 30.47,
-            "OPOZICE": 62.9
+            "KOALICE": 5.27,
+            "OPOZICE": -8.199999999999996
           }
         },
         {
@@ -2787,10 +2523,8 @@
           "id": "1341",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 49.6,
-            "CHUD": 34.5,
-            "KOALICE": 47.92,
-            "OPOZICE": 45.21
+            "KOALICE": 8.020000000000003,
+            "OPOZICE": -10.29
           }
         },
         {
@@ -2808,10 +2542,8 @@
           "id": "1350",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 53.9,
-            "CHUD": 25.2,
-            "KOALICE": 40.26,
-            "OPOZICE": 53.37
+            "KOALICE": 6.859999999999999,
+            "OPOZICE": -9.43
           }
         },
         {
@@ -2851,10 +2583,8 @@
           "id": "1368",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 34.9,
-            "CHUD": 22.9,
-            "KOALICE": 31.05,
-            "OPOZICE": 60.98
+            "KOALICE": 3.4499999999999993,
+            "OPOZICE": -6.520000000000003
           }
         },
         {
@@ -2875,10 +2605,8 @@
           "id": "1376",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 53.6,
-            "CHUD": 30.9,
-            "KOALICE": 38.01,
-            "OPOZICE": 47.87
+            "KOALICE": 4.009999999999998,
+            "OPOZICE": -13.330000000000005
           }
         },
         {
@@ -2894,10 +2622,8 @@
           "id": "1384",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 62.9,
-            "CHUD": 42.8,
-            "KOALICE": 48.71,
-            "OPOZICE": 41.22
+            "KOALICE": 6.410000000000004,
+            "OPOZICE": -11.280000000000001
           }
         },
         {
@@ -2916,10 +2642,8 @@
           "id": "1392",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 65.3,
-            "CHUD": 35.2,
-            "KOALICE": 42.9,
-            "OPOZICE": 43.89
+            "KOALICE": 7.600000000000001,
+            "OPOZICE": -16.409999999999997
           }
         },
         {
@@ -2936,10 +2660,8 @@
           "id": "1406",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 75.4,
-            "CHUD": 49.6,
-            "KOALICE": 50.01,
-            "OPOZICE": 37.66
+            "KOALICE": 6.409999999999997,
+            "OPOZICE": -13.340000000000003
           }
         },
         {
@@ -2957,10 +2679,8 @@
           "id": "1414",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 75.4,
-            "CHUD": 40.4,
-            "KOALICE": 43.48,
-            "OPOZICE": 34.88
+            "KOALICE": -1.9200000000000017,
+            "OPOZICE": -13.919999999999995
           }
         },
         {
@@ -2977,10 +2697,8 @@
           "id": "1422",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 49.1,
-            "CHUD": 21.4,
-            "KOALICE": 48.36,
-            "OPOZICE": 46.31
+            "KOALICE": 12.36,
+            "OPOZICE": -8.489999999999995
           }
         },
         {
@@ -2996,10 +2714,8 @@
           "id": "1431",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 49.9,
-            "CHUD": 38.4,
-            "KOALICE": 53.08,
-            "OPOZICE": 40.18
+            "KOALICE": 11.479999999999997,
+            "OPOZICE": -12.219999999999999
           }
         },
         {
@@ -3015,10 +2731,8 @@
           "id": "1449",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 68.9,
-            "CHUD": 29,
-            "KOALICE": 48.16,
-            "OPOZICE": 47.64
+            "KOALICE": 14.659999999999997,
+            "OPOZICE": -13.36
           }
         },
         {
@@ -3034,10 +2748,8 @@
           "id": "1457",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 54.1,
-            "CHUD": 24.6,
-            "KOALICE": 47.95,
-            "OPOZICE": 47.08
+            "KOALICE": 12.850000000000001,
+            "OPOZICE": -5.920000000000002
           }
         },
         {
@@ -3057,10 +2769,8 @@
           "id": "1465",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 41.1,
-            "CHUD": 31.6,
-            "KOALICE": 44.36,
-            "OPOZICE": 50.43
+            "KOALICE": 8.36,
+            "OPOZICE": -4.369999999999997
           }
         },
         {
@@ -3084,10 +2794,8 @@
           "id": "1473",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 86.8,
-            "CHUD": 48.8,
-            "KOALICE": 50.7,
-            "OPOZICE": 43.54
+            "KOALICE": 13.300000000000004,
+            "OPOZICE": -14.160000000000004
           }
         },
         {
@@ -3109,10 +2817,8 @@
           "id": "1481",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 75.9,
-            "CHUD": 35.6,
-            "KOALICE": 45.61,
-            "OPOZICE": 48.2
+            "KOALICE": 10.409999999999997,
+            "OPOZICE": -13.099999999999994
           }
         },
         {
@@ -3129,10 +2835,8 @@
           "id": "1490",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 76.8,
-            "CHUD": 36.2,
-            "KOALICE": 48.59,
-            "OPOZICE": 46.91
+            "KOALICE": 11.39,
+            "OPOZICE": -12.39
           }
         },
         {
@@ -3151,10 +2855,8 @@
           "id": "1503",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 51,
-            "CHUD": 38.1,
-            "KOALICE": 49.96,
-            "OPOZICE": 45.16
+            "KOALICE": 11.560000000000002,
+            "OPOZICE": -10.040000000000006
           }
         },
         {
@@ -3172,10 +2874,8 @@
           "id": "1511",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 72.2,
-            "CHUD": 30.7,
-            "KOALICE": 40.68,
-            "OPOZICE": 55.5
+            "KOALICE": 11.780000000000001,
+            "OPOZICE": -11.299999999999997
           }
         },
         {
@@ -3194,10 +2894,8 @@
           "id": "1520",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 69.7,
-            "CHUD": 37.2,
-            "KOALICE": 56.03,
-            "OPOZICE": 35.39
+            "KOALICE": 12.329999999999998,
+            "OPOZICE": -16.11
           }
         },
         {
@@ -3214,10 +2912,8 @@
           "id": "1538",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 57.3,
-            "CHUD": 35.2,
-            "KOALICE": 56.95,
-            "OPOZICE": 36.95
+            "KOALICE": 12.550000000000004,
+            "OPOZICE": -11.549999999999997
           }
         },
         {
@@ -3237,10 +2933,8 @@
           "id": "1546",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 60.4,
-            "CHUD": 43.3,
-            "KOALICE": 63.68,
-            "OPOZICE": 30.52
+            "KOALICE": 10.280000000000001,
+            "OPOZICE": -10.080000000000002
           }
         },
         {
@@ -3256,10 +2950,8 @@
           "id": "1554",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 70.7,
-            "CHUD": 34.6,
-            "KOALICE": 57.12,
-            "OPOZICE": 35.01
+            "KOALICE": 12.82,
+            "OPOZICE": -14.79
           }
         },
         {
@@ -3279,10 +2971,8 @@
           "id": "1562",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 52.7,
-            "CHUD": 43.7,
-            "KOALICE": 59.64,
-            "OPOZICE": 36.04
+            "KOALICE": 11.840000000000003,
+            "OPOZICE": -9.060000000000002
           }
         },
         {
@@ -3298,10 +2988,8 @@
           "id": "1571",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 75.6,
-            "CHUD": 40.2,
-            "KOALICE": 50.45,
-            "OPOZICE": 46.02
+            "KOALICE": 12.75,
+            "OPOZICE": -10.479999999999997
           }
         },
         {
@@ -3318,10 +3006,8 @@
           "id": "1589",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 68.7,
-            "CHUD": 31.1,
-            "KOALICE": 58.26,
-            "OPOZICE": 37.88
+            "KOALICE": 12.659999999999997,
+            "OPOZICE": -9.619999999999997
           }
         },
         {
@@ -3340,10 +3026,8 @@
           "id": "1597",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 65.7,
-            "CHUD": 34.8,
-            "KOALICE": 54.76,
-            "OPOZICE": 41.13
+            "KOALICE": 14.259999999999998,
+            "OPOZICE": -12.169999999999995
           }
         },
         {
@@ -3361,10 +3045,8 @@
           "id": "1601",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 53.3,
-            "CHUD": 34.7,
-            "KOALICE": 49.26,
-            "OPOZICE": 42.94
+            "KOALICE": 15.059999999999995,
+            "OPOZICE": -12.96
           }
         },
         {
@@ -3381,10 +3063,8 @@
           "id": "1619",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 53.3,
-            "CHUD": 30.2,
-            "KOALICE": 48.63,
-            "OPOZICE": 44.29
+            "KOALICE": 16.730000000000004,
+            "OPOZICE": -15.21
           }
         },
         {
@@ -3400,10 +3080,8 @@
           "id": "1627",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 61.3,
-            "CHUD": 45.6,
-            "KOALICE": 52.89,
-            "OPOZICE": 40.95
+            "KOALICE": 8.39,
+            "OPOZICE": -10.549999999999997
           }
         },
         {
@@ -3421,10 +3099,8 @@
           "id": "1635",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 49,
-            "CHUD": 29.4,
-            "KOALICE": 42.64,
-            "OPOZICE": 48.87
+            "KOALICE": 4.640000000000001,
+            "OPOZICE": -8.730000000000004
           }
         },
         {
@@ -3442,10 +3118,8 @@
           "id": "1643",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 48.2,
-            "CHUD": 36.2,
-            "KOALICE": 55.7,
-            "OPOZICE": 37.8
+            "KOALICE": 8.800000000000004,
+            "OPOZICE": -10.300000000000004
           }
         },
         {
@@ -3462,10 +3136,8 @@
           "id": "1651",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 80.2,
-            "CHUD": 45.1,
-            "KOALICE": 54.81,
-            "OPOZICE": 36.92
+            "KOALICE": 7.510000000000005,
+            "OPOZICE": -12.18
           }
         },
         {
@@ -3484,10 +3156,8 @@
           "id": "1660",
           "properties": {
             "kraj_id": "CZ064",
-            "ZNEV": 87.7,
-            "CHUD": 51.7,
-            "KOALICE": 53.09,
-            "OPOZICE": 38.82
+            "KOALICE": 5.290000000000006,
+            "OPOZICE": -8.18
           }
         },
         {
@@ -3504,10 +3174,8 @@
           "id": "1678",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 72.1,
-            "CHUD": 35.6,
-            "KOALICE": 59.29,
-            "OPOZICE": 36.23
+            "KOALICE": 10.29,
+            "OPOZICE": -8.07
           }
         },
         {
@@ -3523,10 +3191,8 @@
           "id": "1686",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 63,
-            "CHUD": 33.4,
-            "KOALICE": 47.24,
-            "OPOZICE": 49.1
+            "KOALICE": 5.039999999999999,
+            "OPOZICE": -4.799999999999997
           }
         },
         {
@@ -3546,10 +3212,8 @@
           "id": "1694",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 61.8,
-            "CHUD": 25.1,
-            "KOALICE": 47.37,
-            "OPOZICE": 47.65
+            "KOALICE": 11.169999999999995,
+            "OPOZICE": -11.050000000000004
           }
         },
         {
@@ -3568,10 +3232,8 @@
           "id": "1708",
           "properties": {
             "kraj_id": "CZ063",
-            "ZNEV": 48,
-            "CHUD": 27.7,
-            "KOALICE": 49.57,
-            "OPOZICE": 45.89
+            "KOALICE": 10.770000000000003,
+            "OPOZICE": -10.409999999999997
           }
         },
         {
@@ -3590,10 +3252,8 @@
           "id": "1716",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 92.4,
-            "CHUD": 88.2,
-            "KOALICE": 76.52,
-            "OPOZICE": 20.87
+            "KOALICE": 17.419999999999995,
+            "OPOZICE": -7.029999999999998
           }
         },
         {
@@ -3609,10 +3269,8 @@
           "id": "1724",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 85.5,
-            "CHUD": 77.5,
-            "KOALICE": 76.75,
-            "OPOZICE": 21
+            "KOALICE": 17.65,
+            "OPOZICE": -9.2
           }
         },
         {
@@ -3628,10 +3286,8 @@
           "id": "1732",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 82.2,
-            "CHUD": 78.9,
-            "KOALICE": 75.65,
-            "OPOZICE": 21.96
+            "KOALICE": 20.450000000000003,
+            "OPOZICE": -10.939999999999998
           }
         },
         {
@@ -3652,10 +3308,8 @@
           "id": "1741",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 52.4,
-            "CHUD": 43.2,
-            "KOALICE": 60.11,
-            "OPOZICE": 35.09
+            "KOALICE": 11.509999999999998,
+            "OPOZICE": -6.709999999999994
           }
         },
         {
@@ -3672,10 +3326,8 @@
           "id": "1759",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 49.8,
-            "CHUD": 27.1,
-            "KOALICE": 53.38,
-            "OPOZICE": 41.81
+            "KOALICE": 11.68,
+            "OPOZICE": -6.989999999999995
           }
         },
         {
@@ -3690,10 +3342,8 @@
           "id": "1767",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 52.9,
-            "CHUD": 20.4,
-            "KOALICE": 57.59,
-            "OPOZICE": 39.35
+            "KOALICE": 14.590000000000003,
+            "OPOZICE": -12.049999999999997
           }
         },
         {
@@ -3709,10 +3359,8 @@
           "id": "1775",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 46,
-            "CHUD": 30.9,
-            "KOALICE": 60.68,
-            "OPOZICE": 35.09
+            "KOALICE": 13.18,
+            "OPOZICE": -7.809999999999995
           }
         },
         {
@@ -3729,10 +3377,8 @@
           "id": "1783",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 67.6,
-            "CHUD": 65.7,
-            "KOALICE": 76.85,
-            "OPOZICE": 20.47
+            "KOALICE": 13.049999999999997,
+            "OPOZICE": -8.73
           }
         },
         {
@@ -3749,10 +3395,8 @@
           "id": "1791",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 78.7,
-            "CHUD": 78.2,
-            "KOALICE": 68.69,
-            "OPOZICE": 27.6
+            "KOALICE": 11.489999999999995,
+            "OPOZICE": -8.299999999999997
           }
         },
         {
@@ -3769,10 +3413,8 @@
           "id": "1805",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 99.7,
-            "CHUD": 81.7,
-            "KOALICE": 80.1,
-            "OPOZICE": 16.33
+            "KOALICE": 13.199999999999989,
+            "OPOZICE": -8.870000000000001
           }
         },
         {
@@ -3788,10 +3430,8 @@
           "id": "1813",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 86.5,
-            "CHUD": 84.8,
-            "KOALICE": 79.9,
-            "OPOZICE": 16.68
+            "KOALICE": 15.900000000000006,
+            "OPOZICE": -10.620000000000001
           }
         },
         {
@@ -3808,10 +3448,8 @@
           "id": "1821",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 63.6,
-            "CHUD": 54.6,
-            "KOALICE": 59.5,
-            "OPOZICE": 37.07
+            "KOALICE": 15,
+            "OPOZICE": -11.530000000000001
           }
         },
         {
@@ -3828,10 +3466,8 @@
           "id": "1830",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 58.7,
-            "CHUD": 47.9,
-            "KOALICE": 63.51,
-            "OPOZICE": 33.18
+            "KOALICE": 15.11,
+            "OPOZICE": -5.119999999999997
           }
         },
         {
@@ -3848,10 +3484,8 @@
           "id": "1848",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 48.6,
-            "CHUD": 34,
-            "KOALICE": 57.68,
-            "OPOZICE": 39.14
+            "KOALICE": 14.079999999999998,
+            "OPOZICE": -10.259999999999998
           }
         },
         {
@@ -3868,10 +3502,8 @@
           "id": "1856",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 49.7,
-            "CHUD": 44.2,
-            "KOALICE": 54.1,
-            "OPOZICE": 40.59
+            "KOALICE": 9.600000000000001,
+            "OPOZICE": -2.7099999999999937
           }
         },
         {
@@ -3890,10 +3522,8 @@
           "id": "1864",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 49.9,
-            "CHUD": 45.1,
-            "KOALICE": 59.63,
-            "OPOZICE": 36.66
+            "KOALICE": 15.630000000000003,
+            "OPOZICE": -12.240000000000002
           }
         },
         {
@@ -3911,10 +3541,8 @@
           "id": "1872",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 71.9,
-            "CHUD": 62.7,
-            "KOALICE": 64.36,
-            "OPOZICE": 31.29
+            "KOALICE": 15.560000000000002,
+            "OPOZICE": -11.21
           }
         },
         {
@@ -3933,10 +3561,8 @@
           "id": "1881",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 55.6,
-            "CHUD": 35.9,
-            "KOALICE": 53.55,
-            "OPOZICE": 40.76
+            "KOALICE": 9.549999999999997,
+            "OPOZICE": -8.14
           }
         },
         {
@@ -3956,10 +3582,8 @@
           "id": "1899",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 48.4,
-            "CHUD": 45,
-            "KOALICE": 49.51,
-            "OPOZICE": 46.49
+            "KOALICE": 11.21,
+            "OPOZICE": -7.210000000000001
           }
         },
         {
@@ -3977,10 +3601,8 @@
           "id": "1902",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 69.6,
-            "CHUD": 43.4,
-            "KOALICE": 59.83,
-            "OPOZICE": 36.14
+            "KOALICE": 17.729999999999997,
+            "OPOZICE": -15.159999999999997
           }
         },
         {
@@ -3998,10 +3620,8 @@
           "id": "1911",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 70.5,
-            "CHUD": 60.4,
-            "KOALICE": 60.78,
-            "OPOZICE": 35.04
+            "KOALICE": 13.68,
+            "OPOZICE": -10.660000000000004
           }
         },
         {
@@ -4018,10 +3638,8 @@
           "id": "1929",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 48.8,
-            "CHUD": 42.7,
-            "KOALICE": 62.32,
-            "OPOZICE": 35.28
+            "KOALICE": 15.82,
+            "OPOZICE": -9.219999999999999
           }
         },
         {
@@ -4036,10 +3654,8 @@
           "id": "1937",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 66,
-            "CHUD": 44.4,
-            "KOALICE": 63.48,
-            "OPOZICE": 33.82
+            "KOALICE": 20.379999999999995,
+            "OPOZICE": -11.780000000000001
           }
         },
         {
@@ -4060,10 +3676,8 @@
           "id": "1945",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 56.1,
-            "CHUD": 39.9,
-            "KOALICE": 61.71,
-            "OPOZICE": 35.75
+            "KOALICE": 18.410000000000004,
+            "OPOZICE": -6.950000000000003
           }
         },
         {
@@ -4080,10 +3694,8 @@
           "id": "1953",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 99,
-            "CHUD": 70,
-            "KOALICE": 69.66,
-            "OPOZICE": 27.59
+            "KOALICE": 18.36,
+            "OPOZICE": -9.110000000000003
           }
         },
         {
@@ -4103,10 +3715,8 @@
           "id": "1961",
           "properties": {
             "kraj_id": "CZ080",
-            "ZNEV": 68.6,
-            "CHUD": 74.8,
-            "KOALICE": 62.47,
-            "OPOZICE": 34.44
+            "KOALICE": 10.670000000000002,
+            "OPOZICE": -4.560000000000002
           }
         },
         {
@@ -4124,10 +3734,8 @@
           "id": "1970",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 60.6,
-            "CHUD": 41.5,
-            "KOALICE": 57.64,
-            "OPOZICE": 37.62
+            "KOALICE": 14.04,
+            "OPOZICE": -11.280000000000001
           }
         },
         {
@@ -4143,10 +3751,8 @@
           "id": "1988",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 67.5,
-            "CHUD": 46.5,
-            "KOALICE": 59.38,
-            "OPOZICE": 35.72
+            "KOALICE": 12.68,
+            "OPOZICE": -8.18
           }
         },
         {
@@ -4164,10 +3770,8 @@
           "id": "1996",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 67.2,
-            "CHUD": 60.4,
-            "KOALICE": 66.59,
-            "OPOZICE": 30.14
+            "KOALICE": 17.89,
+            "OPOZICE": -13.060000000000002
           }
         },
         {
@@ -4183,10 +3787,8 @@
           "id": "2003",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 70.4,
-            "CHUD": 37.3,
-            "KOALICE": 66.97,
-            "OPOZICE": 28.57
+            "KOALICE": 19.17,
+            "OPOZICE": -16.33
           }
         },
         {
@@ -4204,10 +3806,8 @@
           "id": "2011",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 69.2,
-            "CHUD": 36.5,
-            "KOALICE": 56.13,
-            "OPOZICE": 40.98
+            "KOALICE": 14.43,
+            "OPOZICE": -11.920000000000002
           }
         },
         {
@@ -4226,10 +3826,8 @@
           "id": "2020",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 68.7,
-            "CHUD": 56.3,
-            "KOALICE": 60.49,
-            "OPOZICE": 35.12
+            "KOALICE": 11.89,
+            "OPOZICE": -10.280000000000001
           }
         },
         {
@@ -4246,10 +3844,8 @@
           "id": "2038",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 57.8,
-            "CHUD": 30,
-            "KOALICE": 52.61,
-            "OPOZICE": 43.45
+            "KOALICE": 17.11,
+            "OPOZICE": -14.849999999999994
           }
         },
         {
@@ -4266,10 +3862,8 @@
           "id": "2046",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 55.2,
-            "CHUD": 33.5,
-            "KOALICE": 54.38,
-            "OPOZICE": 41.2
+            "KOALICE": 17.580000000000005,
+            "OPOZICE": -16
           }
         },
         {
@@ -4289,10 +3883,8 @@
           "id": "2054",
           "properties": {
             "kraj_id": "CZ072",
-            "ZNEV": 66,
-            "CHUD": 33.5,
-            "KOALICE": 46.35,
-            "OPOZICE": 49.57
+            "KOALICE": 14.650000000000002,
+            "OPOZICE": -13.130000000000003
           }
         },
         {
@@ -4308,10 +3900,8 @@
           "id": "2062",
           "properties": {
             "kraj_id": "CZ071",
-            "ZNEV": 85.5,
-            "CHUD": 69.5,
-            "KOALICE": 67.07,
-            "OPOZICE": 30.52
+            "KOALICE": 15.769999999999996,
+            "OPOZICE": -12.879999999999999
           }
         }
       ]

@@ -64,12 +64,12 @@ function Map({
       suffix = " (index)";
       break;
     case "KOALICE":
-      title = "Výsledek opozice";
-      suffix = " % hlasů";
+      title = "Kde si polepšila koalice";
+      suffix = " p. b.";
       break;
     case "OPOZICE":
-      title = "Výsledek pětikoalice";
-      suffix = " % hlasů";
+      title = "Kde si polepšila opozice";
+      suffix = " p. b.";
       break;
     default:
       title = "Nevím";
@@ -84,10 +84,10 @@ function Map({
       subtitle = "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
       break;
     case "KOALICE":
-      subtitle = "Hlasy pro ANO, ČSSD, KSČM a SPD v krajských volbách 2024";
+      subtitle = "Rozdíl mezi hlasy pro ANO, ČSSD, KSČM a SPD v krajských volbách 2020 a 2024";
       break;
     case "OPOZICE":
-      subtitle = "Hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2024";
+      subtitle = "Rozdíl mezi hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020 a 2024";
       break;
     default:
       subtitle = "";
@@ -157,10 +157,10 @@ function Map({
       colorInterpolator = d3.interpolateRgb("#fffdf0  ", "#e6001d"); //d3.interpolateReds;
       break;
     case "KOALICE":
-      colorInterpolator = d3.interpolateRgb("#fffdf0", "#009bbd"); //d3.interpolatePurples;
+      colorInterpolator = d3.interpolateRgbBasis(['#d7191c', '#fdae61', '#ffffbf', '#a6d96a', '#1a9641']); //d3.interpolatePurples;
       break;
     case "OPOZICE":
-      colorInterpolator = d3.interpolateRgb("#fffbf0", "#973bc6"); //d3.interpolateBlues;
+      colorInterpolator = d3.interpolateRgbBasis(['#d7191c', '#fdae61', '#ffffbf', '#a6d96a', '#1a9641']); //d3.interpolatePurples;
       break;
     default:
       colorInterpolator = d3.interpolateRgb("#f9f1ed", "#c94300"); // d3.interpolateOranges;
@@ -210,7 +210,7 @@ function Map({
                   <div>
                     <p>
                       {shape.properties
-                        ? `${orps.find((orp) => orp.id === Number(shape.id))?.name}: ${shape.properties[property].toLocaleString("cs")} ${suffix}`
+                        ? `${orps.find((orp) => orp.id === Number(shape.id))?.name}: ${shape.properties[property].toLocaleString("cs", { signDisplay: "exceptZero" })} ${suffix}`
                         : "No data"}
                     </p>
                   </div>

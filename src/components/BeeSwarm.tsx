@@ -7,10 +7,10 @@ const customLocale = d3.formatLocale({
     thousands: " ",
     grouping: [3],
     currency: ["Kč", ""],
-    percent: " %"
+    percent: " p. b."
 });
 
-const f = customLocale.format(".0%");
+const f = customLocale.format("+.0%");
 
 function BeeSwarm({ orps, colorScale, data, filteredData, property, activeTooltip, setTooltip }:
     { orps: any[], colorScale: any, data: any[], filteredData: any[], property: string, activeTooltip: string, setTooltip: Function }) {

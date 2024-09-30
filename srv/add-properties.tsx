@@ -44,10 +44,8 @@ const newTopo = {
                     ...geometry,
                     properties: {
                         ...geometry.properties,
-                        ZNEV: orp.ZNEV,
-                        CHUD: orp.CHUD,
-                        KOALICE: orp.KOA24,
-                        OPOZICE: orp.OPO24,
+                        KOALICE: orp.KOA24 - orp.KOALICE,
+                        OPOZICE: orp.OPO24 - orp.OPOZICE,
                     },
                 };
             }),
