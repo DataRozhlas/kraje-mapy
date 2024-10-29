@@ -5,7 +5,7 @@ import { csvParse } from "d3";
 const properties = await Bun.file("srv/data/properties.json").json();
 const topo = await Bun.file("srv/data/orp.topo.json").json();
 const orps = await Bun.file("src/assets/orps.json").json();
-const raw = await Bun.file("srv/data/blokyorp.csv").text().then(d => csvParse(d));
+const raw = await Bun.file("srv/data/blokyorp.json").json();
 
 console.log(properties);
 

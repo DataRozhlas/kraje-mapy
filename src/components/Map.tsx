@@ -84,7 +84,7 @@ function Map({
       subtitle = "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
       break;
     case "KOALICE":
-      subtitle = "Rozdíl mezi hlasy pro ANO, ČSSD, KSČM a SPD v krajských volbách 2020 a 2024";
+      subtitle = "Rozdíl mezi hlasy pro ANO, ČSSD, KSČM, SPD a Přísahu v krajských volbách 2020 a 2024";
       break;
     case "OPOZICE":
       subtitle = "Rozdíl mezi hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020 a 2024";

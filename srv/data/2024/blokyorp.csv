@@ -1,0 +1,616 @@
+"KRAJ","ORP","BLOK","HLASYPROC"
+"Karlovarský","Aš","",38.25
+"Středočeský","Benešov","",5.7
+"Středočeský","Beroun","",6.71
+"Ústecký","Bílina","",13.05
+"Moravskoslezský","Bílovec","",3.32
+"Jihomoravský","Blansko","",9.5
+"Jihočeský","Blatná","",5.33
+"Plzeňský","Blovice","",3.7
+"Moravskoslezský","Bohumín","",2.68
+"Jihomoravský","Boskovice","",7.66
+"Středočeský","Brandýs nad Labem-Stará Boleslav","",5.09
+"Jihomoravský","Brno","",9.43
+"Královéhradecký","Broumov","",2.25
+"Moravskoslezský","Bruntál","",2.61
+"Jihomoravský","Břeclav","",10.08
+"Jihomoravský","Bučovice","",6.17
+"Vysočina","Bystřice nad Pernštejnem","",4.49
+"Zlínský","Bystřice pod Hostýnem","",8.58
+"Středočeský","Čáslav","",4.96
+"Středočeský","Černošice","",5.87
+"Liberecký","Česká Lípa","",7.17
+"Pardubický","Česká Třebová","",12.65
+"Jihočeský","České Budějovice","",5.67
+"Středočeský","Český Brod","",6.63
+"Jihočeský","Český Krumlov","",6.27
+"Moravskoslezský","Český Těšín","",3.41
+"Jihočeský","Dačice","",5.42
+"Ústecký","Děčín","",8.14
+"Královéhradecký","Dobruška","",2.74
+"Středočeský","Dobříš","",5.25
+"Plzeňský","Domažlice","",4.37
+"Královéhradecký","Dvůr Králové nad Labem","",3.06
+"Moravskoslezský","Frenštát pod Radhoštěm","",3.19
+"Moravskoslezský","Frýdek-Místek","",4.8
+"Liberecký","Frýdlant","",8.13
+"Moravskoslezský","Frýdlant nad Ostravicí","",4.8
+"Moravskoslezský","Havířov","",3.72
+"Vysočina","Havlíčkův Brod","",4.55
+"Pardubický","Hlinsko","",17.04
+"Moravskoslezský","Hlučín","",2.4
+"Jihomoravský","Hodonín","",5.76
+"Zlínský","Holešov","",6.1
+"Pardubický","Holice","",14.19
+"Plzeňský","Horažďovice","",4.19
+"Plzeňský","Horšovský Týn","",5.53
+"Královéhradecký","Hořice","",4.07
+"Středočeský","Hořovice","",7.23
+"Královéhradecký","Hradec Králové","",4.29
+"Olomoucký","Hranice","",4.74
+"Vysočina","Humpolec","",4.79
+"Jihomoravský","Hustopeče","",13.2
+"Karlovarský","Cheb","",15.88
+"Ústecký","Chomutov","",17.33
+"Vysočina","Chotěboř","",3
+"Pardubický","Chrudim","",13.85
+"Jihomoravský","Ivančice","",8.77
+"Liberecký","Jablonec nad Nisou","",9.97
+"Moravskoslezský","Jablunkov","",3.06
+"Královéhradecký","Jaroměř","",5.35
+"Olomoucký","Jeseník","",2.43
+"Královéhradecký","Jičín","",3.11
+"Vysočina","Jihlava","",4.86
+"Liberecký","Jilemnice","",6.9
+"Jihočeský","Jindřichův Hradec","",8.22
+"Ústecký","Kadaň","",7.05
+"Jihočeský","Kaplice","",5.04
+"Karlovarský","Karlovy Vary","",20.57
+"Moravskoslezský","Karviná","",3.56
+"Středočeský","Kladno","",6.96
+"Plzeňský","Klatovy","",5.08
+"Středočeský","Kolín","",5.31
+"Olomoucký","Konice","",7.86
+"Moravskoslezský","Kopřivnice","",5.32
+"Královéhradecký","Kostelec nad Orlicí","",2.78
+"Pardubický","Králíky","",7.55
+"Plzeňský","Kralovice","",4.45
+"Středočeský","Kralupy nad Vltavou","",5.34
+"Karlovarský","Kraslice","",37.24
+"Moravskoslezský","Kravaře","",2.69
+"Moravskoslezský","Krnov","",2.25
+"Zlínský","Kroměříž","",5.79
+"Jihomoravský","Kuřim","",6.6
+"Středočeský","Kutná Hora","",5.14
+"Jihomoravský","Kyjov","",6.19
+"Pardubický","Lanškroun","",10.88
+"Liberecký","Liberec","",11.02
+"Olomoucký","Lipník nad Bečvou","",4.9
+"Ústecký","Litoměřice","",13.96
+"Pardubický","Litomyšl","",25.58
+"Olomoucký","Litovel","",5.69
+"Ústecký","Litvínov","",16.77
+"Ústecký","Louny","",15.34
+"Ústecký","Lovosice","",9.73
+"Zlínský","Luhačovice","",5.33
+"Středočeský","Lysá nad Labem","",5.51
+"Karlovarský","Mariánské Lázně","",15.84
+"Středočeský","Mělník","",6.35
+"Jihomoravský","Mikulov","",12.33
+"Jihočeský","Milevsko","",11.77
+"Středočeský","Mladá Boleslav","",7.12
+"Středočeský","Mnichovo Hradiště","",5.42
+"Olomoucký","Mohelnice","",4.47
+"Pardubický","Moravská Třebová","",9.87
+"Vysočina","Moravské Budějovice","",3.53
+"Jihomoravský","Moravský Krumlov","",8.27
+"Ústecký","Most","",31.26
+"Královéhradecký","Náchod","",3.21
+"Vysočina","Náměšť nad Oslavou","",3.87
+"Plzeňský","Nepomuk","",4.44
+"Středočeský","Neratovice","",5.53
+"Královéhradecký","Nová Paka","",2.06
+"Vysočina","Nové Město na Moravě","",3.66
+"Královéhradecký","Nové Město nad Metují","",2.98
+"Liberecký","Nový Bor","",6.65
+"Královéhradecký","Nový Bydžov","",2.28
+"Moravskoslezský","Nový Jičín","",3.72
+"Středočeský","Nymburk","",8.52
+"Plzeňský","Nýřany","",4.54
+"Moravskoslezský","Odry","",4.35
+"Olomoucký","Olomouc","",4
+"Moravskoslezský","Opava","",2.55
+"Moravskoslezský","Orlová","",3.4
+"Moravskoslezský","Ostrava","",3.1
+"Karlovarský","Ostrov","",27.6
+"Zlínský","Otrokovice","",6.74
+"Vysočina","Pacov","",2.74
+"Pardubický","Pardubice","",12.24
+"Vysočina","Pelhřimov","",4.63
+"Jihočeský","Písek","",8.09
+"Plzeňský","Plzeň","",4.41
+"Ústecký","Podbořany","",7.19
+"Středočeský","Poděbrady","",6.93
+"Jihomoravský","Pohořelice","",21.64
+"Pardubický","Polička","",17.38
+"Jihočeský","Prachatice","",7.2
+"Olomoucký","Prostějov","",4.31
+"Pardubický","Přelouč","",12.42
+"Olomoucký","Přerov","",3.28
+"Plzeňský","Přeštice","",4.75
+"Středočeský","Příbram","",6.43
+"Středočeský","Rakovník","",7.05
+"Plzeňský","Rokycany","",4.7
+"Jihomoravský","Rosice","",6.88
+"Ústecký","Roudnice nad Labem","",13.25
+"Zlínský","Rožnov pod Radhoštěm","",3.93
+"Ústecký","Rumburk","",6.04
+"Královéhradecký","Rychnov nad Kněžnou","",2.92
+"Moravskoslezský","Rýmařov","",2.39
+"Středočeský","Říčany","",4.78
+"Středočeský","Sedlčany","",5.18
+"Liberecký","Semily","",5.85
+"Středočeský","Slaný","",6.99
+"Jihomoravský","Slavkov u Brna","",8.48
+"Jihočeský","Soběslav","",9.9
+"Karlovarský","Sokolov","",19.06
+"Plzeňský","Stod","",4.51
+"Jihočeský","Strakonice","",8.68
+"Plzeňský","Stříbro","",4.25
+"Plzeňský","Sušice","",4.54
+"Vysočina","Světlá nad Sázavou","",3.81
+"Pardubický","Svitavy","",13.54
+"Jihomoravský","Šlapanice","",7.95
+"Olomoucký","Šternberk","",4.19
+"Olomoucký","Šumperk","",4.39
+"Jihočeský","Tábor","",7.6
+"Plzeňský","Tachov","",4.78
+"Liberecký","Tanvald","",7.64
+"Vysočina","Telč","",3.8
+"Ústecký","Teplice","",16.39
+"Jihomoravský","Tišnov","",6.38
+"Jihočeský","Trhové Sviny","",4.37
+"Královéhradecký","Trutnov","",3.01
+"Vysočina","Třebíč","",4.1
+"Jihočeský","Třeboň","",6.09
+"Moravskoslezský","Třinec","",4.23
+"Liberecký","Turnov","",6.98
+"Jihočeský","Týn nad Vltavou","",4.92
+"Zlínský","Uherské Hradiště","",7.81
+"Zlínský","Uherský Brod","",7.08
+"Olomoucký","Uničov","",4.03
+"Ústecký","Ústí nad Labem","",21.37
+"Pardubický","Ústí nad Orlicí","",15.76
+"Zlínský","Valašské Klobouky","",4.21
+"Zlínský","Valašské Meziříčí","",4.42
+"Ústecký","Varnsdorf","",6.07
+"Vysočina","Velké Meziříčí","",4.99
+"Jihomoravský","Veselí nad Moravou","",4.51
+"Jihočeský","Vimperk","",6.13
+"Moravskoslezský","Vítkov","",2.75
+"Zlínský","Vizovice","",4.95
+"Středočeský","Vlašim","",4.79
+"Jihočeský","Vodňany","",4.91
+"Středočeský","Votice","",5.48
+"Královéhradecký","Vrchlabí","",3.67
+"Zlínský","Vsetín","",4.07
+"Pardubický","Vysoké Mýto","",14.82
+"Jihomoravský","Vyškov","",6.52
+"Olomoucký","Zábřeh","",2.9
+"Zlínský","Zlín","",5.21
+"Jihomoravský","Znojmo","",8.07
+"Pardubický","Žamberk","",14.72
+"Ústecký","Žatec","",18.4
+"Vysočina","Žďár nad Sázavou","",4.54
+"Liberecký","Železný Brod","",7.29
+"Jihomoravský","Židlochovice","",14.11
+"Karlovarský","Aš","koalice",52.99
+"Středočeský","Benešov","koalice",45.41
+"Středočeský","Beroun","koalice",41.11
+"Ústecký","Bílina","koalice",72.67
+"Moravskoslezský","Bílovec","koalice",63.51
+"Jihomoravský","Blansko","koalice",45.14
+"Jihočeský","Blatná","koalice",45.41
+"Plzeňský","Blovice","koalice",55.52
+"Moravskoslezský","Bohumín","koalice",76.85
+"Jihomoravský","Boskovice","koalice",49.69
+"Středočeský","Brandýs nad Labem-Stará Boleslav","koalice",33.21
+"Jihomoravský","Brno","koalice",34.82
+"Královéhradecký","Broumov","koalice",61.08
+"Moravskoslezský","Bruntál","koalice",76.52
+"Jihomoravský","Břeclav","koalice",48.71
+"Jihomoravský","Bučovice","koalice",52.89
+"Vysočina","Bystřice nad Pernštejnem","koalice",59.29
+"Zlínský","Bystřice pod Hostýnem","koalice",56.03
+"Středočeský","Čáslav","koalice",61.46
+"Středočeský","Černošice","koalice",29.74
+"Liberecký","Česká Lípa","koalice",57.75
+"Pardubický","Česká Třebová","koalice",73.89
+"Jihočeský","České Budějovice","koalice",28.64
+"Středočeský","Český Brod","koalice",40.36
+"Jihočeský","Český Krumlov","koalice",38.14
+"Moravskoslezský","Český Těšín","koalice",59.5
+"Jihočeský","Dačice","koalice",45.85
+"Ústecký","Děčín","koalice",58.39
+"Královéhradecký","Dobruška","koalice",53.97
+"Středočeský","Dobříš","koalice",44.89
+"Plzeňský","Domažlice","koalice",53.14
+"Královéhradecký","Dvůr Králové nad Labem","koalice",56.7
+"Moravskoslezský","Frenštát pod Radhoštěm","koalice",57.68
+"Moravskoslezský","Frýdek-Místek","koalice",60.11
+"Liberecký","Frýdlant","koalice",50.43
+"Moravskoslezský","Frýdlant nad Ostravicí","koalice",53.38
+"Moravskoslezský","Havířov","koalice",68.69
+"Vysočina","Havlíčkův Brod","koalice",51.73
+"Pardubický","Hlinsko","koalice",70
+"Moravskoslezský","Hlučín","koalice",62.32
+"Jihomoravský","Hodonín","koalice",50.7
+"Zlínský","Holešov","koalice",56.95
+"Pardubický","Holice","koalice",65.08
+"Plzeňský","Horažďovice","koalice",58.77
+"Plzeňský","Horšovský Týn","koalice",60.9
+"Královéhradecký","Hořice","koalice",53.86
+"Středočeský","Hořovice","koalice",51.39
+"Královéhradecký","Hradec Králové","koalice",49.49
+"Olomoucký","Hranice","koalice",57.64
+"Vysočina","Humpolec","koalice",56.8
+"Jihomoravský","Hustopeče","koalice",42.9
+"Karlovarský","Cheb","koalice",58.37
+"Ústecký","Chomutov","koalice",56.77
+"Vysočina","Chotěboř","koalice",55.09
+"Pardubický","Chrudim","koalice",64.93
+"Jihomoravský","Ivančice","koalice",49.12
+"Liberecký","Jablonec nad Nisou","koalice",42.3
+"Moravskoslezský","Jablunkov","koalice",57.59
+"Královéhradecký","Jaroměř","koalice",63.04
+"Olomoucký","Jeseník","koalice",67.07
+"Královéhradecký","Jičín","koalice",59
+"Vysočina","Jihlava","koalice",49.96
+"Liberecký","Jilemnice","koalice",37.53
+"Jihočeský","Jindřichův Hradec","koalice",40.61
+"Ústecký","Kadaň","koalice",58.11
+"Jihočeský","Kaplice","koalice",39.83
+"Karlovarský","Karlovy Vary","koalice",50.35
+"Moravskoslezský","Karviná","koalice",80.1
+"Středočeský","Kladno","koalice",49.6
+"Plzeňský","Klatovy","koalice",58.19
+"Středočeský","Kolín","koalice",53.15
+"Olomoucký","Konice","koalice",57.12
+"Moravskoslezský","Kopřivnice","koalice",54.1
+"Královéhradecký","Kostelec nad Orlicí","koalice",56.51
+"Pardubický","Králíky","koalice",80.76
+"Plzeňský","Kralovice","koalice",58.55
+"Středočeský","Kralupy nad Vltavou","koalice",48.16
+"Karlovarský","Kraslice","koalice",48.9
+"Moravskoslezský","Kravaře","koalice",63.48
+"Moravskoslezský","Krnov","koalice",76.75
+"Zlínský","Kroměříž","koalice",63.68
+"Jihomoravský","Kuřim","koalice",30.47
+"Středočeský","Kutná Hora","koalice",53.17
+"Jihomoravský","Kyjov","koalice",45.61
+"Pardubický","Lanškroun","koalice",73.45
+"Liberecký","Liberec","koalice",39.07
+"Olomoucký","Lipník nad Bečvou","koalice",59.38
+"Ústecký","Litoměřice","koalice",55.15
+"Pardubický","Litomyšl","koalice",45.66
+"Olomoucký","Litovel","koalice",53.55
+"Ústecký","Litvínov","koalice",63.91
+"Ústecký","Louny","koalice",63.88
+"Ústecký","Lovosice","koalice",65.97
+"Zlínský","Luhačovice","koalice",48.36
+"Středočeský","Lysá nad Labem","koalice",39.88
+"Karlovarský","Mariánské Lázně","koalice",55.64
+"Středočeský","Mělník","koalice",51.13
+"Jihomoravský","Mikulov","koalice",50.01
+"Jihočeský","Milevsko","koalice",35.41
+"Středočeský","Mladá Boleslav","koalice",51.05
+"Středočeský","Mnichovo Hradiště","koalice",47.44
+"Olomoucký","Mohelnice","koalice",66.97
+"Pardubický","Moravská Třebová","koalice",78.65
+"Vysočina","Moravské Budějovice","koalice",50.45
+"Jihomoravský","Moravský Krumlov","koalice",54.81
+"Ústecký","Most","koalice",56.76
+"Královéhradecký","Náchod","koalice",51.9
+"Vysočina","Náměšť nad Oslavou","koalice",58.26
+"Plzeňský","Nepomuk","koalice",60.08
+"Středočeský","Neratovice","koalice",50.93
+"Královéhradecký","Nová Paka","koalice",48.51
+"Vysočina","Nové Město na Moravě","koalice",47.24
+"Královéhradecký","Nové Město nad Metují","koalice",44.33
+"Liberecký","Nový Bor","koalice",47.85
+"Královéhradecký","Nový Bydžov","koalice",66.38
+"Moravskoslezský","Nový Jičín","koalice",59.63
+"Středočeský","Nymburk","koalice",51.58
+"Plzeňský","Nýřany","koalice",51.96
+"Moravskoslezský","Odry","koalice",64.36
+"Olomoucký","Olomouc","koalice",49.51
+"Moravskoslezský","Opava","koalice",61.71
+"Moravskoslezský","Orlová","koalice",79.9
+"Moravskoslezský","Ostrava","koalice",62.47
+"Karlovarský","Ostrov","koalice",48.5
+"Zlínský","Otrokovice","koalice",53.08
+"Vysočina","Pacov","koalice",50.02
+"Pardubický","Pardubice","koalice",58.57
+"Vysočina","Pelhřimov","koalice",53.64
+"Jihočeský","Písek","koalice",39.94
+"Plzeňský","Plzeň","koalice",47.42
+"Ústecký","Podbořany","koalice",74.61
+"Středočeský","Poděbrady","koalice",48.53
+"Jihomoravský","Pohořelice","koalice",43.48
+"Pardubický","Polička","koalice",58
+"Jihočeský","Prachatice","koalice",38.16
+"Olomoucký","Prostějov","koalice",59.64
+"Pardubický","Přelouč","koalice",65.27
+"Olomoucký","Přerov","koalice",66.59
+"Plzeňský","Přeštice","koalice",56.64
+"Středočeský","Příbram","koalice",56.5
+"Středočeský","Rakovník","koalice",56.84
+"Plzeňský","Rokycany","koalice",53.74
+"Jihomoravský","Rosice","koalice",47.92
+"Ústecký","Roudnice nad Labem","koalice",53.92
+"Zlínský","Rožnov pod Radhoštěm","koalice",52.61
+"Ústecký","Rumburk","koalice",54.65
+"Královéhradecký","Rychnov nad Kněžnou","koalice",56.1
+"Moravskoslezský","Rýmařov","koalice",75.65
+"Středočeský","Říčany","koalice",30.58
+"Středočeský","Sedlčany","koalice",45.01
+"Liberecký","Semily","koalice",47.71
+"Středočeský","Slaný","koalice",52.31
+"Jihomoravský","Slavkov u Brna","koalice",42.64
+"Jihočeský","Soběslav","koalice",34.12
+"Karlovarský","Sokolov","koalice",58.72
+"Plzeňský","Stod","koalice",58.11
+"Jihočeský","Strakonice","koalice",42.31
+"Plzeňský","Stříbro","koalice",66.02
+"Plzeňský","Sušice","koalice",54.32
+"Vysočina","Světlá nad Sázavou","koalice",57.82
+"Pardubický","Svitavy","koalice",69.42
+"Jihomoravský","Šlapanice","koalice",31.05
+"Olomoucký","Šternberk","koalice",60.78
+"Olomoucký","Šumperk","koalice",60.49
+"Jihočeský","Tábor","koalice",36.61
+"Plzeňský","Tachov","koalice",68.43
+"Liberecký","Tanvald","koalice",49.14
+"Vysočina","Telč","koalice",40.68
+"Ústecký","Teplice","koalice",59.99
+"Jihomoravský","Tišnov","koalice",40.26
+"Jihočeský","Trhové Sviny","koalice",33.56
+"Královéhradecký","Trutnov","koalice",54.3
+"Vysočina","Třebíč","koalice",54.76
+"Jihočeský","Třeboň","koalice",37.01
+"Moravskoslezský","Třinec","koalice",60.68
+"Liberecký","Turnov","koalice",35.1
+"Jihočeský","Týn nad Vltavou","koalice",34.28
+"Zlínský","Uherské Hradiště","koalice",49.26
+"Zlínský","Uherský Brod","koalice",48.63
+"Olomoucký","Uničov","koalice",59.83
+"Ústecký","Ústí nad Labem","koalice",51.48
+"Pardubický","Ústí nad Orlicí","koalice",67.9
+"Zlínský","Valašské Klobouky","koalice",48.16
+"Zlínský","Valašské Meziříčí","koalice",54.38
+"Ústecký","Varnsdorf","koalice",60.11
+"Vysočina","Velké Meziříčí","koalice",47.37
+"Jihomoravský","Veselí nad Moravou","koalice",48.59
+"Jihočeský","Vimperk","koalice",36.69
+"Moravskoslezský","Vítkov","koalice",69.66
+"Zlínský","Vizovice","koalice",47.95
+"Středočeský","Vlašim","koalice",50.88
+"Jihočeský","Vodňany","koalice",37.79
+"Středočeský","Votice","koalice",57.09
+"Královéhradecký","Vrchlabí","koalice",53.8
+"Zlínský","Vsetín","koalice",46.35
+"Pardubický","Vysoké Mýto","koalice",59.19
+"Jihomoravský","Vyškov","koalice",55.7
+"Olomoucký","Zábřeh","koalice",56.13
+"Zlínský","Zlín","koalice",44.36
+"Jihomoravský","Znojmo","koalice",53.09
+"Pardubický","Žamberk","koalice",68.97
+"Ústecký","Žatec","koalice",64.64
+"Vysočina","Žďár nad Sázavou","koalice",49.57
+"Liberecký","Železný Brod","koalice",40.83
+"Jihomoravský","Židlochovice","koalice",38.01
+"Karlovarský","Aš","opozice",8.76
+"Středočeský","Benešov","opozice",48.9
+"Středočeský","Beroun","opozice",52.17
+"Ústecký","Bílina","opozice",14.29
+"Moravskoslezský","Bílovec","opozice",33.18
+"Jihomoravský","Blansko","opozice",45.35
+"Jihočeský","Blatná","opozice",49.26
+"Plzeňský","Blovice","opozice",40.78
+"Moravskoslezský","Bohumín","opozice",20.47
+"Jihomoravský","Boskovice","opozice",42.65
+"Středočeský","Brandýs nad Labem-Stará Boleslav","opozice",61.69
+"Jihomoravský","Brno","opozice",55.75
+"Královéhradecký","Broumov","opozice",36.68
+"Moravskoslezský","Bruntál","opozice",20.87
+"Jihomoravský","Břeclav","opozice",41.22
+"Jihomoravský","Bučovice","opozice",40.95
+"Vysočina","Bystřice nad Pernštejnem","opozice",36.23
+"Zlínský","Bystřice pod Hostýnem","opozice",35.39
+"Středočeský","Čáslav","opozice",33.58
+"Středočeský","Černošice","opozice",64.39
+"Liberecký","Česká Lípa","opozice",35.09
+"Pardubický","Česká Třebová","opozice",13.46
+"Jihočeský","České Budějovice","opozice",65.69
+"Středočeský","Český Brod","opozice",53.01
+"Jihočeský","Český Krumlov","opozice",55.58
+"Moravskoslezský","Český Těšín","opozice",37.07
+"Jihočeský","Dačice","opozice",48.72
+"Ústecký","Děčín","opozice",33.48
+"Královéhradecký","Dobruška","opozice",43.3
+"Středočeský","Dobříš","opozice",49.84
+"Plzeňský","Domažlice","opozice",42.48
+"Královéhradecký","Dvůr Králové nad Labem","opozice",40.23
+"Moravskoslezský","Frenštát pod Radhoštěm","opozice",39.14
+"Moravskoslezský","Frýdek-Místek","opozice",35.09
+"Liberecký","Frýdlant","opozice",41.44
+"Moravskoslezský","Frýdlant nad Ostravicí","opozice",41.81
+"Moravskoslezský","Havířov","opozice",27.6
+"Vysočina","Havlíčkův Brod","opozice",43.71
+"Pardubický","Hlinsko","opozice",12.97
+"Moravskoslezský","Hlučín","opozice",35.28
+"Jihomoravský","Hodonín","opozice",43.54
+"Zlínský","Holešov","opozice",36.95
+"Pardubický","Holice","opozice",20.73
+"Plzeňský","Horažďovice","opozice",37.04
+"Plzeňský","Horšovský Týn","opozice",33.56
+"Královéhradecký","Hořice","opozice",42.07
+"Středočeský","Hořovice","opozice",41.36
+"Královéhradecký","Hradec Králové","opozice",46.22
+"Olomoucký","Hranice","opozice",37.62
+"Vysočina","Humpolec","opozice",38.42
+"Jihomoravský","Hustopeče","opozice",43.89
+"Karlovarský","Cheb","opozice",25.76
+"Ústecký","Chomutov","opozice",25.9
+"Vysočina","Chotěboř","opozice",41.91
+"Pardubický","Chrudim","opozice",21.23
+"Jihomoravský","Ivančice","opozice",42.12
+"Liberecký","Jablonec nad Nisou","opozice",47.75
+"Moravskoslezský","Jablunkov","opozice",39.35
+"Královéhradecký","Jaroměř","opozice",31.61
+"Olomoucký","Jeseník","opozice",30.52
+"Královéhradecký","Jičín","opozice",37.89
+"Vysočina","Jihlava","opozice",45.16
+"Liberecký","Jilemnice","opozice",55.57
+"Jihočeský","Jindřichův Hradec","opozice",51.18
+"Ústecký","Kadaň","opozice",34.84
+"Jihočeský","Kaplice","opozice",55.12
+"Karlovarský","Karlovy Vary","opozice",29.1
+"Moravskoslezský","Karviná","opozice",16.33
+"Středočeský","Kladno","opozice",43.45
+"Plzeňský","Klatovy","opozice",36.72
+"Středočeský","Kolín","opozice",41.54
+"Olomoucký","Konice","opozice",35.01
+"Moravskoslezský","Kopřivnice","opozice",40.59
+"Královéhradecký","Kostelec nad Orlicí","opozice",40.71
+"Pardubický","Králíky","opozice",11.71
+"Plzeňský","Kralovice","opozice",37
+"Středočeský","Kralupy nad Vltavou","opozice",46.5
+"Karlovarský","Kraslice","opozice",13.89
+"Moravskoslezský","Kravaře","opozice",33.82
+"Moravskoslezský","Krnov","opozice",21
+"Zlínský","Kroměříž","opozice",30.52
+"Jihomoravský","Kuřim","opozice",62.9
+"Středočeský","Kutná Hora","opozice",41.68
+"Jihomoravský","Kyjov","opozice",48.2
+"Pardubický","Lanškroun","opozice",15.67
+"Liberecký","Liberec","opozice",49.92
+"Olomoucký","Lipník nad Bečvou","opozice",35.72
+"Ústecký","Litoměřice","opozice",30.9
+"Pardubický","Litomyšl","opozice",28.76
+"Olomoucký","Litovel","opozice",40.76
+"Ústecký","Litvínov","opozice",19.33
+"Ústecký","Louny","opozice",20.79
+"Ústecký","Lovosice","opozice",24.32
+"Zlínský","Luhačovice","opozice",46.31
+"Středočeský","Lysá nad Labem","opozice",54.61
+"Karlovarský","Mariánské Lázně","opozice",28.5
+"Středočeský","Mělník","opozice",42.52
+"Jihomoravský","Mikulov","opozice",37.66
+"Jihočeský","Milevsko","opozice",52.83
+"Středočeský","Mladá Boleslav","opozice",41.84
+"Středočeský","Mnichovo Hradiště","opozice",47.15
+"Olomoucký","Mohelnice","opozice",28.57
+"Pardubický","Moravská Třebová","opozice",11.49
+"Vysočina","Moravské Budějovice","opozice",46.02
+"Jihomoravský","Moravský Krumlov","opozice",36.92
+"Ústecký","Most","opozice",11.98
+"Královéhradecký","Náchod","opozice",44.89
+"Vysočina","Náměšť nad Oslavou","opozice",37.88
+"Plzeňský","Nepomuk","opozice",35.47
+"Středočeský","Neratovice","opozice",43.54
+"Královéhradecký","Nová Paka","opozice",49.43
+"Vysočina","Nové Město na Moravě","opozice",49.1
+"Královéhradecký","Nové Město nad Metují","opozice",52.69
+"Liberecký","Nový Bor","opozice",45.49
+"Královéhradecký","Nový Bydžov","opozice",31.35
+"Moravskoslezský","Nový Jičín","opozice",36.66
+"Středočeský","Nymburk","opozice",39.9
+"Plzeňský","Nýřany","opozice",43.51
+"Moravskoslezský","Odry","opozice",31.29
+"Olomoucký","Olomouc","opozice",46.49
+"Moravskoslezský","Opava","opozice",35.75
+"Moravskoslezský","Orlová","opozice",16.68
+"Moravskoslezský","Ostrava","opozice",34.44
+"Karlovarský","Ostrov","opozice",23.89
+"Zlínský","Otrokovice","opozice",40.18
+"Vysočina","Pacov","opozice",47.26
+"Pardubický","Pardubice","opozice",29.19
+"Vysočina","Pelhřimov","opozice",41.72
+"Jihočeský","Písek","opozice",51.95
+"Plzeňský","Plzeň","opozice",48.15
+"Ústecký","Podbořany","opozice",18.2
+"Středočeský","Poděbrady","opozice",44.55
+"Jihomoravský","Pohořelice","opozice",34.88
+"Pardubický","Polička","opozice",24.61
+"Jihočeský","Prachatice","opozice",54.64
+"Olomoucký","Prostějov","opozice",36.04
+"Pardubický","Přelouč","opozice",22.32
+"Olomoucký","Přerov","opozice",30.14
+"Plzeňský","Přeštice","opozice",38.61
+"Středočeský","Příbram","opozice",37.07
+"Středočeský","Rakovník","opozice",36.12
+"Plzeňský","Rokycany","opozice",41.55
+"Jihomoravský","Rosice","opozice",45.21
+"Ústecký","Roudnice nad Labem","opozice",32.83
+"Zlínský","Rožnov pod Radhoštěm","opozice",43.45
+"Ústecký","Rumburk","opozice",39.31
+"Královéhradecký","Rychnov nad Kněžnou","opozice",40.98
+"Moravskoslezský","Rýmařov","opozice",21.96
+"Středočeský","Říčany","opozice",64.65
+"Středočeský","Sedlčany","opozice",49.8
+"Liberecký","Semily","opozice",46.44
+"Středočeský","Slaný","opozice",40.69
+"Jihomoravský","Slavkov u Brna","opozice",48.87
+"Jihočeský","Soběslav","opozice",55.98
+"Karlovarský","Sokolov","opozice",22.22
+"Plzeňský","Stod","opozice",37.37
+"Jihočeský","Strakonice","opozice",49.01
+"Plzeňský","Stříbro","opozice",29.73
+"Plzeňský","Sušice","opozice",41.13
+"Vysočina","Světlá nad Sázavou","opozice",38.38
+"Pardubický","Svitavy","opozice",17.03
+"Jihomoravský","Šlapanice","opozice",60.98
+"Olomoucký","Šternberk","opozice",35.04
+"Olomoucký","Šumperk","opozice",35.12
+"Jihočeský","Tábor","opozice",55.8
+"Plzeňský","Tachov","opozice",26.79
+"Liberecký","Tanvald","opozice",43.21
+"Vysočina","Telč","opozice",55.5
+"Ústecký","Teplice","opozice",23.61
+"Jihomoravský","Tišnov","opozice",53.37
+"Jihočeský","Trhové Sviny","opozice",62.08
+"Královéhradecký","Trutnov","opozice",42.69
+"Vysočina","Třebíč","opozice",41.13
+"Jihočeský","Třeboň","opozice",56.9
+"Moravskoslezský","Třinec","opozice",35.09
+"Liberecký","Turnov","opozice",57.92
+"Jihočeský","Týn nad Vltavou","opozice",60.8
+"Zlínský","Uherské Hradiště","opozice",42.94
+"Zlínský","Uherský Brod","opozice",44.29
+"Olomoucký","Uničov","opozice",36.14
+"Ústecký","Ústí nad Labem","opozice",27.16
+"Pardubický","Ústí nad Orlicí","opozice",16.33
+"Zlínský","Valašské Klobouky","opozice",47.64
+"Zlínský","Valašské Meziříčí","opozice",41.2
+"Ústecký","Varnsdorf","opozice",33.81
+"Vysočina","Velké Meziříčí","opozice",47.65
+"Jihomoravský","Veselí nad Moravou","opozice",46.91
+"Jihočeský","Vimperk","opozice",57.16
+"Moravskoslezský","Vítkov","opozice",27.59
+"Zlínský","Vizovice","opozice",47.08
+"Středočeský","Vlašim","opozice",44.31
+"Jihočeský","Vodňany","opozice",57.3
+"Středočeský","Votice","opozice",37.44
+"Královéhradecký","Vrchlabí","opozice",42.53
+"Zlínský","Vsetín","opozice",49.57
+"Pardubický","Vysoké Mýto","opozice",26
+"Jihomoravský","Vyškov","opozice",37.8
+"Olomoucký","Zábřeh","opozice",40.98
+"Zlínský","Zlín","opozice",50.43
+"Jihomoravský","Znojmo","opozice",38.82
+"Pardubický","Žamberk","opozice",16.3
+"Ústecký","Žatec","opozice",16.97
+"Vysočina","Žďár nad Sázavou","opozice",45.89
+"Liberecký","Železný Brod","opozice",51.87
+"Jihomoravský","Židlochovice","opozice",47.87

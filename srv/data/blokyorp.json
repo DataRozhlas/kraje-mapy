@@ -1,0 +1,3692 @@
+[
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Aš",
+    "BLOK": "",
+    "HLASYPROC": 37.37878342638848
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Benešov",
+    "BLOK": "",
+    "HLASYPROC": 3.3187454412837347
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Beroun",
+    "BLOK": "",
+    "HLASYPROC": 4.494244428116581
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Bílina",
+    "BLOK": "",
+    "HLASYPROC": 12.125416204217537
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bílovec",
+    "BLOK": "",
+    "HLASYPROC": 1.1160373031646538
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Blansko",
+    "BLOK": "",
+    "HLASYPROC": 5.4826206551637915
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Blatná",
+    "BLOK": "",
+    "HLASYPROC": 4.02755696873344
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Blovice",
+    "BLOK": "",
+    "HLASYPROC": 1.508252703471827
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bohumín",
+    "BLOK": "",
+    "HLASYPROC": 1.0772959870724481
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Boskovice",
+    "BLOK": "",
+    "HLASYPROC": 4.308390022675737
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Brandýs nad Labem-Stará Boleslav",
+    "BLOK": "",
+    "HLASYPROC": 2.9056724708898622
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Brno",
+    "BLOK": "",
+    "HLASYPROC": 5.703355938097722
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Broumov",
+    "BLOK": "",
+    "HLASYPROC": 2.2450635650527455
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bruntál",
+    "BLOK": "",
+    "HLASYPROC": 1.5170051382432101
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Břeclav",
+    "BLOK": "",
+    "HLASYPROC": 4.988796625807302
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Bučovice",
+    "BLOK": "",
+    "HLASYPROC": 3.732677693339294
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Bystřice nad Pernštejnem",
+    "BLOK": "",
+    "HLASYPROC": 2.1312083024462565
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Bystřice pod Hostýnem",
+    "BLOK": "",
+    "HLASYPROC": 8.584005869405722
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Čáslav",
+    "BLOK": "",
+    "HLASYPROC": 3.2401242787394584
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Černošice",
+    "BLOK": "",
+    "HLASYPROC": 4.001904475517466
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Česká Lípa",
+    "BLOK": "",
+    "HLASYPROC": 4.586828484740318
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Česká Třebová",
+    "BLOK": "",
+    "HLASYPROC": 12.649503344820594
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "České Budějovice",
+    "BLOK": "",
+    "HLASYPROC": 4.647747568962095
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Český Brod",
+    "BLOK": "",
+    "HLASYPROC": 3.087586641461878
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Český Krumlov",
+    "BLOK": "",
+    "HLASYPROC": 5.512545471504524
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Český Těšín",
+    "BLOK": "",
+    "HLASYPROC": 1.3129496402877698
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Dačice",
+    "BLOK": "",
+    "HLASYPROC": 3.7449762513701135
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Děčín",
+    "BLOK": "",
+    "HLASYPROC": 6.418732782369147
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Dobruška",
+    "BLOK": "",
+    "HLASYPROC": 2.729909571745436
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Dobříš",
+    "BLOK": "",
+    "HLASYPROC": 3.2421318994148343
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Domažlice",
+    "BLOK": "",
+    "HLASYPROC": 2.38021955473479
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Dvůr Králové nad Labem",
+    "BLOK": "",
+    "HLASYPROC": 3.059507419305492
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frenštát pod Radhoštěm",
+    "BLOK": "",
+    "HLASYPROC": 1.2205044751830758
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frýdek-Místek",
+    "BLOK": "",
+    "HLASYPROC": 1.2745268275742316
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Frýdlant",
+    "BLOK": "",
+    "HLASYPROC": 4.17125767354006
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frýdlant nad Ostravicí",
+    "BLOK": "",
+    "HLASYPROC": 1.2427623217059738
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Havířov",
+    "BLOK": "",
+    "HLASYPROC": 1.6121531545496823
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Havlíčkův Brod",
+    "BLOK": "",
+    "HLASYPROC": 1.401803324880248
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Hlinsko",
+    "BLOK": "",
+    "HLASYPROC": 17.034601534366683
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Hlučín",
+    "BLOK": "",
+    "HLASYPROC": 0.942150215725984
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Hodonín",
+    "BLOK": "",
+    "HLASYPROC": 3.0744445190306773
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Holešov",
+    "BLOK": "",
+    "HLASYPROC": 6.099265990912269
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Holice",
+    "BLOK": "",
+    "HLASYPROC": 14.183937823834198
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Horažďovice",
+    "BLOK": "",
+    "HLASYPROC": 1.9206145966709345
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Horšovský Týn",
+    "BLOK": "",
+    "HLASYPROC": 2.956989247311828
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Hořice",
+    "BLOK": "",
+    "HLASYPROC": 4.067596777362939
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Hořovice",
+    "BLOK": "",
+    "HLASYPROC": 4.782890473104342
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Hradec Králové",
+    "BLOK": "",
+    "HLASYPROC": 4.284092591678594
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Hranice",
+    "BLOK": "",
+    "HLASYPROC": 2.014608859566447
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Humpolec",
+    "BLOK": "",
+    "HLASYPROC": 1.4567950508880463
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Hustopeče",
+    "BLOK": "",
+    "HLASYPROC": 7.911060215669434
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Cheb",
+    "BLOK": "",
+    "HLASYPROC": 14.4136078782453
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Chomutov",
+    "BLOK": "",
+    "HLASYPROC": 15.455755156353959
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Chotěboř",
+    "BLOK": "",
+    "HLASYPROC": 1.0644959298685035
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Chrudim",
+    "BLOK": "",
+    "HLASYPROC": 13.843188236876317
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Ivančice",
+    "BLOK": "",
+    "HLASYPROC": 3.6677115987460818
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Jablonec nad Nisou",
+    "BLOK": "",
+    "HLASYPROC": 7.21362891154038
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Jablunkov",
+    "BLOK": "",
+    "HLASYPROC": 1.0897435897435896
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Jaroměř",
+    "BLOK": "",
+    "HLASYPROC": 5.350701402805611
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Jeseník",
+    "BLOK": "",
+    "HLASYPROC": 1.0600200544334624
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Jičín",
+    "BLOK": "",
+    "HLASYPROC": 3.1080872119993814
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Jihlava",
+    "BLOK": "",
+    "HLASYPROC": 1.5697491889629192
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Jilemnice",
+    "BLOK": "",
+    "HLASYPROC": 4.6621515199243975
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Jindřichův Hradec",
+    "BLOK": "",
+    "HLASYPROC": 7.174684691488559
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Kadaň",
+    "BLOK": "",
+    "HLASYPROC": 5.266505533647119
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Kaplice",
+    "BLOK": "",
+    "HLASYPROC": 3.962460896767466
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Karlovy Vary",
+    "BLOK": "",
+    "HLASYPROC": 19.163874994263686
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Karviná",
+    "BLOK": "",
+    "HLASYPROC": 0.882307810342182
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kladno",
+    "BLOK": "",
+    "HLASYPROC": 3.504788932245477
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Klatovy",
+    "BLOK": "",
+    "HLASYPROC": 1.9609412518008642
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kolín",
+    "BLOK": "",
+    "HLASYPROC": 2.9204819277108434
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Konice",
+    "BLOK": "",
+    "HLASYPROC": 2.0778460637986536
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Kopřivnice",
+    "BLOK": "",
+    "HLASYPROC": 1.6580310880829014
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Kostelec nad Orlicí",
+    "BLOK": "",
+    "HLASYPROC": 2.7777777777777777
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Králíky",
+    "BLOK": "",
+    "HLASYPROC": 7.543520309477756
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Kralovice",
+    "BLOK": "",
+    "HLASYPROC": 2.0466901183242725
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kralupy nad Vltavou",
+    "BLOK": "",
+    "HLASYPROC": 3.2559380838003733
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Kraslice",
+    "BLOK": "",
+    "HLASYPROC": 35.27308192457737
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Kravaře",
+    "BLOK": "",
+    "HLASYPROC": 1.1218501898515705
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Krnov",
+    "BLOK": "",
+    "HLASYPROC": 0.9464203938330026
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Kroměříž",
+    "BLOK": "",
+    "HLASYPROC": 5.787553764904448
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Kuřim",
+    "BLOK": "",
+    "HLASYPROC": 3.3084163898117387
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kutná Hora",
+    "BLOK": "",
+    "HLASYPROC": 3.0867069955017836
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Kyjov",
+    "BLOK": "",
+    "HLASYPROC": 4.04751145826609
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Lanškroun",
+    "BLOK": "",
+    "HLASYPROC": 10.884470346246143
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Liberec",
+    "BLOK": "",
+    "HLASYPROC": 8.73402233618827
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Lipník nad Bečvou",
+    "BLOK": "",
+    "HLASYPROC": 3.183868400106129
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Litoměřice",
+    "BLOK": "",
+    "HLASYPROC": 12.4191105603745
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Litomyšl",
+    "BLOK": "",
+    "HLASYPROC": 25.583416087388283
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Litovel",
+    "BLOK": "",
+    "HLASYPROC": 2.040483186418544
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Litvínov",
+    "BLOK": "",
+    "HLASYPROC": 15.450532329265126
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Louny",
+    "BLOK": "",
+    "HLASYPROC": 13.27095665457323
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Lovosice",
+    "BLOK": "",
+    "HLASYPROC": 7.856831078131821
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Luhačovice",
+    "BLOK": "",
+    "HLASYPROC": 5.317744672826702
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Lysá nad Labem",
+    "BLOK": "",
+    "HLASYPROC": 3.2499601720567153
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Mariánské Lázně",
+    "BLOK": "",
+    "HLASYPROC": 14.493809176984703
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mělník",
+    "BLOK": "",
+    "HLASYPROC": 4.209083790133125
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Mikulov",
+    "BLOK": "",
+    "HLASYPROC": 4.889429904645973
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Milevsko",
+    "BLOK": "",
+    "HLASYPROC": 10.428650955650399
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mladá Boleslav",
+    "BLOK": "",
+    "HLASYPROC": 4.742563150361688
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mnichovo Hradiště",
+    "BLOK": "",
+    "HLASYPROC": 3.263032232391564
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Mohelnice",
+    "BLOK": "",
+    "HLASYPROC": 1.8189787420556651
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Moravská Třebová",
+    "BLOK": "",
+    "HLASYPROC": 9.859379993608181
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Moravské Budějovice",
+    "BLOK": "",
+    "HLASYPROC": 1.8313327177593104
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Moravský Krumlov",
+    "BLOK": "",
+    "HLASYPROC": 3.677379480840544
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Most",
+    "BLOK": "",
+    "HLASYPROC": 29.657740226263783
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Náchod",
+    "BLOK": "",
+    "HLASYPROC": 3.207064838484778
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Náměšť nad Oslavou",
+    "BLOK": "",
+    "HLASYPROC": 1.5620718004932859
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Nepomuk",
+    "BLOK": "",
+    "HLASYPROC": 2.0959034614163223
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Neratovice",
+    "BLOK": "",
+    "HLASYPROC": 3.148121282460467
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nová Paka",
+    "BLOK": "",
+    "HLASYPROC": 2.0629463104998678
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Nové Město na Moravě",
+    "BLOK": "",
+    "HLASYPROC": 1.5981735159817352
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nové Město nad Metují",
+    "BLOK": "",
+    "HLASYPROC": 2.977949533984997
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Nový Bor",
+    "BLOK": "",
+    "HLASYPROC": 4.274022431039709
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nový Bydžov",
+    "BLOK": "",
+    "HLASYPROC": 2.278151442829247
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Nový Jičín",
+    "BLOK": "",
+    "HLASYPROC": 1.5807121187929107
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Nymburk",
+    "BLOK": "",
+    "HLASYPROC": 5.910319753892048
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Nýřany",
+    "BLOK": "",
+    "HLASYPROC": 2.0090083649102737
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Odry",
+    "BLOK": "",
+    "HLASYPROC": 2.691146881287726
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Olomouc",
+    "BLOK": "",
+    "HLASYPROC": 1.3945023517454915
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Opava",
+    "BLOK": "",
+    "HLASYPROC": 1.3387439320388348
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Orlová",
+    "BLOK": "",
+    "HLASYPROC": 1.388168137000519
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Ostrava",
+    "BLOK": "",
+    "HLASYPROC": 1.1560693641618496
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Ostrov",
+    "BLOK": "",
+    "HLASYPROC": 26.795332136445243
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Otrokovice",
+    "BLOK": "",
+    "HLASYPROC": 6.743598990263252
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Pacov",
+    "BLOK": "",
+    "HLASYPROC": 0.8635578583765112
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Pardubice",
+    "BLOK": "",
+    "HLASYPROC": 12.234188607865272
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Pelhřimov",
+    "BLOK": "",
+    "HLASYPROC": 1.4127068066782504
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Písek",
+    "BLOK": "",
+    "HLASYPROC": 6.964038727524205
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Plzeň",
+    "BLOK": "",
+    "HLASYPROC": 1.7874385769156491
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Podbořany",
+    "BLOK": "",
+    "HLASYPROC": 5.904455179817498
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Poděbrady",
+    "BLOK": "",
+    "HLASYPROC": 4.597964085554158
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Pohořelice",
+    "BLOK": "",
+    "HLASYPROC": 3.251461988304093
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Polička",
+    "BLOK": "",
+    "HLASYPROC": 17.38233639602475
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Prachatice",
+    "BLOK": "",
+    "HLASYPROC": 6.019546868058641
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Prostějov",
+    "BLOK": "",
+    "HLASYPROC": 1.9924496644295302
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Přelouč",
+    "BLOK": "",
+    "HLASYPROC": 12.409620776154641
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Přerov",
+    "BLOK": "",
+    "HLASYPROC": 1.4644887090992882
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Přeštice",
+    "BLOK": "",
+    "HLASYPROC": 2.094672604321293
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Příbram",
+    "BLOK": "",
+    "HLASYPROC": 4.134060121970965
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Rakovník",
+    "BLOK": "",
+    "HLASYPROC": 4.417465077159365
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Rokycany",
+    "BLOK": "",
+    "HLASYPROC": 2.3057485786481364
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Rosice",
+    "BLOK": "",
+    "HLASYPROC": 3.3217027215631543
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Roudnice nad Labem",
+    "BLOK": "",
+    "HLASYPROC": 11.238560097620502
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Rožnov pod Radhoštěm",
+    "BLOK": "",
+    "HLASYPROC": 3.9383759990733234
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Rumburk",
+    "BLOK": "",
+    "HLASYPROC": 2.4829388703354147
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Rychnov nad Kněžnou",
+    "BLOK": "",
+    "HLASYPROC": 2.917378917378917
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Rýmařov",
+    "BLOK": "",
+    "HLASYPROC": 1.3607331296861984
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Říčany",
+    "BLOK": "",
+    "HLASYPROC": 2.990543149972768
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Sedlčany",
+    "BLOK": "",
+    "HLASYPROC": 3.0583711988815097
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Semily",
+    "BLOK": "",
+    "HLASYPROC": 4.214075010535188
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Slaný",
+    "BLOK": "",
+    "HLASYPROC": 3.6649756703592504
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Slavkov u Brna",
+    "BLOK": "",
+    "HLASYPROC": 5.840372851733178
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Soběslav",
+    "BLOK": "",
+    "HLASYPROC": 8.848252470137147
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Sokolov",
+    "BLOK": "",
+    "HLASYPROC": 17.631371598278683
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Stod",
+    "BLOK": "",
+    "HLASYPROC": 2.136913767019667
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Strakonice",
+    "BLOK": "",
+    "HLASYPROC": 7.181773155027241
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Stříbro",
+    "BLOK": "",
+    "HLASYPROC": 2.241690286008761
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Sušice",
+    "BLOK": "",
+    "HLASYPROC": 1.8697614442295292
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Světlá nad Sázavou",
+    "BLOK": "",
+    "HLASYPROC": 1.1775528978840846
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Svitavy",
+    "BLOK": "",
+    "HLASYPROC": 13.55265007732321
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Šlapanice",
+    "BLOK": "",
+    "HLASYPROC": 4.823339027240852
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Šternberk",
+    "BLOK": "",
+    "HLASYPROC": 1.9169890960253253
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Šumperk",
+    "BLOK": "",
+    "HLASYPROC": 1.816886355539722
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Tábor",
+    "BLOK": "",
+    "HLASYPROC": 6.2682968830721535
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Tachov",
+    "BLOK": "",
+    "HLASYPROC": 2.5762711864406778
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Tanvald",
+    "BLOK": "",
+    "HLASYPROC": 5.685901500739801
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Telč",
+    "BLOK": "",
+    "HLASYPROC": 1.5956120668162554
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Teplice",
+    "BLOK": "",
+    "HLASYPROC": 14.741829775927732
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Tišnov",
+    "BLOK": "",
+    "HLASYPROC": 3.7512953367875648
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Trhové Sviny",
+    "BLOK": "",
+    "HLASYPROC": 3.55278666442162
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Trutnov",
+    "BLOK": "",
+    "HLASYPROC": 3.0176081691431564
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Třebíč",
+    "BLOK": "",
+    "HLASYPROC": 1.8763264518618559
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Třeboň",
+    "BLOK": "",
+    "HLASYPROC": 4.4045204288612
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Třinec",
+    "BLOK": "",
+    "HLASYPROC": 0.8185413409362642
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Turnov",
+    "BLOK": "",
+    "HLASYPROC": 5.156121610517666
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Týn nad Vltavou",
+    "BLOK": "",
+    "HLASYPROC": 4.100790513833992
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Uherské Hradiště",
+    "BLOK": "",
+    "HLASYPROC": 7.806509503222123
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Uherský Brod",
+    "BLOK": "",
+    "HLASYPROC": 7.0828881086856965
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Uničov",
+    "BLOK": "",
+    "HLASYPROC": 1.6777286135693217
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Ústí nad Labem",
+    "BLOK": "",
+    "HLASYPROC": 19.214168775115343
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Ústí nad Orlicí",
+    "BLOK": "",
+    "HLASYPROC": 15.77460810619969
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Valašské Klobouky",
+    "BLOK": "",
+    "HLASYPROC": 4.206081081081081
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Valašské Meziříčí",
+    "BLOK": "",
+    "HLASYPROC": 4.423380726698262
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Varnsdorf",
+    "BLOK": "",
+    "HLASYPROC": 3.8908659549228943
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Velké Meziříčí",
+    "BLOK": "",
+    "HLASYPROC": 2.6136699871782225
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Veselí nad Moravou",
+    "BLOK": "",
+    "HLASYPROC": 2.4687656171914045
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Vimperk",
+    "BLOK": "",
+    "HLASYPROC": 4.464285714285714
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Vítkov",
+    "BLOK": "",
+    "HLASYPROC": 1.4150943396226416
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Vizovice",
+    "BLOK": "",
+    "HLASYPROC": 4.958677685950414
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Vlašim",
+    "BLOK": "",
+    "HLASYPROC": 2.3366447460472926
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Vodňany",
+    "BLOK": "",
+    "HLASYPROC": 3.751143641354071
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Votice",
+    "BLOK": "",
+    "HLASYPROC": 3.5916824196597354
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Vrchlabí",
+    "BLOK": "",
+    "HLASYPROC": 3.6768113703074303
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Vsetín",
+    "BLOK": "",
+    "HLASYPROC": 4.088262335274288
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Vysoké Mýto",
+    "BLOK": "",
+    "HLASYPROC": 14.817320703653586
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Vyškov",
+    "BLOK": "",
+    "HLASYPROC": 3.6852943264929348
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Zábřeh",
+    "BLOK": "",
+    "HLASYPROC": 1.2749445676274944
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Zlín",
+    "BLOK": "",
+    "HLASYPROC": 5.2073483722815075
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Znojmo",
+    "BLOK": "",
+    "HLASYPROC": 3.5264900662251657
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Žamberk",
+    "BLOK": "",
+    "HLASYPROC": 14.723858206467385
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Žatec",
+    "BLOK": "",
+    "HLASYPROC": 16.993776926759217
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Žďár nad Sázavou",
+    "BLOK": "",
+    "HLASYPROC": 1.7226454293628808
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Železný Brod",
+    "BLOK": "",
+    "HLASYPROC": 5.283129013426737
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Židlochovice",
+    "BLOK": "",
+    "HLASYPROC": 9.69212072108568
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Aš",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.8642374375551
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Benešov",
+    "BLOK": "koalice",
+    "HLASYPROC": 47.78750303914418
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Beroun",
+    "BLOK": "koalice",
+    "HLASYPROC": 43.32598579475875
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Bílina",
+    "BLOK": "koalice",
+    "HLASYPROC": 73.58490566037736
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bílovec",
+    "BLOK": "koalice",
+    "HLASYPROC": 65.70860724659838
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Blansko",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.16854213553388
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Blatná",
+    "BLOK": "koalice",
+    "HLASYPROC": 46.71436142024377
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Blovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.71200910643142
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bohumín",
+    "BLOK": "koalice",
+    "HLASYPROC": 78.45408025855104
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Boskovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.041216486594635
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Brandýs nad Labem-Stará Boleslav",
+    "BLOK": "koalice",
+    "HLASYPROC": 35.40220061959192
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Brno",
+    "BLOK": "koalice",
+    "HLASYPROC": 38.542089298479496
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bruntál",
+    "BLOK": "koalice",
+    "HLASYPROC": 77.61194029850746
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Břeclav",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.79596678529063
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Bučovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 55.319624497094324
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Bystřice nad Pernštejnem",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.63825055596739
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Čáslav",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.18982097943483
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Černošice",
+    "BLOK": "koalice",
+    "HLASYPROC": 31.611787701097576
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Česká Lípa",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.33077517996311
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "České Budějovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 29.66461599523715
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Český Brod",
+    "BLOK": "koalice",
+    "HLASYPROC": 43.898340684730094
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Český Krumlov",
+    "BLOK": "koalice",
+    "HLASYPROC": 38.90495289618506
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Český Těšín",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.618705035971225
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Dačice",
+    "BLOK": "koalice",
+    "HLASYPROC": 47.53379612714651
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Děčín",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.09917355371901
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Dobříš",
+    "BLOK": "koalice",
+    "HLASYPROC": 46.90811323738732
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Domažlice",
+    "BLOK": "koalice",
+    "HLASYPROC": 55.13491330665846
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frenštát pod Radhoštěm",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.6419853539463
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frýdek-Místek",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.629102274700465
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Frýdlant",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.38375570596568
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frýdlant nad Ostravicí",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.94111001271007
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Havířov",
+    "BLOK": "koalice",
+    "HLASYPROC": 70.79005838888027
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Havlíčkův Brod",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.88165680473372
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Hlučín",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.784450118869415
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Hodonín",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.386587903604756
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Horažďovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.043533930857876
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Horšovský Týn",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.47072879330944
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Hořovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.85612443292288
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Hranice",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.36757775683318
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Humpolec",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.12771901816005
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Hustopeče",
+    "BLOK": "koalice",
+    "HLASYPROC": 48.20116423322836
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Cheb",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.83288570575947
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Chomutov",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.63606121091151
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Chotěboř",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.02880400751409
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Ivančice",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.21630094043886
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Jablonec nad Nisou",
+    "BLOK": "koalice",
+    "HLASYPROC": 45.04241214626845
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Jablunkov",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.55128205128205
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Jeseník",
+    "BLOK": "koalice",
+    "HLASYPROC": 68.42859189227904
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Jihlava",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.2563574842153
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Jilemnice",
+    "BLOK": "koalice",
+    "HLASYPROC": 39.77004252638211
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Jindřichův Hradec",
+    "BLOK": "koalice",
+    "HLASYPROC": 41.63582810965939
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Kadaň",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.903320188271216
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Kaplice",
+    "BLOK": "koalice",
+    "HLASYPROC": 40.91762252346194
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Karlovy Vary",
+    "BLOK": "koalice",
+    "HLASYPROC": 51.72777752283053
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Karviná",
+    "BLOK": "koalice",
+    "HLASYPROC": 82.78348933558387
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kladno",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.050727208229866
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Klatovy",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.30942852569233
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kolín",
+    "BLOK": "koalice",
+    "HLASYPROC": 55.5421686746988
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Konice",
+    "BLOK": "koalice",
+    "HLASYPROC": 62.92069066432543
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Kopřivnice",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.757889778615166
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Kralovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.95299008634474
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kralupy nad Vltavou",
+    "BLOK": "koalice",
+    "HLASYPROC": 50.24019215372297
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Kraslice",
+    "BLOK": "koalice",
+    "HLASYPROC": 50.84525357607282
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Kravaře",
+    "BLOK": "koalice",
+    "HLASYPROC": 65.05005177770107
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Krnov",
+    "BLOK": "koalice",
+    "HLASYPROC": 78.04915280109907
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Kuřim",
+    "BLOK": "koalice",
+    "HLASYPROC": 33.79014396456257
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kutná Hora",
+    "BLOK": "koalice",
+    "HLASYPROC": 55.22723747479448
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Kyjov",
+    "BLOK": "koalice",
+    "HLASYPROC": 47.75676199083338
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Liberec",
+    "BLOK": "koalice",
+    "HLASYPROC": 41.35318772290631
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Lipník nad Bečvou",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.10374104537013
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Litoměřice",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.677681398870995
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Litovel",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.19882468168463
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Litvínov",
+    "BLOK": "koalice",
+    "HLASYPROC": 65.22981043884705
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Louny",
+    "BLOK": "koalice",
+    "HLASYPROC": 65.94424288714913
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Lovosice",
+    "BLOK": "koalice",
+    "HLASYPROC": 67.83064164120472
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Lysá nad Labem",
+    "BLOK": "koalice",
+    "HLASYPROC": 42.137963995539266
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Mariánské Lázně",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.01019664967225
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mělník",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.27916992952232
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Mikulov",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.45587340231284
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Milevsko",
+    "BLOK": "koalice",
+    "HLASYPROC": 36.74151048431991
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mladá Boleslav",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.41379443735252
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mnichovo Hradiště",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.58217270194986
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Mohelnice",
+    "BLOK": "koalice",
+    "HLASYPROC": 69.62524654832347
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Moravské Budějovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 52.13911972914743
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Moravský Krumlov",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.39431396786156
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Most",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.356007446656164
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Náměšť nad Oslavou",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.56453822965195
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Nepomuk",
+    "BLOK": "koalice",
+    "HLASYPROC": 62.432518259765004
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Neratovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.314957202959526
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Nové Město na Moravě",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.29750614682121
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Nový Bor",
+    "BLOK": "koalice",
+    "HLASYPROC": 50.22734161867233
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Nový Jičín",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.767523551013895
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Nymburk",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.19036077188403
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Nýřany",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.48630871523557
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Odry",
+    "BLOK": "koalice",
+    "HLASYPROC": 66.02112676056338
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Olomouc",
+    "BLOK": "koalice",
+    "HLASYPROC": 52.10948025242856
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Opava",
+    "BLOK": "koalice",
+    "HLASYPROC": 62.90958737864077
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Orlová",
+    "BLOK": "koalice",
+    "HLASYPROC": 81.92786715101194
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Ostrava",
+    "BLOK": "koalice",
+    "HLASYPROC": 64.40057401123882
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Ostrov",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.31178934769599
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Pacov",
+    "BLOK": "koalice",
+    "HLASYPROC": 51.88255613126079
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Pelhřimov",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.87089219611694
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Písek",
+    "BLOK": "koalice",
+    "HLASYPROC": 41.08575380359613
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Plzeň",
+    "BLOK": "koalice",
+    "HLASYPROC": 50.0547175074566
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Podbořany",
+    "BLOK": "koalice",
+    "HLASYPROC": 75.8990874932904
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Poděbrady",
+    "BLOK": "koalice",
+    "HLASYPROC": 50.852110259636284
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Pohořelice",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.87134502923976
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Prachatice",
+    "BLOK": "koalice",
+    "HLASYPROC": 39.33807196801421
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Prostějov",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.96308724832215
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Přerov",
+    "BLOK": "koalice",
+    "HLASYPROC": 68.40083977674229
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Přeštice",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.29407883885865
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Příbram",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.79971935884289
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Rakovník",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.46025012798947
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Rokycany",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.14339861023373
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Rosice",
+    "BLOK": "koalice",
+    "HLASYPROC": 51.47243545010468
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Roudnice nad Labem",
+    "BLOK": "koalice",
+    "HLASYPROC": 55.93654667480171
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Rumburk",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.21112240453028
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Rýmařov",
+    "BLOK": "koalice",
+    "HLASYPROC": 76.6731463482366
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Říčany",
+    "BLOK": "koalice",
+    "HLASYPROC": 32.36124176857949
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Sedlčany",
+    "BLOK": "koalice",
+    "HLASYPROC": 47.13386927647676
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Semily",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.34681837336704
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Slaný",
+    "BLOK": "koalice",
+    "HLASYPROC": 55.64758256548296
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Slavkov u Brna",
+    "BLOK": "koalice",
+    "HLASYPROC": 45.29565977279347
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Soběslav",
+    "BLOK": "koalice",
+    "HLASYPROC": 35.17180356879516
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Sokolov",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.16122189223589
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Stod",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.49546142208775
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Strakonice",
+    "BLOK": "koalice",
+    "HLASYPROC": 43.80881624566617
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Stříbro",
+    "BLOK": "koalice",
+    "HLASYPROC": 68.02370523061066
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Sušice",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.995486782720825
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Světlá nad Sázavou",
+    "BLOK": "koalice",
+    "HLASYPROC": 60.44158233670653
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Šlapanice",
+    "BLOK": "koalice",
+    "HLASYPROC": 34.18592106446103
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Šternberk",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.04959549771368
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Šumperk",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.06258164113526
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Tábor",
+    "BLOK": "koalice",
+    "HLASYPROC": 37.928362321336316
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Tachov",
+    "BLOK": "koalice",
+    "HLASYPROC": 70.63050847457627
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Tanvald",
+    "BLOK": "koalice",
+    "HLASYPROC": 51.10970196575777
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Telč",
+    "BLOK": "koalice",
+    "HLASYPROC": 42.907005734230864
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Teplice",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.6420157647684
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Tišnov",
+    "BLOK": "koalice",
+    "HLASYPROC": 42.880829015544045
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Trhové Sviny",
+    "BLOK": "koalice",
+    "HLASYPROC": 34.36605489139586
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Třebíč",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.989195446652516
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Třeboň",
+    "BLOK": "koalice",
+    "HLASYPROC": 38.69892784700087
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Třinec",
+    "BLOK": "koalice",
+    "HLASYPROC": 64.094546123425
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Turnov",
+    "BLOK": "koalice",
+    "HLASYPROC": 36.924815119145435
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Týn nad Vltavou",
+    "BLOK": "koalice",
+    "HLASYPROC": 35.10375494071146
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Uničov",
+    "BLOK": "koalice",
+    "HLASYPROC": 62.18657817109145
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Ústí nad Labem",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.63149278166394
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Varnsdorf",
+    "BLOK": "koalice",
+    "HLASYPROC": 62.30130486358244
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Velké Meziříčí",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.73863300128218
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Veselí nad Moravou",
+    "BLOK": "koalice",
+    "HLASYPROC": 50.624687656171915
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Vimperk",
+    "BLOK": "koalice",
+    "HLASYPROC": 38.36996336996337
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Vítkov",
+    "BLOK": "koalice",
+    "HLASYPROC": 70.99056603773585
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Vlašim",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.35105638729537
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Vodňany",
+    "BLOK": "koalice",
+    "HLASYPROC": 38.94480024397682
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Votice",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.97920604914933
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Vyškov",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.52446211744656
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Zábřeh",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.749445676274945
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Znojmo",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.64900662251655
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Žatec",
+    "BLOK": "koalice",
+    "HLASYPROC": 66.04435934258815
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Žďár nad Sázavou",
+    "BLOK": "koalice",
+    "HLASYPROC": 52.38919667590027
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Železný Brod",
+    "BLOK": "koalice",
+    "HLASYPROC": 42.848803269118505
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Židlochovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 42.4346769293093
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Broumov",
+    "BLOK": "koalice",
+    "HLASYPROC": 61.076548552880716
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Bystřice pod Hostýnem",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.02836879432624
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Česká Třebová",
+    "BLOK": "koalice",
+    "HLASYPROC": 73.89012771133184
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Dobruška",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.96689984644259
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Dvůr Králové nad Labem",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.70797001682729
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Hlinsko",
+    "BLOK": "koalice",
+    "HLASYPROC": 70.00156568028808
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Holešov",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.955609926599095
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Holice",
+    "BLOK": "koalice",
+    "HLASYPROC": 65.09067357512953
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Hořice",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.861269404598154
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Hradec Králové",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.49656976457233
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Chrudim",
+    "BLOK": "koalice",
+    "HLASYPROC": 64.92580804231855
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Jaroměř",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.04609218436874
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Jičín",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.00726766661513
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Kostelec nad Orlicí",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.513409961685824
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Králíky",
+    "BLOK": "koalice",
+    "HLASYPROC": 80.75435203094777
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Kroměříž",
+    "BLOK": "koalice",
+    "HLASYPROC": 63.684869603092494
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Lanškroun",
+    "BLOK": "koalice",
+    "HLASYPROC": 73.44874871443264
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Litomyšl",
+    "BLOK": "koalice",
+    "HLASYPROC": 45.65541211519364
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Luhačovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 48.36884782198755
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Moravská Třebová",
+    "BLOK": "koalice",
+    "HLASYPROC": 78.65132630233302
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Náchod",
+    "BLOK": "koalice",
+    "HLASYPROC": 51.90564722286777
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nová Paka",
+    "BLOK": "koalice",
+    "HLASYPROC": 48.50568632636868
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nové Město nad Metují",
+    "BLOK": "koalice",
+    "HLASYPROC": 44.32825642191407
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nový Bydžov",
+    "BLOK": "koalice",
+    "HLASYPROC": 66.37014536775874
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Otrokovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.08330328164443
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Pardubice",
+    "BLOK": "koalice",
+    "HLASYPROC": 58.5776611648412
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Polička",
+    "BLOK": "koalice",
+    "HLASYPROC": 57.99737483592724
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Přelouč",
+    "BLOK": "koalice",
+    "HLASYPROC": 65.26486646008559
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Rožnov pod Radhoštěm",
+    "BLOK": "koalice",
+    "HLASYPROC": 52.612069964091276
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Rychnov nad Kněžnou",
+    "BLOK": "koalice",
+    "HLASYPROC": 56.1025641025641
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Svitavy",
+    "BLOK": "koalice",
+    "HLASYPROC": 69.42218473218051
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Trutnov",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.29730968122013
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Uherské Hradiště",
+    "BLOK": "koalice",
+    "HLASYPROC": 49.25360959295212
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Uherský Brod",
+    "BLOK": "koalice",
+    "HLASYPROC": 48.63379636696688
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Ústí nad Orlicí",
+    "BLOK": "koalice",
+    "HLASYPROC": 67.90001412229911
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Valašské Klobouky",
+    "BLOK": "koalice",
+    "HLASYPROC": 48.15878378378378
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Valašské Meziříčí",
+    "BLOK": "koalice",
+    "HLASYPROC": 54.381563051760985
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Vizovice",
+    "BLOK": "koalice",
+    "HLASYPROC": 47.95563288386255
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Vrchlabí",
+    "BLOK": "koalice",
+    "HLASYPROC": 53.79267727483392
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Vsetín",
+    "BLOK": "koalice",
+    "HLASYPROC": 46.343855347839416
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Vysoké Mýto",
+    "BLOK": "koalice",
+    "HLASYPROC": 59.19034731619305
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Zlín",
+    "BLOK": "koalice",
+    "HLASYPROC": 44.36377144400919
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Žamberk",
+    "BLOK": "koalice",
+    "HLASYPROC": 68.97433048116457
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Bystřice nad Pernštejnem",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.23054114158636
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Havlíčkův Brod",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.71653987038602
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Humpolec",
+    "BLOK": "opozice",
+    "HLASYPROC": 38.4154859309519
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Chotěboř",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.90670006261741
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Jihlava",
+    "BLOK": "opozice",
+    "HLASYPROC": 45.173893326821776
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Moravské Budějovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.02954755309326
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Náměšť nad Oslavou",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.873389969854756
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Nové Město na Moravě",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.10432033719705
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Pacov",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.25388601036269
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Pelhřimov",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.71640099720481
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Světlá nad Sázavou",
+    "BLOK": "opozice",
+    "HLASYPROC": 38.380864765409385
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Telč",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.497382198952884
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Třebíč",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.13447810148563
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Velké Meziříčí",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.6476970115396
+  },
+  {
+    "KRAJ": "Vysočina",
+    "ORP": "Žďár nad Sázavou",
+    "BLOK": "opozice",
+    "HLASYPROC": 45.88815789473684
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Broumov",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.678387882066545
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Dobruška",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.303190581811975
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Dvůr Králové nad Labem",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.23252256386722
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Hořice",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.07113381803891
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Hradec Králové",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.21933764374908
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Jaroměř",
+    "BLOK": "opozice",
+    "HLASYPROC": 31.603206412825653
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Jičín",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.884645121385496
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Kostelec nad Orlicí",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.7088122605364
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Náchod",
+    "BLOK": "opozice",
+    "HLASYPROC": 44.88728793864746
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nová Paka",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.43136736313144
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nové Město nad Metují",
+    "BLOK": "opozice",
+    "HLASYPROC": 52.693794044100926
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Nový Bydžov",
+    "BLOK": "opozice",
+    "HLASYPROC": 31.35170318941202
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Rychnov nad Kněžnou",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.98005698005698
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Trutnov",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.68508214963671
+  },
+  {
+    "KRAJ": "Královéhradecký",
+    "ORP": "Vrchlabí",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.53051135485864
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Aš",
+    "BLOK": "opozice",
+    "HLASYPROC": 8.75697913605642
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Cheb",
+    "BLOK": "opozice",
+    "HLASYPROC": 25.753506415995226
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Karlovy Vary",
+    "BLOK": "opozice",
+    "HLASYPROC": 29.10834748290579
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Kraslice",
+    "BLOK": "opozice",
+    "HLASYPROC": 13.881664499349805
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Mariánské Lázně",
+    "BLOK": "opozice",
+    "HLASYPROC": 28.495994173343043
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Ostrov",
+    "BLOK": "opozice",
+    "HLASYPROC": 23.89287851585877
+  },
+  {
+    "KRAJ": "Karlovarský",
+    "ORP": "Sokolov",
+    "BLOK": "opozice",
+    "HLASYPROC": 22.207406509485423
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Bystřice pod Hostýnem",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.38762533626804
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Holešov",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.94512408248864
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Kroměříž",
+    "BLOK": "opozice",
+    "HLASYPROC": 30.52757663200305
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Luhačovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.313407505185744
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Otrokovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.173097728092316
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Rožnov pod Radhoštěm",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.449554036835394
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Uherské Hradiště",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.93988090382576
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Uherský Brod",
+    "BLOK": "opozice",
+    "HLASYPROC": 44.28331552434743
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Valašské Klobouky",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.63513513513514
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Valašské Meziříčí",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.195056221540746
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Vizovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.08568943018704
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Vsetín",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.567882316886305
+  },
+  {
+    "KRAJ": "Zlínský",
+    "ORP": "Zlín",
+    "BLOK": "opozice",
+    "HLASYPROC": 50.42888018370931
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Blansko",
+    "BLOK": "opozice",
+    "HLASYPROC": 45.348837209302324
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Boskovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.65039349072963
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Brno",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.75455476342278
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Břeclav",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.21523658890207
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Bučovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.947697809566385
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Hodonín",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.538967577364566
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Hustopeče",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.8877755511022
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Ivančice",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.11598746081505
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Kuřim",
+    "BLOK": "opozice",
+    "HLASYPROC": 62.901439645625686
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Kyjov",
+    "BLOK": "opozice",
+    "HLASYPROC": 48.195726550900524
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Mikulov",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.65469669304118
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Moravský Krumlov",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.9283065512979
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Pohořelice",
+    "BLOK": "opozice",
+    "HLASYPROC": 34.87719298245614
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Rosice",
+    "BLOK": "opozice",
+    "HLASYPROC": 45.205861828332175
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Slavkov u Brna",
+    "BLOK": "opozice",
+    "HLASYPROC": 48.86396737547335
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Šlapanice",
+    "BLOK": "opozice",
+    "HLASYPROC": 60.99073990829812
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Tišnov",
+    "BLOK": "opozice",
+    "HLASYPROC": 53.36787564766839
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Veselí nad Moravou",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.906546726636684
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Vyškov",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.790243556060496
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Znojmo",
+    "BLOK": "opozice",
+    "HLASYPROC": 38.824503311258276
+  },
+  {
+    "KRAJ": "Jihomoravský",
+    "ORP": "Židlochovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.87320234960502
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Benešov",
+    "BLOK": "opozice",
+    "HLASYPROC": 48.893751519572085
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Beroun",
+    "BLOK": "opozice",
+    "HLASYPROC": 52.17976977712466
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Brandýs nad Labem-Stará Boleslav",
+    "BLOK": "opozice",
+    "HLASYPROC": 61.69212690951822
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Čáslav",
+    "BLOK": "opozice",
+    "HLASYPROC": 33.570054741825714
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Černošice",
+    "BLOK": "opozice",
+    "HLASYPROC": 64.38630782338495
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Český Brod",
+    "BLOK": "opozice",
+    "HLASYPROC": 53.01407267380802
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Dobříš",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.849754863197845
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Hořovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.36098509397278
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kladno",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.44448385952465
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kolín",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.53734939759036
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kralupy nad Vltavou",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.50386976247665
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Kutná Hora",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.68605552970374
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Lysá nad Labem",
+    "BLOK": "opozice",
+    "HLASYPROC": 54.61207583240402
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mělník",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.51174628034456
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mladá Boleslav",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.84364241228579
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Mnichovo Hradiště",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.154795065658575
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Neratovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.53692151458001
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Nymburk",
+    "BLOK": "opozice",
+    "HLASYPROC": 39.89931947422392
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Poděbrady",
+    "BLOK": "opozice",
+    "HLASYPROC": 44.54992565480956
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Příbram",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.06622051918614
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Rakovník",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.12228479485117
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Říčany",
+    "BLOK": "opozice",
+    "HLASYPROC": 64.64821508144773
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Sedlčany",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.80775952464173
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Slaný",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.687441764157775
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Vlašim",
+    "BLOK": "opozice",
+    "HLASYPROC": 44.31229886665734
+  },
+  {
+    "KRAJ": "Středočeský",
+    "ORP": "Votice",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.42911153119093
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bílovec",
+    "BLOK": "opozice",
+    "HLASYPROC": 33.175355450236964
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bohumín",
+    "BLOK": "opozice",
+    "HLASYPROC": 20.468623754376512
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Bruntál",
+    "BLOK": "opozice",
+    "HLASYPROC": 20.871054563249327
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Český Těšín",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.068345323741006
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frenštát pod Radhoštěm",
+    "BLOK": "opozice",
+    "HLASYPROC": 39.13751017087063
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frýdek-Místek",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.0963708977253
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Frýdlant nad Ostravicí",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.816127665583956
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Havířov",
+    "BLOK": "opozice",
+    "HLASYPROC": 27.597788456570036
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Hlučín",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.2733996654046
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Jablunkov",
+    "BLOK": "opozice",
+    "HLASYPROC": 39.35897435897436
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Karviná",
+    "BLOK": "opozice",
+    "HLASYPROC": 16.334202854073958
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Kopřivnice",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.584079133301934
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Kravaře",
+    "BLOK": "opozice",
+    "HLASYPROC": 33.82809803244736
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Krnov",
+    "BLOK": "opozice",
+    "HLASYPROC": 21.004426805067926
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Nový Jičín",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.651764330193195
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Odry",
+    "BLOK": "opozice",
+    "HLASYPROC": 31.287726358148895
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Opava",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.75166868932039
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Orlová",
+    "BLOK": "opozice",
+    "HLASYPROC": 16.683964711987546
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Ostrava",
+    "BLOK": "opozice",
+    "HLASYPROC": 34.44335662459933
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Rýmařov",
+    "BLOK": "opozice",
+    "HLASYPROC": 21.9661205220772
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Třinec",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.08691253563874
+  },
+  {
+    "KRAJ": "Moravskoslezský",
+    "ORP": "Vítkov",
+    "BLOK": "opozice",
+    "HLASYPROC": 27.594339622641513
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Česká Lípa",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.082396335296565
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Frýdlant",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.444986620494255
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Jablonec nad Nisou",
+    "BLOK": "opozice",
+    "HLASYPROC": 47.74395894219118
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Jilemnice",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.567805953693494
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Liberec",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.91278994090542
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Nový Bor",
+    "BLOK": "opozice",
+    "HLASYPROC": 45.49863595028796
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Semily",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.43910661609777
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Tanvald",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.20439653350243
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Turnov",
+    "BLOK": "opozice",
+    "HLASYPROC": 57.91906327033689
+  },
+  {
+    "KRAJ": "Liberecký",
+    "ORP": "Železný Brod",
+    "BLOK": "opozice",
+    "HLASYPROC": 51.86806771745476
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Blatná",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.25808161102279
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "České Budějovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 65.68763643580075
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Český Krumlov",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.582501632310425
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Dačice",
+    "BLOK": "opozice",
+    "HLASYPROC": 48.72122762148338
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Jindřichův Hradec",
+    "BLOK": "opozice",
+    "HLASYPROC": 51.18948719885205
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Kaplice",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.11991657977059
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Milevsko",
+    "BLOK": "opozice",
+    "HLASYPROC": 52.829838560029685
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Písek",
+    "BLOK": "opozice",
+    "HLASYPROC": 51.950207468879675
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Prachatice",
+    "BLOK": "opozice",
+    "HLASYPROC": 54.64238116392715
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Soběslav",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.97994396106769
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Strakonice",
+    "BLOK": "opozice",
+    "HLASYPROC": 49.009410599306584
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Tábor",
+    "BLOK": "opozice",
+    "HLASYPROC": 55.803340795591524
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Trhové Sviny",
+    "BLOK": "opozice",
+    "HLASYPROC": 62.08115844418253
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Třeboň",
+    "BLOK": "opozice",
+    "HLASYPROC": 56.896551724137936
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Týn nad Vltavou",
+    "BLOK": "opozice",
+    "HLASYPROC": 60.79545454545454
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Vimperk",
+    "BLOK": "opozice",
+    "HLASYPROC": 57.16575091575091
+  },
+  {
+    "KRAJ": "Jihočeský",
+    "ORP": "Vodňany",
+    "BLOK": "opozice",
+    "HLASYPROC": 57.30405611466911
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Hranice",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.61781338360038
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Jeseník",
+    "BLOK": "opozice",
+    "HLASYPROC": 30.511388053287497
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Konice",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.00146327187591
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Lipník nad Bečvou",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.71239055452375
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Litovel",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.76069213189683
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Mohelnice",
+    "BLOK": "opozice",
+    "HLASYPROC": 28.555774709620863
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Olomouc",
+    "BLOK": "opozice",
+    "HLASYPROC": 46.496017395825945
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Prostějov",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.044463087248324
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Přerov",
+    "BLOK": "opozice",
+    "HLASYPROC": 30.134671514158427
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Šternberk",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.03341540626099
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Šumperk",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.120532003325025
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Uničov",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.13569321533923
+  },
+  {
+    "KRAJ": "Olomoucký",
+    "ORP": "Zábřeh",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.97560975609756
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Blovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 40.77973819009675
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Domažlice",
+    "BLOK": "opozice",
+    "HLASYPROC": 42.48486713860675
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Horažďovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.035851472471194
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Horšovský Týn",
+    "BLOK": "opozice",
+    "HLASYPROC": 33.572281959378735
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Klatovy",
+    "BLOK": "opozice",
+    "HLASYPROC": 36.729630222506806
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Kralovice",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.00031979533099
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Nepomuk",
+    "BLOK": "opozice",
+    "HLASYPROC": 35.47157827881867
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Nýřany",
+    "BLOK": "opozice",
+    "HLASYPROC": 43.50468291985415
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Plzeň",
+    "BLOK": "opozice",
+    "HLASYPROC": 48.15784391562775
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Přeštice",
+    "BLOK": "opozice",
+    "HLASYPROC": 38.61124855682006
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Rokycany",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.550852811118126
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Stod",
+    "BLOK": "opozice",
+    "HLASYPROC": 37.367624810892586
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Stříbro",
+    "BLOK": "opozice",
+    "HLASYPROC": 29.734604483380572
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Sušice",
+    "BLOK": "opozice",
+    "HLASYPROC": 41.13475177304964
+  },
+  {
+    "KRAJ": "Plzeňský",
+    "ORP": "Tachov",
+    "BLOK": "opozice",
+    "HLASYPROC": 26.793220338983048
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Bílina",
+    "BLOK": "opozice",
+    "HLASYPROC": 14.289678135405106
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Děčín",
+    "BLOK": "opozice",
+    "HLASYPROC": 33.48209366391185
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Chomutov",
+    "BLOK": "opozice",
+    "HLASYPROC": 25.908183632734534
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Kadaň",
+    "BLOK": "opozice",
+    "HLASYPROC": 34.83017427808167
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Litoměřice",
+    "BLOK": "opozice",
+    "HLASYPROC": 30.90320804075451
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Litvínov",
+    "BLOK": "opozice",
+    "HLASYPROC": 19.31965723188782
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Louny",
+    "BLOK": "opozice",
+    "HLASYPROC": 20.784800458277637
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Lovosice",
+    "BLOK": "opozice",
+    "HLASYPROC": 24.312527280663467
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Most",
+    "BLOK": "opozice",
+    "HLASYPROC": 11.986252327080052
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Podbořany",
+    "BLOK": "opozice",
+    "HLASYPROC": 18.19645732689211
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Roudnice nad Labem",
+    "BLOK": "opozice",
+    "HLASYPROC": 32.82489322757779
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Rumburk",
+    "BLOK": "opozice",
+    "HLASYPROC": 39.30593872513431
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Teplice",
+    "BLOK": "opozice",
+    "HLASYPROC": 23.61615445930387
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Ústí nad Labem",
+    "BLOK": "opozice",
+    "HLASYPROC": 27.154338443220716
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Varnsdorf",
+    "BLOK": "opozice",
+    "HLASYPROC": 33.80782918149466
+  },
+  {
+    "KRAJ": "Ústecký",
+    "ORP": "Žatec",
+    "BLOK": "opozice",
+    "HLASYPROC": 16.961863730652624
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Česká Třebová",
+    "BLOK": "opozice",
+    "HLASYPROC": 13.460368943847556
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Hlinsko",
+    "BLOK": "opozice",
+    "HLASYPROC": 12.963832785345234
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Holice",
+    "BLOK": "opozice",
+    "HLASYPROC": 20.72538860103627
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Chrudim",
+    "BLOK": "opozice",
+    "HLASYPROC": 21.231003720805127
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Králíky",
+    "BLOK": "opozice",
+    "HLASYPROC": 11.702127659574469
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Lanškroun",
+    "BLOK": "opozice",
+    "HLASYPROC": 15.666780939321221
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Litomyšl",
+    "BLOK": "opozice",
+    "HLASYPROC": 28.761171797418072
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Moravská Třebová",
+    "BLOK": "opozice",
+    "HLASYPROC": 11.489293704058804
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Pardubice",
+    "BLOK": "opozice",
+    "HLASYPROC": 29.18815022729353
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Polička",
+    "BLOK": "opozice",
+    "HLASYPROC": 24.620288768048006
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Přelouč",
+    "BLOK": "opozice",
+    "HLASYPROC": 22.325512763759775
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Svitavy",
+    "BLOK": "opozice",
+    "HLASYPROC": 17.025165190496274
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Ústí nad Orlicí",
+    "BLOK": "opozice",
+    "HLASYPROC": 16.325377771501202
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Vysoké Mýto",
+    "BLOK": "opozice",
+    "HLASYPROC": 25.99233198015336
+  },
+  {
+    "KRAJ": "Pardubický",
+    "ORP": "Žamberk",
+    "BLOK": "opozice",
+    "HLASYPROC": 16.30181131236804
+  }
+]
