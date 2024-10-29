@@ -64,11 +64,11 @@ function Map({
       suffix = " (index)";
       break;
     case "KOALICE":
-      title = "Kde si polepšila koalice";
+      title = "Kde si polepšila opozice";
       suffix = " p. b.";
       break;
     case "OPOZICE":
-      title = "Kde si polepšila opozice";
+      title = "Kde si polepšila koalice";
       suffix = " p. b.";
       break;
     default:
