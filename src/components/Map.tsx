@@ -71,27 +71,39 @@ function Map({
       title = "Kde si polepšila koalice";
       suffix = " p. b.";
       break;
+    case "UCAST":
+      title = "Jak se změnila účast";
+      suffix = " p. b.";
+      break;
+
     default:
       title = "Nevím";
-  };
+  }
 
   let subtitle;
   switch (property) {
     case "ZNEV":
-      subtitle = "Projevuje se nižším vzděláním (málo lidí s maturitou) a nezaměstnaností";
+      subtitle =
+        "Projevuje se nižším vzděláním (málo lidí s maturitou) a nezaměstnaností";
       break;
     case "CHUD":
-      subtitle = "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
+      subtitle =
+        "Projevuje se exekucemi, bytovou nouzí rodin a životem v sociálně vyloučeném prostředí";
       break;
     case "KOALICE":
-      subtitle = "Rozdíl mezi hlasy pro ANO, ČSSD, KSČM, SPD a Přísahu v krajských volbách 2020 a 2024";
+      subtitle =
+        "Rozdíl mezi hlasy pro ANO, ČSSD, KSČM, SPD a Přísahu v krajských volbách 2020 a 2024";
       break;
     case "OPOZICE":
-      subtitle = "Rozdíl mezi hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020 a 2024";
+      subtitle =
+        "Rozdíl mezi hlasy pro ODS, Piráty, STAN, KDU-ČSL, TOP 09 a regionální partnery v krajských volbách 2020 a 2024";
+      break;
+    case "UCAST":
+      subtitle = "Rozdíl mezi účastí v krajských volbách 2020 a 2024";
       break;
     default:
       subtitle = "";
-  };
+  }
 
   const updateDimensions = () => {
     if (containerRef.current) {
@@ -100,11 +112,11 @@ function Map({
         kraj === ""
           ? geodata
           : ({
-            ...geodata,
-            features: geodata.features.filter(
-              (item) => item.properties?.kraj_id === kraj,
-            ),
-          } as FeatureCollection);
+              ...geodata,
+              features: geodata.features.filter(
+                (item) => item.properties?.kraj_id === kraj
+              ),
+            } as FeatureCollection);
 
       projection.fitSize([width, width], filteredGeodata);
 
@@ -129,18 +141,18 @@ function Map({
 
   const geodata = feature(
     topoData,
-    topoData.objects.tracts,
+    topoData.objects.tracts
   ) as FeatureCollection;
 
   const filteredGeodata =
     kraj === ""
       ? geodata
       : ({
-        ...geodata,
-        features: geodata.features.filter(
-          (item) => item.properties?.kraj_id === kraj,
-        ),
-      } as FeatureCollection);
+          ...geodata,
+          features: geodata.features.filter(
+            (item) => item.properties?.kraj_id === kraj
+          ),
+        } as FeatureCollection);
 
   const projection = d3.geoMercator();
   const geoPathGenerator = d3.geoPath().projection(projection);
@@ -157,11 +169,33 @@ function Map({
       colorInterpolator = d3.interpolateRgb("#fffdf0  ", "#e6001d"); //d3.interpolateReds;
       break;
     case "KOALICE":
-      colorInterpolator = d3.interpolateRgbBasis(['#d7191c', '#fdae61', '#ffffbf', '#a6d96a', '#1a9641']); //d3.interpolatePurples;
+      colorInterpolator = d3.interpolateRgbBasis([
+        "#d7191c",
+        "#fdae61",
+        "#ffffbf",
+        "#a6d96a",
+        "#1a9641",
+      ]); //d3.interpolatePurples;
       break;
     case "OPOZICE":
-      colorInterpolator = d3.interpolateRgbBasis(['#d7191c', '#fdae61', '#ffffbf', '#a6d96a', '#1a9641']); //d3.interpolatePurples;
+      colorInterpolator = d3.interpolateRgbBasis([
+        "#d7191c",
+        "#fdae61",
+        "#ffffbf",
+        "#a6d96a",
+        "#1a9641",
+      ]); //d3.interpolatePurples;
       break;
+    case "UCAST":
+      colorInterpolator = d3.interpolateRgbBasis([
+        "#d7191c",
+        "#fdae61",
+        "#ffffbf",
+        "#a6d96a",
+        "#1a9641",
+      ]); //d3.interpolatePurples;
+      break;
+
     default:
       colorInterpolator = d3.interpolateRgb("#f9f1ed", "#c94300"); // d3.interpolateOranges;
   }
@@ -174,11 +208,28 @@ function Map({
     <TooltipProvider delayDuration={150}>
       <div ref={containerRef}>
         <div className={"text-lg font-bold"}>{title}</div>
-        <div className={"text-[0.8rem] leading-[1rem] text-zinc-400 pb-2 xs:h-12"}>{subtitle}</div>
-        <div className={"pb-2"}>
-          <BeeSwarm orps={orps} colorScale={colorScale} filteredData={filteredGeodata.features} data={geodata.features} property={property} activeTooltip={activeTooltip} setTooltip={setTooltip} />
+        <div
+          className={"text-[0.8rem] leading-[1rem] text-zinc-400 pb-2 xs:h-12"}
+        >
+          {subtitle}
         </div>
-        <svg width={dimensions.width} height={dimensions.height} strokeLinecap="round" shapeRendering={"geometricPrecision"}>
+        <div className={"pb-2"}>
+          <BeeSwarm
+            orps={orps}
+            colorScale={colorScale}
+            filteredData={filteredGeodata.features}
+            data={geodata.features}
+            property={property}
+            activeTooltip={activeTooltip}
+            setTooltip={setTooltip}
+          />
+        </div>
+        <svg
+          width={dimensions.width}
+          height={dimensions.height}
+          strokeLinecap="round"
+          shapeRendering={"geometricPrecision"}
+        >
           {filteredGeodata.features.map((shape) => (
             <Tooltip
               key={shape.id}
@@ -210,7 +261,12 @@ function Map({
                   <div>
                     <p>
                       {shape.properties
-                        ? `${orps.find((orp) => orp.id === Number(shape.id))?.name}: ${shape.properties[property].toLocaleString("cs", { signDisplay: "exceptZero" })} ${suffix}`
+                        ? `${
+                            orps.find((orp) => orp.id === Number(shape.id))
+                              ?.name
+                          }: ${shape.properties[property].toLocaleString("cs", {
+                            signDisplay: "exceptZero",
+                          })} ${suffix}`
                         : "No data"}
                     </p>
                   </div>

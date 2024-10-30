@@ -1,0 +1,1232 @@
+[
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Benešov",
+    "UCAST20": 43.26,
+    "UCAST24": 34.77
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Beroun",
+    "UCAST20": 41.24,
+    "UCAST24": 32.66
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Brandýs nad Labem-Stará Boleslav",
+    "UCAST20": 46.02,
+    "UCAST24": 34.52
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Čáslav",
+    "UCAST20": 36.5,
+    "UCAST24": 33.64
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Černošice",
+    "UCAST20": 47.9,
+    "UCAST24": 36.47
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Český Brod",
+    "UCAST20": 40.13,
+    "UCAST24": 31.64
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Dobříš",
+    "UCAST20": 40.75,
+    "UCAST24": 34.79
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Hořovice",
+    "UCAST20": 38.81,
+    "UCAST24": 33.51
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Kladno",
+    "UCAST20": 37.3,
+    "UCAST24": 29.69
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Kolín",
+    "UCAST20": 39,
+    "UCAST24": 32.6
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Kralupy nad Vltavou",
+    "UCAST20": 38.14,
+    "UCAST24": 30.97
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Kutná Hora",
+    "UCAST20": 37.88,
+    "UCAST24": 33.18
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Lysá nad Labem",
+    "UCAST20": 40.3,
+    "UCAST24": 29.88
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Mělník",
+    "UCAST20": 35.2,
+    "UCAST24": 29.66
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Mladá Boleslav",
+    "UCAST20": 39.52,
+    "UCAST24": 32.82
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Mnichovo Hradiště",
+    "UCAST20": 41.89,
+    "UCAST24": 36.5
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Neratovice",
+    "UCAST20": 34.43,
+    "UCAST24": 28.05
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Nymburk",
+    "UCAST20": 38.62,
+    "UCAST24": 34.23
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Poděbrady",
+    "UCAST20": 41.5,
+    "UCAST24": 35.45
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Příbram",
+    "UCAST20": 38.33,
+    "UCAST24": 33.72
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Rakovník",
+    "UCAST20": 37.53,
+    "UCAST24": 31.61
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Říčany",
+    "UCAST20": 47.9,
+    "UCAST24": 37.52
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Sedlčany",
+    "UCAST20": 40.1,
+    "UCAST24": 32.63
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Slaný",
+    "UCAST20": 36.21,
+    "UCAST24": 31.16
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Vlašim",
+    "UCAST20": 38.89,
+    "UCAST24": 34.86
+  },
+  {
+    "KRAJ": "Středočeský kraj",
+    "ORP": "Votice",
+    "UCAST20": 36.27,
+    "UCAST24": 31.94
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Blatná",
+    "UCAST20": 38.45,
+    "UCAST24": 35.24
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "České Budějovice",
+    "UCAST20": 45.07,
+    "UCAST24": 39.95
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Český Krumlov",
+    "UCAST20": 37.47,
+    "UCAST24": 33.65
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Dačice",
+    "UCAST20": 37.36,
+    "UCAST24": 36.59
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Jindřichův Hradec",
+    "UCAST20": 38.02,
+    "UCAST24": 35.6
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Kaplice",
+    "UCAST20": 34.73,
+    "UCAST24": 32.67
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Milevsko",
+    "UCAST20": 38.49,
+    "UCAST24": 36.53
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Písek",
+    "UCAST20": 37.45,
+    "UCAST24": 35.34
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Prachatice",
+    "UCAST20": 35.87,
+    "UCAST24": 34.3
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Soběslav",
+    "UCAST20": 38.5,
+    "UCAST24": 38.51
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Strakonice",
+    "UCAST20": 37.54,
+    "UCAST24": 34.32
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Tábor",
+    "UCAST20": 39.28,
+    "UCAST24": 36.84
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Trhové Sviny",
+    "UCAST20": 41.19,
+    "UCAST24": 38.75
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Třeboň",
+    "UCAST20": 37.49,
+    "UCAST24": 35.85
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Týn nad Vltavou",
+    "UCAST20": 37.24,
+    "UCAST24": 36.42
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Vimperk",
+    "UCAST20": 33.1,
+    "UCAST24": 32.12
+  },
+  {
+    "KRAJ": "Jihočeský kraj",
+    "ORP": "Vodňany",
+    "UCAST20": 35.04,
+    "UCAST24": 36.74
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Blovice",
+    "UCAST20": 40.08,
+    "UCAST24": 36.42
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Domažlice",
+    "UCAST20": 38.63,
+    "UCAST24": 32.21
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Horažďovice",
+    "UCAST20": 37.66,
+    "UCAST24": 34.14
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Horšovský Týn",
+    "UCAST20": 33.62,
+    "UCAST24": 29.59
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Klatovy",
+    "UCAST20": 38.21,
+    "UCAST24": 32.19
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Kralovice",
+    "UCAST20": 40.63,
+    "UCAST24": 34.69
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Nepomuk",
+    "UCAST20": 39.72,
+    "UCAST24": 35.77
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Nýřany",
+    "UCAST20": 38.76,
+    "UCAST24": 30.72
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Plzeň",
+    "UCAST20": 41.77,
+    "UCAST24": 33.61
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Přeštice",
+    "UCAST20": 40.83,
+    "UCAST24": 34.14
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Rokycany",
+    "UCAST20": 38.02,
+    "UCAST24": 33.94
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Stod",
+    "UCAST20": 34.73,
+    "UCAST24": 29.41
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Stříbro",
+    "UCAST20": 33.7,
+    "UCAST24": 29.7
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Sušice",
+    "UCAST20": 38.62,
+    "UCAST24": 32.72
+  },
+  {
+    "KRAJ": "Plzeňský kraj",
+    "ORP": "Tachov",
+    "UCAST20": 29.84,
+    "UCAST24": 28.07
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Aš",
+    "UCAST20": 29.9,
+    "UCAST24": 26.59
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Cheb",
+    "UCAST20": 33.83,
+    "UCAST24": 27.22
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Karlovy Vary",
+    "UCAST20": 39.31,
+    "UCAST24": 33.19
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Kraslice",
+    "UCAST20": 32.47,
+    "UCAST24": 30.3
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Mariánské Lázně",
+    "UCAST20": 34.06,
+    "UCAST24": 29.87
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Ostrov",
+    "UCAST20": 36.42,
+    "UCAST24": 31.62
+  },
+  {
+    "KRAJ": "Karlovarský kraj",
+    "ORP": "Sokolov",
+    "UCAST20": 32.04,
+    "UCAST24": 28.37
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Bílina",
+    "UCAST20": 24.34,
+    "UCAST24": 23.6
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Děčín",
+    "UCAST20": 32.01,
+    "UCAST24": 30.35
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Chomutov",
+    "UCAST20": 28.19,
+    "UCAST24": 24.52
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Kadaň",
+    "UCAST20": 28.12,
+    "UCAST24": 23.96
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Litoměřice",
+    "UCAST20": 36.41,
+    "UCAST24": 32.2
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Litvínov",
+    "UCAST20": 31.09,
+    "UCAST24": 26.58
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Louny",
+    "UCAST20": 36.15,
+    "UCAST24": 30.56
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Lovosice",
+    "UCAST20": 34.45,
+    "UCAST24": 32.29
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Most",
+    "UCAST20": 27.67,
+    "UCAST24": 24.76
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Podbořany",
+    "UCAST20": 28.72,
+    "UCAST24": 30.37
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Roudnice nad Labem",
+    "UCAST20": 37.02,
+    "UCAST24": 32.03
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Rumburk",
+    "UCAST20": 30.49,
+    "UCAST24": 27.37
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Teplice",
+    "UCAST20": 28.91,
+    "UCAST24": 27.22
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Ústí nad Labem",
+    "UCAST20": 33.66,
+    "UCAST24": 29.52
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Varnsdorf",
+    "UCAST20": 31.4,
+    "UCAST24": 27.24
+  },
+  {
+    "KRAJ": "Ústecký kraj",
+    "ORP": "Žatec",
+    "UCAST20": 31.51,
+    "UCAST24": 29.66
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Česká Lípa",
+    "UCAST20": 32.24,
+    "UCAST24": 28.72
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Frýdlant",
+    "UCAST20": 36.43,
+    "UCAST24": 33.12
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Jablonec nad Nisou",
+    "UCAST20": 40.57,
+    "UCAST24": 32.63
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Jilemnice",
+    "UCAST20": 45.21,
+    "UCAST24": 36.98
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Liberec",
+    "UCAST20": 43.01,
+    "UCAST24": 35.18
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Nový Bor",
+    "UCAST20": 37.96,
+    "UCAST24": 31.21
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Semily",
+    "UCAST20": 43.61,
+    "UCAST24": 35.81
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Tanvald",
+    "UCAST20": 36.45,
+    "UCAST24": 30.03
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Turnov",
+    "UCAST20": 48.25,
+    "UCAST24": 38.17
+  },
+  {
+    "KRAJ": "Liberecký kraj",
+    "ORP": "Železný Brod",
+    "UCAST20": 44.06,
+    "UCAST24": 36.38
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Broumov",
+    "UCAST20": 32.85,
+    "UCAST24": 29.79
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Dobruška",
+    "UCAST20": 45.05,
+    "UCAST24": 37.26
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Dvůr Králové nad Labem",
+    "UCAST20": 38.69,
+    "UCAST24": 30.54
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Hořice",
+    "UCAST20": 39.05,
+    "UCAST24": 35.22
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Hradec Králové",
+    "UCAST20": 44.36,
+    "UCAST24": 35.79
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Jaroměř",
+    "UCAST20": 35.66,
+    "UCAST24": 33.86
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Jičín",
+    "UCAST20": 39.51,
+    "UCAST24": 34.68
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Kostelec nad Orlicí",
+    "UCAST20": 38.4,
+    "UCAST24": 31.78
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Náchod",
+    "UCAST20": 42.81,
+    "UCAST24": 36.84
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Nová Paka",
+    "UCAST20": 42.11,
+    "UCAST24": 36.2
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Nové Město nad Metují",
+    "UCAST20": 44.64,
+    "UCAST24": 39.61
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Nový Bydžov",
+    "UCAST20": 34.2,
+    "UCAST24": 33.04
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Rychnov nad Kněžnou",
+    "UCAST20": 40.94,
+    "UCAST24": 33.48
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Trutnov",
+    "UCAST20": 38.61,
+    "UCAST24": 30.9
+  },
+  {
+    "KRAJ": "Královéhradecký kraj",
+    "ORP": "Vrchlabí",
+    "UCAST20": 41.13,
+    "UCAST24": 30.62
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Česká Třebová",
+    "UCAST20": 41.54,
+    "UCAST24": 35.08
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Hlinsko",
+    "UCAST20": 41.63,
+    "UCAST24": 38.45
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Holice",
+    "UCAST20": 40.87,
+    "UCAST24": 33.02
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Chrudim",
+    "UCAST20": 39.19,
+    "UCAST24": 34.22
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Králíky",
+    "UCAST20": 35.11,
+    "UCAST24": 30.84
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Lanškroun",
+    "UCAST20": 38.8,
+    "UCAST24": 33
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Litomyšl",
+    "UCAST20": 46.03,
+    "UCAST24": 39.03
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Moravská Třebová",
+    "UCAST20": 33.91,
+    "UCAST24": 30.29
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Pardubice",
+    "UCAST20": 42.62,
+    "UCAST24": 33.65
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Polička",
+    "UCAST20": 41.44,
+    "UCAST24": 34.94
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Přelouč",
+    "UCAST20": 40.3,
+    "UCAST24": 34.5
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Svitavy",
+    "UCAST20": 33.5,
+    "UCAST24": 29.56
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Ústí nad Orlicí",
+    "UCAST20": 42.82,
+    "UCAST24": 34.41
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Vysoké Mýto",
+    "UCAST20": 41.49,
+    "UCAST24": 35.83
+  },
+  {
+    "KRAJ": "Pardubický kraj",
+    "ORP": "Žamberk",
+    "UCAST20": 47.94,
+    "UCAST24": 39.56
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Bystřice nad Pernštejnem",
+    "UCAST20": 35.13,
+    "UCAST24": 34.67
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Havlíčkův Brod",
+    "UCAST20": 40.13,
+    "UCAST24": 34.93
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Humpolec",
+    "UCAST20": 37.28,
+    "UCAST24": 36.44
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Chotěboř",
+    "UCAST20": 41.13,
+    "UCAST24": 37.09
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Jihlava",
+    "UCAST20": 41.37,
+    "UCAST24": 37.23
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Moravské Budějovice",
+    "UCAST20": 37.53,
+    "UCAST24": 35.96
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Náměšť nad Oslavou",
+    "UCAST20": 35.39,
+    "UCAST24": 34.63
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Nové Město na Moravě",
+    "UCAST20": 42.03,
+    "UCAST24": 37.41
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Pacov",
+    "UCAST20": 41.95,
+    "UCAST24": 39.39
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Pelhřimov",
+    "UCAST20": 41.08,
+    "UCAST24": 37.47
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Světlá nad Sázavou",
+    "UCAST20": 36.21,
+    "UCAST24": 34.93
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Telč",
+    "UCAST20": 41.04,
+    "UCAST24": 39.22
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Třebíč",
+    "UCAST20": 39.34,
+    "UCAST24": 35.97
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Velké Meziříčí",
+    "UCAST20": 36.92,
+    "UCAST24": 35.93
+  },
+  {
+    "KRAJ": "Kraj Vysočina",
+    "ORP": "Žďár nad Sázavou",
+    "UCAST20": 40.86,
+    "UCAST24": 34.64
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Blansko",
+    "UCAST20": 40.29,
+    "UCAST24": 36.19
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Boskovice",
+    "UCAST20": 37.84,
+    "UCAST24": 36.45
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Brno",
+    "UCAST20": 41.45,
+    "UCAST24": 34.7
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Břeclav",
+    "UCAST20": 33.64,
+    "UCAST24": 32.59
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Bučovice",
+    "UCAST20": 34.74,
+    "UCAST24": 34.25
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Hodonín",
+    "UCAST20": 33.42,
+    "UCAST24": 30.88
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Hustopeče",
+    "UCAST20": 37.18,
+    "UCAST24": 36.6
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Ivančice",
+    "UCAST20": 35.31,
+    "UCAST24": 32.58
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Kuřim",
+    "UCAST20": 46.31,
+    "UCAST24": 40.46
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Kyjov",
+    "UCAST20": 37.34,
+    "UCAST24": 34.63
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Mikulov",
+    "UCAST20": 30.49,
+    "UCAST24": 30.61
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Moravský Krumlov",
+    "UCAST20": 35.12,
+    "UCAST24": 35.8
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Pohořelice",
+    "UCAST20": 34.2,
+    "UCAST24": 36.61
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Rosice",
+    "UCAST20": 37.34,
+    "UCAST24": 34.82
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Slavkov u Brna",
+    "UCAST20": 41.29,
+    "UCAST24": 36.46
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Šlapanice",
+    "UCAST20": 48.02,
+    "UCAST24": 41.56
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Tišnov",
+    "UCAST20": 42.71,
+    "UCAST24": 38.67
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Veselí nad Moravou",
+    "UCAST20": 33.78,
+    "UCAST24": 33.34
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Vyškov",
+    "UCAST20": 36.94,
+    "UCAST24": 34.21
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Znojmo",
+    "UCAST20": 33.5,
+    "UCAST24": 33.13
+  },
+  {
+    "KRAJ": "Jihomoravský kraj",
+    "ORP": "Židlochovice",
+    "UCAST20": 41.93,
+    "UCAST24": 38.5
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Hranice",
+    "UCAST20": 35.77,
+    "UCAST24": 31.53
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Jeseník",
+    "UCAST20": 31.61,
+    "UCAST24": 23.52
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Konice",
+    "UCAST20": 38.87,
+    "UCAST24": 35.87
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Lipník nad Bečvou",
+    "UCAST20": 35.61,
+    "UCAST24": 30.84
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Litovel",
+    "UCAST20": 40.2,
+    "UCAST24": 32.93
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Mohelnice",
+    "UCAST20": 35.08,
+    "UCAST24": 31.02
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Olomouc",
+    "UCAST20": 41.28,
+    "UCAST24": 32.78
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Prostějov",
+    "UCAST20": 37.03,
+    "UCAST24": 31.48
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Přerov",
+    "UCAST20": 35.22,
+    "UCAST24": 31.18
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Šternberk",
+    "UCAST20": 33.89,
+    "UCAST24": 29.63
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Šumperk",
+    "UCAST20": 34.67,
+    "UCAST24": 31.15
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Uničov",
+    "UCAST20": 37.43,
+    "UCAST24": 30.73
+  },
+  {
+    "KRAJ": "Olomoucký kraj",
+    "ORP": "Zábřeh",
+    "UCAST20": 39.07,
+    "UCAST24": 34.67
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Bystřice pod Hostýnem",
+    "UCAST20": 36.65,
+    "UCAST24": 33.24
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Holešov",
+    "UCAST20": 39.62,
+    "UCAST24": 32.92
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Kroměříž",
+    "UCAST20": 39.81,
+    "UCAST24": 33.92
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Luhačovice",
+    "UCAST20": 42.72,
+    "UCAST24": 36.11
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Otrokovice",
+    "UCAST20": 39.62,
+    "UCAST24": 31.14
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Rožnov pod Radhoštěm",
+    "UCAST20": 39.88,
+    "UCAST24": 31.29
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Uherské Hradiště",
+    "UCAST20": 41.6,
+    "UCAST24": 34.33
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Uherský Brod",
+    "UCAST20": 37.58,
+    "UCAST24": 31.94
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Valašské Klobouky",
+    "UCAST20": 36.63,
+    "UCAST24": 32.62
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Valašské Meziříčí",
+    "UCAST20": 40.1,
+    "UCAST24": 32.84
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Vizovice",
+    "UCAST20": 43.25,
+    "UCAST24": 33.86
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Vsetín",
+    "UCAST20": 37.89,
+    "UCAST24": 31.9
+  },
+  {
+    "KRAJ": "Zlínský kraj",
+    "ORP": "Zlín",
+    "UCAST20": 48.82,
+    "UCAST24": 37.94
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Bílovec",
+    "UCAST20": 35.7,
+    "UCAST24": 32.1
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Bohumín",
+    "UCAST20": 29.4,
+    "UCAST24": 27.59
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Bruntál",
+    "UCAST20": 27.45,
+    "UCAST24": 28.42
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Český Těšín",
+    "UCAST20": 31.51,
+    "UCAST24": 28.32
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Frenštát pod Radhoštěm",
+    "UCAST20": 36.38,
+    "UCAST24": 31.95
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Frýdek-Místek",
+    "UCAST20": 36.17,
+    "UCAST24": 32.38
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Frýdlant nad Ostravicí",
+    "UCAST20": 40.97,
+    "UCAST24": 34.94
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Havířov",
+    "UCAST20": 30.03,
+    "UCAST24": 28.14
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Hlučín",
+    "UCAST20": 34.78,
+    "UCAST24": 35.21
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Jablunkov",
+    "UCAST20": 33.71,
+    "UCAST24": 26.33
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Karviná",
+    "UCAST20": 27.69,
+    "UCAST24": 26.35
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Kopřivnice",
+    "UCAST20": 37.43,
+    "UCAST24": 33.05
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Kravaře",
+    "UCAST20": 30.1,
+    "UCAST24": 34.7
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Krnov",
+    "UCAST20": 28.35,
+    "UCAST24": 20.6
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Nový Jičín",
+    "UCAST20": 36.29,
+    "UCAST24": 32.7
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Odry",
+    "UCAST20": 31.98,
+    "UCAST24": 30.01
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Opava",
+    "UCAST20": 35.98,
+    "UCAST24": 33.18
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Orlová",
+    "UCAST20": 25.25,
+    "UCAST24": 26
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Ostrava",
+    "UCAST20": 33.35,
+    "UCAST24": 30.02
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Rýmařov",
+    "UCAST20": 27.75,
+    "UCAST24": 29.69
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Třinec",
+    "UCAST20": 29.31,
+    "UCAST24": 25.3
+  },
+  {
+    "KRAJ": "Moravskoslezský kraj",
+    "ORP": "Vítkov",
+    "UCAST20": 29.06,
+    "UCAST24": 32.17
+  }
+]
