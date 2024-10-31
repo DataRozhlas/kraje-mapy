@@ -5,15 +5,14 @@ import Map from "./components/Map";
 
 import { usePostMessageWithHeight } from "./hooks/usePostHeightMessage";
 
-function App({ kraj, index }: { kraj: string | null; index: string | null }) {
+function App({ kraj }: { kraj: string | null }) {
   const [selectedKraj, setSelectedKraj] = useState(kraj || "");
   // const selectedKraj = kraj || "";
-  const setIndex = index || "";
+  //const setIndex = index || "";
 
   const [activeTooltip, setActiveTooltip] = useState("");
-  const { containerRef, postHeightMessage } = usePostMessageWithHeight(
-    `map-ucast${kraj}-${setIndex}`
-  );
+  const { containerRef, postHeightMessage } =
+    usePostMessageWithHeight(`map-ucast-rozdil`);
 
   useEffect(() => {
     postHeightMessage();
